@@ -4,7 +4,7 @@ var KindleConverter = require("./KindleConverter");
 var GPlayConverter = require('./GooglePlayConverter')
 
 
-file = "tsaongaf.html"
+file = "/Users/tshah/Documents/Else/t27/kindlehigh/raw/KindleHighlights/tsaongaf.html"
 var kfile = fs.readFileSync(file)
 var kindleConverter = new KindleConverter(kfile);
 if (kindleConverter.valid) {

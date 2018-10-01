@@ -5,7 +5,7 @@ const cheerio = require("cheerio");
  * pandoc -f docx -t html -o file.html file.docx
  */
 
- 
+
 /**
  * Convert google play books HTML into JSON
  * @param {String} html
@@ -45,6 +45,26 @@ Converter.prototype.getJSON = function () {
     };
 };
 
+Converter.prototype.getH2 = function (elem) {
+    // Go elem.parent till elem.parent.type=='body'
+    // then go to elem.prevSibling till elem.type=='h2'
+    // then take
+    while(elem.parent != null && elem.parent.name !== "body") {
+        elem = elem.parent
+    }
+    
+    while (elem.prev!= null && elem.prev.name!=="h2") {
+        elem=elem.prev
+    }
+    if(elem.prev == null) {
+        return ""
+    }
+    elem = elem.prev
+    var v = this.getChildData(elem)
+    console.log(v)
+    return v
+}
+
 /**
  * Parse the highlights and notes from the HTML
  * @returns {Array} highlights
@@ -57,10 +77,12 @@ Converter.prototype.highlights = function () {
     var highlights = []
     for (var i = 0; i < parentElems.length; i++) {
         var elem = parentElems[i]
+        var chapter = this.getH2(elem)
         var locn = this.getChildData(location[i])
         // console.log(elem.children.length)
         var children = this.cleanChildren(elem.children)
         children.push(locn)
+        children.unshift(chapter)
         highlights.push(children)
         // console.log(children)
     }
@@ -68,8 +90,11 @@ Converter.prototype.highlights = function () {
     var finalResult = []
     for (var i = 0; i < highlights.length; i++) {
         var highlightJSON = {}
+        var chapter = highlights[i][0][0].split("\n").map(item => item.trim()).join(' ')
+        highlights[i].shift()
         var length = highlights[i].length
         var content = highlights[i][0][0].split("\n").map(item => item.trim()).join(' ')
+        highlightJSON["chapter"] = chapter
         highlightJSON["content"] = content;
         highlightJSON["date"] = highlights[i][length - 2][0]
         highlightJSON["location"] = highlights[i][length - 1][0]
@@ -77,7 +102,7 @@ Converter.prototype.highlights = function () {
             highlightJSON["locationlink"] = highlights[i][length - 1][1]
         }
         if (length > 3) {
-            highlightJSON["notes"] = highlights[i][length - 3][0]
+            highlightJSON["notes"] = highlights[i][length - 3][0].split("\n").map(item => item.trim()).join(' ')
         }
         finalResult.push(highlightJSON)
     }
