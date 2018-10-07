@@ -1,7 +1,7 @@
 
 import glob
 import os
-docxFiles = glob.glob("./Play Books Notes/*.docx")
+docxFiles = glob.glob("./raw/Play Books Notes/*.docx")
 
 for f in docxFiles:
     name,ext = os.path.splitext(f)

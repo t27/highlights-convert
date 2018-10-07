@@ -12,7 +12,7 @@ Conversion scripts for Google Play Books(Exported to Drive) and Kindle Email exp
 
 ## Kindle Highlights/Notes conversion
 
-1. Using the Android or iOS apps, export your notes to an email. The kindle app attaches a html file of your highlights
+1. Using the Kindle Android or iOS apps, for each book, export your notes to an email. The kindle app attaches an html file of your highlights
 2. Use this html file and the KindleConverter module to convert the highlights to json
 
 Special thanks to @sawyerh for the kindle-email-to-json package, from which the Kindle Converter was derived

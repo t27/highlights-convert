@@ -46,6 +46,23 @@ Converter.prototype.getJSON = function () {
 };
 
 /**
+ * Gets the Section heading for the given node, if available
+ * @param {Node} elem 
+ * @returns {String} Section/Chapter Heading
+ */
+Converter.prototype.getHeading = function (elem) {
+    while (elem.prev != null && !(elem.prev.attribs && elem.prev.attribs.class && elem.prev.attribs.class === "sectionHeading")) {
+        elem = elem.prev
+    }
+    if (elem.prev == null) {
+        return ""
+    }
+    elem = elem.prev
+    var v = elem.children[0].data.trim()
+    return v
+}
+
+/**
  * Parse the highlights and notes from the HTML
  * @returns {Array} highlights
  */
@@ -60,7 +77,7 @@ Converter.prototype.highlights = function () {
             .text()
             .trim();
         const text = heading.text().trim();
-
+        const section = this.getHeading(el)
         const location = text.match(/location\s(\d*)/i);
 
         if (location) {
@@ -70,11 +87,11 @@ Converter.prototype.highlights = function () {
                 // the note directly after the text it's added on.
                 if (highlights.length) {
                     const highlight = highlights[highlights.length - 1];
-                    highlight.notes = this.highlightContent(location[1], color, el);
+                    highlight.notes = this.highlightContent(location[1], color, el, section);
                 }
             } else {
                 highlights = highlights.concat(
-                    this.highlightContent(location[1], color, el)
+                    this.highlightContent(location[1], color, el,section)
                 );
             }
         }
@@ -88,9 +105,10 @@ Converter.prototype.highlights = function () {
  * @param  {String} location - The highlight location
  * @param  {String} color
  * @param  {Node} el
+ * @param  {String} section - section heading
  * @return {Array} The parsed highlight objects
  */
-Converter.prototype.highlightContent = function (location, color, el) {
+Converter.prototype.highlightContent = function (location, color, el, section) {
     let highlights = [];
     const nextEl = cheerio(el).next();
 
@@ -100,7 +118,8 @@ Converter.prototype.highlightContent = function (location, color, el) {
             content: cheerio(nextEl)
                 .text()
                 .trim(),
-            location: location
+            location: location,
+            chapter: section
         };
 
         highlights.push(highlight);

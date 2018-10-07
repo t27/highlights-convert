@@ -39,7 +39,7 @@ Converter.prototype.getJSON = function () {
     return {
         volume: {
             title: title.split("\n").map(item => item.trim()).join(' '),
-            authors: authors
+            authors: [authors]
         },
         highlights: this.highlights()
     };
@@ -61,7 +61,6 @@ Converter.prototype.getH2 = function (elem) {
     }
     elem = elem.prev
     var v = this.getChildData(elem)
-    console.log(v)
     return v
 }
 

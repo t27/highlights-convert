@@ -1,0 +1,17 @@
+{
+  "volume": {
+    "title": "Moonwalking With Einstein",
+    "authors": [
+      "Joshua Foer"
+    ]
+  },
+  "highlights": [
+    {
+      "chapter": "Moonwalking With Einstein",
+      "content": "While S’s capacious memory for facts seems almost unbelievable, he was in fact taking advantage of the well-developed spatial memory we all possess. If you visit London, you’ll occasionally cross paths with young men (and less often women) on motor scooters, blithely darting in and out of traffic while studying maps affixed to their handlebars. These studious cyclists are training to become London cabdrivers. Before they can receive accreditation from London’s Public Carriage Office, cabbies-in-training must spend two to four years memorizing the locations and traffic patterns of all 25,000 streets in the vast and vastly confusing city, as well as the locations of 1,400 landmarks. Their training culminates in an infamously daunting exam called “the Knowledge,” in which they not only have to plot the shortest route between any two points in the metropolitan area, but also name important places of interest along the way. Only about three out of ten people who train for the Knowledge obtain certification. In 2000, a neuroscientist at University College London named Eleanor Maguire wanted to find out what effect, if any, all that driving around the labyrinthine streets of London might have on the cabbies’ brains. When she brought sixteen taxi drivers into her lab and examined their brains in an MRI scanner, she found one surprising and important difference. The right posterior hippocampus, a part of the brain known to be involved in spatial navigation, was 7 percent larger than normal in the cabbies—a small but very significant difference. Maguire concluded that all of that way-finding around London had physically altered the gross structure of their brains. The more years a cabbie had been on the road, the more pronounced the effect. The brain is a mutable organ, capable—within limits—of reorganizing itself and readapting to new kinds of sensory input, a phenomenon known as neuroplasticity. It had long been thought that the adult brain was incapable of spawning new neurons—that while learning caused synapses to rearrange themselves and new links between brain cells to form, the brain’s basic anatomical structure was more or less static. Maguire’s study suggested the old inherited wisdom was simply not true.",
+      "date": "December 31, 2015",
+      "location": "1",
+      "notes": "How people need to be trained before they can become cab drivers in London."
+    }
+  ]
+}
