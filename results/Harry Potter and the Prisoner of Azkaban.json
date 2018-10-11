@@ -1,0 +1,22 @@
+{
+  "volume": {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "authors": [
+      "J. K. Rowling"
+    ]
+  },
+  "highlights": [
+    {
+      "color": "blue",
+      "content": "‘It does not,’ said Dumbledore quietly. ‘Hasn’t your experience with the Time-Turner taught you anything, Harry? The consequences of our actions are always so complicated, so diverse, that predicting the future is a very difficult business indeed ...",
+      "location": "5686",
+      "chapter": "1 • Owl Post"
+    },
+    {
+      "color": "blue",
+      "content": "‘You think the dead we have loved ever truly leave us? You think that we don’t recall them more clearly than ever in times of great trouble? Your father is alive in you, Harry, and shows himself most",
+      "location": "5702",
+      "chapter": "1 • Owl Post"
+    }
+  ]
+}

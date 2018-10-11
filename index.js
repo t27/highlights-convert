@@ -4,7 +4,7 @@ const path = require('path');
 const KindleConverter = require("./KindleConverter");
 const GPlayConverter = require('./GooglePlayConverter')
 const glob = require('glob')
-KindleNotes = "./raw/KindleHighlightsExports/*.html"
+KindleNotes = "./raw/KindleHighlights/*.html"
 PlayBooksNotes = "./raw/Play Books Notes/*.html"
 
 function convertAllKindleFiles() {

@@ -1,0 +1,22 @@
+{
+  "volume": {
+    "title": "Harry Potter and the Goblet of Fire",
+    "authors": [
+      "J.K. Rowling"
+    ]
+  },
+  "highlights": [
+    {
+      "color": "yellow",
+      "content": "Courage in the face of the unknown is an important quality in a wizard… very important",
+      "location": "3750",
+      "chapter": "Chapter 17 - The Four Champions"
+    },
+    {
+      "color": "yellow",
+      "content": "It is a strange thing, but when you are dreading something, and would give anything to slow down time, it has a disobliging habit of speeding up.",
+      "location": "4234",
+      "chapter": "Chapter 19 - The Hungarian Horntail"
+    }
+  ]
+}
