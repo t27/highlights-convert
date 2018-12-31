@@ -1,0 +1,94 @@
+---
+layout: highlight
+title: "The Martian"
+authors: "Andy Weir"
+---
+
+
+## Chapter 1
+
+ > You’d be amazed at how fast you can get going with a tiny acceleration over a long time.
+
+| Location: 18 | 
+ Date: January 2, 2016 |
+<br>
+
+----------
+<br><br>
+
+## Chapter 17
+
+ > I tried not to panic. The troubleshooting sheet has a list of things to try if communication is lost. They are (in order): 1. Confirm power still flowing to Pathfinder . 2. Reboot rover. 3. Reboot Pathfinder by disconnecting/reconnecting power. 4. Install rover’s comm software on the other rover’s computer, try from there. 5. If both rovers fail, problem is likely with Pathfinder . Check connections very closely. Clean Pathfinder of Martian dust. 6. Spell message in Morse code with rocks, include things attempted. Problem may be recoverable with remote update of Pathfinder . I only got as far as step 1. I checked Pathfinder ’s connections and the negative lead was no longer attached. I was elated! What a relief! With a smile on my face, I fetched my electronics kit and prepared to reattach the lead. I pulled it out of the probe to give it a good cleaning (as best I could with the gloves of my space suit) and noticed something strange. The insulation had melted. I pondered this development. Melted insulation usually means a short. More current than the wire could handle had passed through. But the bare portion of the wire wasn’t black or even singed, and the positive lead’s insulation wasn’t melted at all. Then, one by one, the horrible realities of Mars came into play. The wire wouldn’t be burned or singed. That’s a result of oxidization. And there’s no oxygen in the air. There likely was a short after all. But with the positive lead being unaffected, the power must have come from somewhere else.… And the drill’s breaker tripped around the same time.… Oh…shit… The internal electronics for Pathfinder included a ground lead to the hull. This way it could not build up a static charge in Martian weather conditions (no water and frequent sandblasting can make impressive static charge). The hull sat on Panel A, one of four sides of the tetrahedron which brought Pathfinder to Mars. The other three sides are still in Ares Vallis where I left them. Between Panel A and the workbench were the Mylar balloons Pathfinder had used to tumble-land. I had shredded many of them to transport it, but a lot of material remained—enough to reach around Panel A and be in contact with the hull. I should mention that Mylar is conductive. At 13:30, I leaned the drill against the workbench. The drill’s cowling was off to make room for the power line. The workbench is metal. If the drill leaned against the workbench just right, it could make a metal-to-metal connection. And that’s exactly what had happened. Power traveled from the drill line’s positive lead, through the workbench, through the Mylar, through Pathfinder ’s hull, through a bunch of extremely sensitive and irreplaceable electronics, and out the negative lead of Pathfinder ’s power line. Pathfinder operates on 50 milliamps. It got 9000 milliamps, which plowed through the delicate electronics, frying everything along the way. The breakers tripped, but it was too late.
+
+
+Notes:`Amazingly realistic details! Totally relate to it! 😂😁`
+| Location: 214 | 
+ Date: January 13, 2016 |
+<br>
+
+----------
+<br><br>
+
+## Chapter 22
+
+ > So this time around, I needed a reliable way to fix my position on Mars. Latitude and longitude. That’s the key. The first is easy. Ancient sailors on Earth figured that one out right away. Earth’s 23.5-degree axis points at Polaris. Mars has a tilt of just over 25 degrees, so it’s pointed at Deneb. Making a sextant isn’t hard. All you need is a tube to look through, a string, a weight, and something with degree markings. I made mine in under an hour. So I go out every night with a homemade sextant and sight Deneb. It’s kind of silly if you think about it. I’m in my space suit on Mars and I’m navigating with sixteenth-century tools. But hey, they work. Longitude is a different matter. On Earth, the earliest way to work out longitude required them to know the exact time, then compare it to the sun’s position in the sky. The hard part for them back then was inventing a clock that would work on a boat (pendulums don’t work on boats). All the top scientific minds of the age worked on the problem. Fortunately, I have accurate clocks. There are four computers in my immediate line of sight right now. And I have Phobos. Because Phobos is ridiculously close to Mars, it orbits the planet in less than one Martian day. It travels west to east (unlike the sun and Deimos) and sets every eleven hours. And naturally, it moves in a very predictable pattern. I spend thirteen hours every sol just sitting around while the solar panels charge the batteries. Phobos is guaranteed to set at least once during that time. I note the time when it does. Then I plug it into a nasty formula I worked out and I know my longitude. So working out longitude requires Phobos to set, and working out latitude requires it to be night so I can sight Deneb. It’s not a very fast system. But I only need it once a day. I work out my location when I’m parked, and account for it in the next day’s travel. It’s kind of a successive approximation thing. So far, I think it’s been working. But who knows? I can see it now: me holding a map, scratching my head, trying to figure out how I ended up on Venus.
+
+
+Notes:`Navigating Mars - do it like the humans did long long ago`
+| Location: 268 | 
+ Date: January 15, 2016 |
+<br>
+
+----------
+<br><br>
+
+## Chapter 23
+
+ > January 15, 2016
+
+| Location: 278 | 
+ Date: January 15, 2016 |
+<br>
+
+ > I think I can work this out. I’m on the very edge of a storm. I don’t know its size or heading. But it’s moving, and that’s something I can take advantage of. I don’t have to wander around exploring it. It’ll come to me. The storm is just dust in the air; it’s not dangerous to the rovers. I can think of it as “percent power loss.” I checked yesterday’s power generation, and it was 97 percent of optimal. So right now, it’s a 3 percent storm. I need to make progress and I need to regenerate oxygen. Those are my two main goals. I use 20 percent of my overall power to reclaim oxygen (when I stop for Air Days). If I end up in an 81 percent part of the storm, I’ll be in real trouble. I’ll run out of oxygen even if I dedicate all available power to producing it. That’s the fatal scenario. But really, it’s fatal much earlier than that. I need power to move or I’ll be stranded until the storm passes or dissipates. That could be months. The more power I generate, the more I’ll have for movement. With clear skies, I dedicate 80 percent of my total power toward movement. I get 90 kilometers per sol this way. So right now, at 3 percent loss, I’m getting 2.7 kilometers less than I should. It’s okay to lose some driving distance per sol. I have plenty of time, but I can’t let myself get too deep in the storm or I’ll never be able to get out. At the very least, I need to travel faster than the storm. If I can go faster, I can maneuver around it without being enveloped. So I need to find out how fast it’s moving. I can do that by sitting here for a sol. I can compare tomorrow’s wattage to today’s. All I have to do is make sure to compare at the same times of day. Then I’ll know how fast the storm is moving, at least in terms of percent power loss. But I need to know the shape of the storm, too. Dust storms are big. They can be thousands of kilometers across. So when I work my way around it, I’ll need to know which way to go. I’ll want to move perpendicular to the storm’s movement, and in whatever direction has less storm. So here’s my plan: Right now, I can go 86 kilometers (because I couldn’t get a full battery yesterday). Tomorrow, I’m going to leave a solar cell here and drive 40 kilometers due south. Then I’ll drop off another solar cell and drive another 40 kilometers due south. That’ll give me three points of reference across 80 kilometers. The next day, I’ll go back to collect the cells and get the data. By comparing the wattage at the same time of day in those three locations, I’ll learn the shape of the storm. If the storm is thicker to the south, I’ll go north to get around it. If it’s thicker north, I’ll go south. I’m hoping to go south. Schiaparelli is southeast of me. Going north would add a lot of time to my total trip. There’s one slight problem with my plan: I don’t have any way to “record” the wattage from an abandoned solar cell. I can easily track and log wattage with the rover computer, but I need something I can drop off and leave behind. I can’t just take readings as I drive along. I need readings at the same time in different places. So I’m going to spend today working on some mad science. I have to make something that can log wattage. Something I can leave behind with a single solar cell. Since I’m stuck here for the day anyway, I’ll leave the solar cells out. I may as well get a full battery out of it.
+
+
+Notes:`Another great problem solving example - 1`
+| Location: 278 | 
+ Date: January 15, 2016 |
+<br>
+
+ > LOG ENTRY: SOL 477 It took all day yesterday and today, but I think I’m ready to measure this storm. I needed a way to log the time of day and the wattage of each solar cell. One of the cells would be with me, but the other two would be dropped off and left far away. And the solution was the extra EVA suit I brought along. EVA suits have cameras recording everything they see. There’s one on the right arm (or the left if the astronaut is left-handed) and another above the faceplate. A time stamp is burned into the lower left corner of the image, just like on the shaky home videos Dad used to take. My electronics kit has several power meters. So I figured, why make my own logging system? I can just film the power meter all day long. So that’s what I set up. When I packed for this road trip, I made sure to bring all my kits and tools. Just in case I had to repair the rover en route. First, I harvested the cameras from my spare EVA suit. I had to be careful; I didn’t want to ruin the suit. It’s my only spare. I extracted the cameras and the lines leading to their memory chips. I put a power meter into a small sample container, then glued a camera to the underside of the lid. When I sealed up the container, the camera was properly recording the readout of the power meter. For testing, I used rover power. How will my logger get power once I abandon it on the surface? It’ll be attached to a two-square-meter solar cell! That’ll provide plenty of power. And I put a small rechargeable battery in the container to tide it over during nighttime (again, harvested from the spare EVA suit). The next problem was heat, or the lack thereof. As soon as I take this thing out of the rover, it’ll start cooling down mighty fast. If it gets too cold, the electronics will stop working. So I needed a heat source. And my electronics kit provided the answer: resistors. Lots and lots of them. Resistors heat up. It’s what they do. The camera and the power meter only need a tiny fraction of what a solar cell can make. So the rest of the energy goes through resistors. I made and tested two “power loggers” and confirmed that the images were being properly recorded. Then I had an EVA. I detached two of my solar cells and hooked them up to the power loggers. I let them log happily for an hour, then brought them back in to check the results. They worked great. It’s getting toward nightfall now. Tomorrow morning, I’ll leave one power logger behind and head south. While I was working, I left the oxygenator going (why not?). So I’m all stocked up on O 2 and good to go. The solar cell efficiency for today was 92.5 percent. Compared to yesterday’s 97 percent. This proves the storm is moving east to west, because the denser part of the storm was to the east yesterday. So right now, the sunlight in this area is dropping by 4.5 percent per sol. If I were to stay here another sixteen sols, it would get dark enough to kill me. Just as well I’m not going to stay here.
+
+
+Notes:`Another great problem solving example - 2`
+| Location: 279 | 
+ Date: January 15, 2016 |
+<br>
+
+ > LOG ENTRY: SOL 478 Everything went as planned today. No hiccups. I can’t tell if I’m driving deeper into the storm or out of it. It’s hard to tell if the ambient light is less or more than it was yesterday. The human brain works hard to abstract that out. I left a power logger behind when I started out. Then, after 40 kilometers’ travel due south, I had a quick EVA to set up another. Now I’ve gone the full 80 kilometers, set up my solar cells for charging, and I’m logging the wattage. Tomorrow, I’ll have to reverse course and pick up the power loggers. It may be dangerous; I’ll be driving right back into a known storm area. But the risk is worth the gain.
+
+
+Notes:`Another great problem solving example - 3`
+| Location: 281 | 
+ Date: January 15, 2016 |
+<br>
+
+ > LOG ENTRY: SOL 479 Have you ever taken the wrong freeway entrance? You just need to drive to the next exit to turn around, but you hate every inch of travel because you’re going away from your goal. I felt like that all day. I’m now back where I started yesterday morning. Yuk. Along the way, I picked up the power logger I’d left behind at the halfway point. Just now I brought in the one I’d left here yesterday. Both loggers worked the way I’d hoped. I downloaded each of their video recordings to a laptop and advanced them to noon. Finally I had solar efficiency readings from three locations along an 80-kilometer line, all from the same time of day. As of noon yesterday, the northernmost logger showed 12.3 percent efficiency loss, the middle one had a 9.5 percent loss, and the rover recorded a 6.4 percent loss at its southernmost location. It paints a pretty clear picture: The storm’s north of me. And I already worked out it’s traveling west. So I should be able to avoid it by heading south a ways, letting it pass me to the north, then heading east again. Finally, some good news! Southeast is what I wanted. I won’t lose much time. Sigh…I have to drive the same god damned path a third time tomorrow.
+
+
+Notes:`Another great problem solving example - 4`
+| Location: 282 | 
+ Date: January 15, 2016 |
+<br>
+
+ > If there were no storm, I’d be going directly southeast toward my goal. As it is, going only south, I’m not nearly as fast. I’m traveling 90 kilometers per day as usual, but I only get 37 kilometers closer to Schiaparelli because Pythagoras is a dick.
+
+
+Notes:`😁 lol`
+| Location: 283 | 
+ Date: January 15, 2016 |
+<br>
+
+----------
+<br><br>

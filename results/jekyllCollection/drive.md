@@ -1,0 +1,382 @@
+---
+layout: highlight
+title: "Drive"
+authors: "Daniel H. Pink"
+---
+
+
+## Part One - A New Operating System
+
+ > However, when contingent rewards aren’t involved, or when incentives are used with the proper deftness, performance improves and understanding deepens. Greatness and nearsightedness are incompatible. Meaningful achievement depends on lifting one’s sights and pushing toward the horizon
+
+| Location: 59 | 
+ Date: March 2, 2016 |
+<br>
+
+ > CARROTS AND STICKS: The Seven Deadly Flaws 1. They can extinguish intrinsic motivation. 2. They can diminish performance. 3. They can crush creativity. 4. They can crowd out good behavior. 5. They can encourage cheating, shortcuts, and unethical behavior. 6. They can become addictive. 7. They can foster short-term thinking.
+
+| Location: 59 | 
+ Date: March 2, 2016 |
+<br>
+
+ > Glucksberg’s experiment provides the first question you should ask when contemplating external motivators: Is the task at hand routine? That is, does accomplishing it require following a prescribed set of rules to a specified end?
+
+| Location: 62 | 
+ Date: March 2, 2016 |
+<br>
+
+ > For routine tasks, which aren’t very interesting and don’t demand much creative thinking, rewards can provide a small motivational booster shot without the harmful side effects. In some ways, that’s just common sense. As Edward Deci, Richard Ryan, and Richard Koestner explain, “Rewards do not undermine people’s intrinsic motivation for dull tasks because there is little or no intrinsic motivation to be undermined.”
+
+| Location: 62 | 
+ Date: March 2, 2016 |
+<br>
+
+ > But “as long as the task involved only mechanical skill, bonuses worked as they would be expected: the higher the pay, the better the performance
+
+| Location: 62 | 
+ Date: March 2, 2016 |
+<br>
+
+ > for some people, much of what they do all day consists of these routine, not terribly captivating, tasks. In these situations, it’s best to try to unleash the positive side of the Sawyer Effect by attempting to turn work into play—to increase the task’s variety, to make it more like a game, or to use it to help master other skills. Alas, that’s not always possible. And this means that sometimes, even “if-then” rewards are an option.
+
+| Location: 62 | 
+ Date: March 2, 2016 |
+<br>
+
+ > What’s the best way to enlist your staff of ten, and maybe a few others, in a massive weekend poster mailing session? The task is the very definition of routine: The people participating must roll up the posters, slide them into the mailing tubes, cap those tubes, and apply a mailing label and the proper postage. Four steps—none of them notably interesting. One managerial option is coercion. If you’re the boss, you could force people to spend their Saturday and Sunday on this mind-numbing project. They might comply, but the damage to their morale and long-term commitment could be substantial. Another option is to ask for volunteers. But face it: Most people can think of far better ways to spend a weekend. So in this case, an “if-then” reward might be effective. For instance, you could promise a big office-wide party if everybody pitches in on the project. You could offer a gift certificate to everyone who participates. Or you could go further and pay people a small sum for every poster they insert, enclose, and send—in the hope that the piecework fee will boost their productivity. While such tangible, contingent rewards can often undermine intrinsic motivation and creativity, those drawbacks matter less here. The assignment neither inspires deep passion nor requires deep thinking. Carrots, in this case, won’t hurt and might help. And you’ll increase your chances of success by supplementing the poster-packing rewards with three important practices: • Offer a rationale for why the task is necessary. A job that’s not inherently interesting can become more meaningful, and therefore more engaging, if it’s part of a larger purpose. Explain why this poster is so important and why sending it out now is critical to your organization’s mission. • Acknowledge that the task is boring. This is an act of empathy, of course. And the acknowledgment will help people understand why this is the rare instance when “if-then” rewards are part of how your organization operates. • Allow people to complete the task their own way . Think autonomy, not control. State the outcome you need. But instead of specifying precisely the way to reach it—how each poster must be rolled and how each mailing label must be affixed—give them freedom over how they do the job.
+
+| Location: 63 | 
+ Date: March 2, 2016 |
+<br>
+
+ > The essential requirement: Any extrinsic reward should be unexpected and offered only after the task is complete. Holding out a prize at the beginning of a project—and offering it as a contingency—will inevitably focus people’s attention on obtaining the reward rather than on attacking the problem. But introducing the subject of rewards after the job is done is less risky. In other words, where “if-then” rewards are a mistake, shift to “now that” rewards —as in “Now that you’ve finished the poster and it turned out so well, I’d like to celebrate by taking you out to lunch.” As Deci and his colleagues explain, “If tangible rewards are given unexpectedly to people after they have finished a task, the rewards are less likely to be experienced as the reason for doing the task and are thus less likely to be detrimental to intrinsic motivation.” 4 Likewise, Amabile has found in some studies “that the highest levels of creativity were produced by subjects who received a reward as a kind of a bonus.” 5 So when the poster turns out great, you could buy the design team a case of beer or even hand them a cash bonus without snuffing their creativity. The team didn’t expect any extras and getting them didn’t hinge on a particular outcome. You’re simply offering your appreciation for their stellar work. But keep in mind one ginormous caveat: Repeated “now that” bonuses can quickly become expected “if-then” entitlements—which can ultimately crater effective performance.
+
+| Location: 66 | 
+ Date: March 2, 2016 |
+<br>
+
+ > In brief, for creative, right-brain, heuristic tasks, you’re on shaky ground offering “if-then” rewards. You’re better off using “now that” rewards. And you’re best off if your “now that” rewards provide praise, feedback, and useful information.
+
+| Location: 67 | 
+ Date: March 2, 2016 |
+<br>
+
+ > SDT, by contrast, begins with a notion of universal human needs . It argues that we have three innate psychological needs—competence, autonomy, and relatedness. When those needs are satisfied, we’re motivated, productive, and happy. When they’re thwarted, our motivation, productivity, and happiness plummet
+
+| Location: 70 | 
+ Date: March 2, 2016 |
+<br>
+
+ > Most leaders believed that the people in their organizations fundamentally disliked work and would avoid it if it they could. These faceless minions feared taking responsibility, craved security, and badly needed direction. As a result, “most people must be coerced, controlled, directed, and threatened with punishment to get them to put forth adequate effort toward the achievement of organizational objectives.” But McGregor said there was an alternative view of employees—one that offered a more accurate assessment of the human condition and a more effective starting point for running companies. This perspective held that taking an interest in work is “as natural as play or rest,” that creativity and ingenuity were widely distributed in the population, and that under the proper conditions, people will accept, and even seek, responsibility. 4 To explain these contrasting outlooks, McGregor mined the back end of the alphabet. He called the first view Theory X and the second Theory Y.
+
+| Location: 74 | 
+ Date: March 2, 2016 |
+<br>
+
+----------
+<br><br>
+
+## Part Two - The Three Elements
+
+ > At the beginning of the year, Gunther launched an experiment in autonomy at Meddius, one of a trio of companies he runs. He turned the company, which creates computer software and hardware to help hospitals integrate their information systems, into a ROWE—a results-only work environment. ROWEs are the brainchild of Cali Ressler and Jody Thompson, two former human resources executives at the American retailer Best Buy. ROWE’s principles marry the commonsense pragmatism of Ben Franklin to the cage-rattling radicalism of Saul Alinsky. In a ROWE workplace, people don’t have schedules. They show up when they want. They don’t have to be in the office at a certain time—or any time, for that matter. They just have to get their work done. How they do it, when they do it, and where they do it is up to them.
+
+| Location: 80 | 
+ Date: March 7, 2016 |
+<br>
+
+ > The idea of management (that is, management of people rather than management of, say, supply chains) is built on certain assumptions about the basic natures of those being managed. It presumes that to take action or move forward, we need a prod—that absent a reward or punishment, we’d remain happily and inertly in place. It also presumes that once people do get moving, they need direction—that without a firm and reliable guide, they’d wander. But is that really our fundamental nature? Or, to use yet another computer metaphor, is that our “default setting”? When we enter the world, are we wired to be passive and inert? Or are we wired to be active and engaged? I’m convinced it’s the latter—that our basic nature is to be curious and self-directed. And I say that not because I’m a dewy-eyed idealist, but because I’ve been around young children and because my wife and I have three kids of our own. Have you ever seen a six-month-old or a three-year-old who’s not curious and self-directed? I haven’t. That’s how we are out of the box. If, at age fourteen or forty-three, we’re passive and inert, that’s not because it’s our nature. It’s because something flipped our default setting. That something could well be management—not merely how bosses treat us at work, but also how the broader ethos has leached into schools, families, and many other aspects of our lives. Perhaps management isn’t responding to our supposedly natural state of passive inertia. Perhaps management is one of the forces that’s switching our default setting and producing that state.
+
+| Location: 83 | 
+ Date: March 7, 2016 |
+<br>
+
+ > This innate capacity for self-direction is at the heart of Motivation 3.0 and Type I behavior. The fundamentally autonomous quality of human nature is central to self-determination theory (SDT). As I explained in the previous chapter, Deci and Ryan cite autonomy as one of three basic human needs. And of the three, it’s the most important—the sun around which SDT’s planets orbit. In the 1980s, as they progressed in their work, Deci and Ryan moved away from categorizing behavior as either extrinsically motivated or intrinsically motivated to categorizing it as either controlled or autonomous. “Autonomous motivation involves behaving with a full sense of volition and choice,” they write, “whereas controlled motivation involves behaving with the experience of pressure and demand toward specific outcomes that comes from forces perceived to be external to the self.”1
+
+| Location: 84 | 
+ Date: March 6, 2016 |
+<br>
+
+ > “The ultimate freedom for creative groups is the freedom to experiment with new ideas. Some skeptics insist that innovation is expensive. In the long run, innovation is cheap. Mediocrity is expensive—and autonomy can be the antidote.”   TOM KELLEY General Manager, IDEO
+
+| Location: 84 | 
+ Date: March 6, 2016 |
+<br>
+
+ > Autonomy, as they see it, is different from independence. It’s not the rugged, go-it-alone, rely-on-nobody individualism of the American cowboy. It means acting with choice—which means we can be both autonomous and happily interdependent with others. And while the idea of independence has national and political reverberations, autonomy appears to be a human concept rather than a western one. Researchers have found a link between autonomy and overall well-being not only in North America and Western Europe, but also in Russia, Turkey, and South Korea. Even in high-poverty non-Western locales like Bangladesh, social scientists have found that autonomy is something that people seek and that improves their lives. 2
+
+| Location: 84 | 
+ Date: March 7, 2016 |
+<br>
+
+ > A sense of autonomy has a powerful effect on individual performance and attitude. According to a cluster of recent behavioral science studies, autonomous motivation promotes greater conceptual understanding, better grades, enhanced persistence at school and in sporting activities, higher productivity, less burnout, and greater levels of psychological well-being.3 Those effects carry over to the workplace.
+
+| Location: 85 | 
+ Date: March 7, 2016 |
+<br>
+
+ > And what a few future-facing businesses are discovering is that one of these essential features is autonomy—in particular, autonomy over four aspects of work: what people do, when they do it, how they do it, and whom they do it with. As Atlassian’s experience shows, Type I behavior emerges when people have autonomy over the four T’s: their task , their time , their technique , and their team .
+
+| Location: 87 | 
+ Date: March 2, 2016 |
+<br>
+
+ > A startup engineer must be all things—he (or she) is a full time software developer and a part time product manager/ customer support guru/internal systems maven. As a company grows, an engineer spends less time building the things he personally wants in the product. Our hope is that 20% time gives engineers back dedicated stack time—of their own direction—to spend on product innovation, features, plugins, fixes or additions that they think are the most important. 6 This practice has a sturdy tradition and a well-known modern expression. Its pioneer was the American company 3M. In the 1930s and 1940s, 3M’s president and chairman was William McKnight, a fellow who was as unassuming in his manner as he was visionary in his thinking. McKnight believed in a simple, and at the time, subversive, credo: “Hire good people, and leave them alone.” Well before it was fashionable for managers to flap on about “empowerment,” he made a more vigorous case for autonomy. “Those men and women to whom we delegate authority and responsibility, if they are good people, are going to want to do their jobs in their own way,” he wrote in 1948. 7 McKnight even encouraged employees to engage in what he called “experimental doodling.”
+
+| Location: 88 | 
+ Date: March 2, 2016 |
+<br>
+
+ > “As an entrepreneur, I’m blessed with 100% autonomy over task, time, technique and team. Here’s the thing: If I maintain that autonomy, I fail. I fail to ship. I fail to excel. I fail to focus. I inevitably end up either with no product or a product the market rejects. The art of the art is picking your limits. That’s the autonomy I most cherish. The freedom to pick my boundaries.” SETH GODIN, Author of Tribes, Purple Cow, and the world’s most popular marketing blog
+
+| Location: 88 | 
+ Date: March 7, 2016 |
+<br>
+
+ > Nothing is more important to my success than controlling my schedule. I’m most creative from five to nine A.M. If I had a boss or co-workers, they would ruin my best hours one way or another.” SCOTT ADAMS Dilbert creator
+
+| Location: 92 | 
+ Date: March 6, 2016 |
+<br>
+
+ > “Autonomy over what we do is most important. The biggest difference between working for other studios and running my own has been the fact that I can choose what job we take on and what product, service, or institution we promote. This I find the single most important question: When I’m close to the content, research becomes easy, meetings become interesting (people who produce interesting products or services are mostly interesting themselves), and I don’t have to be involved in false advertising.” STEFAN SAGMEISTER Designer
+
+| Location: 98 | 
+ Date: March 7, 2016 |
+<br>
+
+ > Still, the desire for autonomy can often collide with other obligations. One surprise as Atlassian ran the numbers on its task autonomy experiment was that most employees came in substantially under the 20 percent figure. The main reason? They didn’t want to let down their current teammates by abandoning ongoing projects.
+
+| Location: 99 | 
+ Date: March 7, 2016 |
+<br>
+
+ > However, encouraging autonomy doesn’t mean discouraging accountability. Whatever operating system is in place, people must be accountable for their work. But there are different ways to achieve this end, each built on different assumptions about who we are deep down
+
+| Location: 100 | 
+ Date: March 7, 2016 |
+<br>
+
+ > What’s more, different individuals will prize different aspects of autonomy. Some might crave autonomy over a task; others might prefer autonomy over the team. As Zappos CEO Hsieh told me by e-mail, “Studies have shown that perceived control is an important component of one’s happiness. However, what people feel like they want control over really varies, so I don’t think there’s one aspect of autonomy that’s universally the most important. Different individuals have different desires, so the best strategy for an employer would be to figure out what’s important to each individual employee.”
+
+| Location: 101 | 
+ Date: March 7, 2016 |
+<br>
+
+ > Still, however those individual desires express themselves on the surface, they grow from common roots. We’re born to be players, not pawns. We’re meant to be autonomous individuals, not individual automatons. We’re designed to be Type I. But outside forces—including the very idea that we need to be “managed”—have conspired to change our default setting and turn us into Type X. If we update the environments we’re in—not only at work, but also at school and at home—and if leaders recognize both the truth of the human condition and the science that supports it, we can return ourselves and our colleagues to our natural state.
+
+| Location: 101 | 
+ Date: March 7, 2016 |
+<br>
+
+ > From these results, Csikszentmihalyi began to peel back the layers of those autotelic experiences. Perhaps equally significant, he replaced that wonky Greek-derived adjective with a word he found people using to describe these optimal moments: flow. The highest, most satisfying experiences in people’s lives were when they were in flow. And this previously unacknowledged mental state, which seemed so inscrutable and transcendent, was actually fairly easy to unpack. In flow, goals are clear. You have to reach the top of the mountain, hit the ball across the net, or mold the clay just right. Feedback is immediate. The mountaintop gets closer or farther, the ball sails in or out of bounds, the pot you’re throwing comes out smooth or uneven.
+
+| Location: 107 | 
+ Date: March 6, 2016 |
+<br>
+
+ > The desire to do something because you find it deeply satisfying and personally challenging inspires the highest levels of creativity, whether it’s in the arts, sciences, or business.” TERESA AMABILE Professor, Harvard University
+
+| Location: 108 | 
+ Date: March 6, 2016 |
+<br>
+
+ > F low is essential to mastery. But flow doesn’t guarantee mastery—because the two concepts operate on different horizons of time. One happens in a moment; the other unfolds over months, years, sometimes decades. You and I each might reach flow tomorrow morning—but neither one of us will achieve mastery overnight.
+
+| Location: 112 | 
+ Date: March 6, 2016 |
+<br>
+
+ > And they yield the first law of mastery: Mastery is a mindset .
+
+| Location: 113 | 
+ Date: March 6, 2016 |
+<br>
+
+ > “Figure out for yourself what you want to be really good at, know that you’ll never really satisfy yourself that you’ve made it, and accept that that’s okay.” ROBERT B. REICH Former U.S. Secretary of Labor
+
+| Location: 113 | 
+ Date: March 6, 2016 |
+<br>
+
+ > According to Dweck, people can hold two different views of their own intelligence. Those who have an “entity theory” believe that intelligence is just that—an entity. It exists within us, in a finite supply that we cannot increase. Those who subscribe to an “incremental theory” take a different view. They believe that while intelligence may vary slightly from person to person, it is ultimately something that, with effort, we can increase
+
+| Location: 113 | 
+ Date: March 6, 2016 |
+<br>
+
+ > If you believe intelligence is a fixed quantity, then every educational and professional encounter becomes a measure of how much you have. If you believe intelligence is something you can increase, then the same encounters become opportunities for growth. In one view, intelligence is something you demonstrate; in the other, it’s something you develop.
+
+| Location: 113 | 
+ Date: March 6, 2016 |
+<br>
+
+ > The two self-theories lead down two very different paths—one that heads toward mastery and one that doesn’t. For instance, consider goals. Dweck says they come in two varieties—performance goals and learning goals. Getting an A in French class is a performance goal. Being able to speak French is a learning goal. “Both goals are entirely normal and pretty much universal,” Dweck says, “and both can fuel achievement.”
+
+| Location: 114 | 
+ Date: March 6, 2016 |
+<br>
+
+ > Finally, the two types of thinking trigger contrasting responses to adversity—one that Dweck calls “helpless,” the other, “mastery-oriented.” In a study of American fifth- and sixth-graders, Dweck gave students eight conceptual problems they could solve, followed by four they could not (because the questions were too advanced for children that age). Students who subscribed to the idea that brainpower is fixed gave up quickly on the tough problems and blamed their (lack of) intelligence for their difficulties. Students with a more expansive mindset kept working in spite of the difficulty and deployed far more inventive strategies to find a solution. What did these students blame for their inability to conquer the toughest problems? “The answer, which surprised us, was that they didn’t blame anything,” Dweck says. The young people recognized that setbacks were inevitable on the road to mastery and that they could even be guideposts for the journey.
+
+| Location: 115 | 
+ Date: March 6, 2016 |
+<br>
+
+ > Type I behavior has an incremental theory of intelligence, prizes learning goals over performance goals, and welcomes effort as a way to improve at something that matters. Begin with one mindset, and mastery is impossible. Begin with the other, and it can be inevitable.
+
+| Location: 115 | 
+ Date: March 6, 2016 |
+<br>
+
+ > Try to pick a profession in which you enjoy even the most mundane, tedious parts. Then you will always be happy.” WILL SHORTZ Puzzle guru
+
+| Location: 116 | 
+ Date: March 6, 2016 |
+<br>
+
+ > The best predictor of success, the researchers found, was the prospective cadets’ ratings on a noncognitive, nonphysical trait known as “grit”—defined as “perseverance and passion for long-term goals.” 10 The experience of these army officers-in-training confirms the second law of mastery: Mastery is a pain .
+
+| Location: 116 | 
+ Date: March 6, 2016 |
+<br>
+
+ > As wonderful as flow is, the path to mastery—becoming ever better at something you care about—is not lined with daisies and spanned by a rainbow. If it were, more of us would make the trip. Mastery hurts. Sometimes—many times—it’s not much fun.
+
+| Location: 116 | 
+ Date: March 6, 2016 |
+<br>
+
+ > Flow enters the picture here in two ways. If people are conscious of what puts them in flow, they’ll have a clearer idea of what they should devote the time and dedication to master. And those moments of flow in the course of pursuing excellence can help people through the rough parts. But in the end, mastery often involves working and working and showing little improvement, perhaps with a few moments of flow pulling you along, then making a little progress, and then working and working on that new, slightly higher plateau again. It’s grueling, to be sure. But that’s not the problem; that’s the solution
+
+| Location: 117 | 
+ Date: March 6, 2016 |
+<br>
+
+ > “Being a professional,” Julius Erving once said, “is doing the things you love to do, on the days you don’t feel like doing them.”
+
+| Location: 117 | 
+ Date: March 7, 2016 |
+<br>
+
+ > This is the nature of mastery: Mastery is an asymptote. You can approach it. You can home in on it. You can get really, really, really close to it. But like Cézanne, you can never touch it. Mastery is impossible to realize fully. Great athletes often say that they can—that they must—become better. They say it when they’re amateurs. They say it after their best outing or at the end of their finest season. They’re pursuing mastery. That’s well-known. What’s less well-known is that they understand that they’ll never get it. It will always hover beyond their grasp. The mastery asymptote is a source of frustration. Why reach for something you can never fully attain? But it’s also a source of allure. Why not reach for it? The joy is in the pursuit more than the realization. In the end, mastery attracts precisely because mastery eludes.
+
+| Location: 118 | 
+ Date: March 7, 2016 |
+<br>
+
+ > The results were almost immediate. Even at the end of the first day, participants “noticed an increased sluggishness about their behavior.” They began complaining of headaches. Most reported difficulty concentrating, with “thoughts [that] wander round in circles without getting anywhere.” Some felt sleepy, while others were too agitated to sleep. As Csikszentmihalyi wrote, “After just two days of deprivation . . . the general deterioration in mood was so advanced that prolonging the experiment would have been unadvisable.” 18 Two days. Forty-eight hours without flow plunged people into a state eerily similar to a serious psychiatric disorder. The experiment suggests that flow, the deep sense of engagement that Motivation 3.0 calls for, isn’t a nicety. It’s a necessity. We need it to survive. It is the oxygen of the soul.
+
+
+Notes:`Why people must do what they "enjoy" to improve their general work, concentration and motivation. If an employee likes to do X task, his job/work shouldn't be that overpowering that the employee isn't able to do X. Doing X makes him go into flow and not doing it would mean he can't get into the flow regularly. If he gets used to staying out of flow, not only his work performance get affected but also his general motivation towards the job and that makes him easily think of quitting (primarily if money is not what is makes him stick, if money makes him stick despite the lack of flow, it's dangerous to the company anyways)`
+| Location: 119 | 
+ Date: March 7, 2016 |
+<br>
+
+ > And one of Csikszentmihalyi’s more surprising findings is that people are much more likely to reach that flow state at work than in leisure. Work can often have the structure of other autotelic experiences: clear goals, immediate feedback, challenges well matched to our abilities. And when it does, we don’t just enjoy it more, we do it better. That’s why it’s so odd that organizations tolerate work environments that deprive large numbers of people of these experiences. Harvard’s Teresa Amabile, whose groundbreaking work I’ve cited earlier in the book, has also done research that examines the day-to-day motivation levels of people on the job. She has found that the single greatest motivator is “making progress in one’s work.” The days that people make progress are the days they feel most motivated and engaged. By creating conditions for people to make progress, shining a light on that progress, recognizing and celebrating progress, organizations can help their own cause and enrich people’s lives. Csikszentmihalyi grasped this essential reality more than thirty years ago, when he wrote, “There is no reason to believe any longer that only irrelevant ‘play’ can be enjoyed, while the serious business of life must be borne as a burdensome cross. Once we realize that the boundaries between work and play are artificial, we can take matters in hand and begin the difficult task of making life more livable.” 19
+
+| Location: 120 | 
+ Date: March 7, 2016 |
+<br>
+
+ > But if we’re looking for guidance on how to do this right—on how to make mastery an ethic for living—our best role models are probably not sitting around a boardroom table or working in the office down the hall. Over lunch, Csikszentmihalyi and I talked about children. A little kid’s life bursts with autotelic experiences. Children careen from one flow moment to another, animated by a sense of joy, equipped with a mindset of possibility, and working with the dedication of a West Point cadet. They use their brains and their bodies to probe and draw feedback from the environment in an endless pursuit of mastery. Then—at some point in their lives—they don’t. What happens? “You start to get ashamed that what you’re doing is childish,” Csikszentmihalyi explained. What a mistake. Perhaps you and I—and all the other adults in charge of things—are the ones who are immature. It goes back to Csikszentmihalyi’s experience on the train, wondering how grown-ups could have gotten things so wrong. Our circumstances may be less dire, but the observation is no less acute. Left to their own devices, Csikszentmihalyi says, children seek out flow with the inevitability of a natural law. So should we all.
+
+| Location: 121 | 
+ Date: March 7, 2016 |
+<br>
+
+ > T he first two legs of the Type I tripod, autonomy and mastery, are essential. But for proper balance we need a third leg—purpose, which provides a context for its two mates. Autonomous people working toward mastery perform at very high levels. But those who do so in the service of some greater objective can achieve even more. The most deeply motivated people—not to mention those who are most productive and satisfied—hitch their desires to a cause larger than themselves.
+
+| Location: 123 | 
+ Date: March 7, 2016 |
+<br>
+
+ > And here the boomers—maybe, just maybe—can take the lead. On the subjects of autonomy and mastery, adults should look to the eloquent example of children. But perhaps purpose is another matter. Being able to contemplate the big picture, to ponder one’s own mortality, to understand the paradox that attaining certain goals isn’t the answer seems to require having spent a few years on the planet. And since the planet very soon will contain more people over age sixty-five than under age five for the first time in its existence, the timing couldn’t be better. In fact, boomers have already begun to reconfigure our culture along these lines. For instance, in the major economies of the world, people’s lives typically consist of three broad stages: education, work, retirement. But in the U.S. and elsewhere, some boomers are now carving out a fourth category—what the think tank Civic Ventures calls “encore careers.” Instead of retiring or continuing to work as they always have, they’re crafting jobs that offer a continued income, but that emphasize meaning, significance, and contributing to the world. It’s in our nature to seek purpose. But that nature is now being revealed and expressed on a scale that is demographically unprecedented and, until recently, scarcely imaginable. The consequences could rejuvenate our businesses and remake our world
+
+| Location: 134 | 
+ Date: March 7, 2016 |
+<br>
+
+ > A CENTRAL IDEA of this book has been the mismatch between what science knows and what business does. The gap is wide. Its existence is alarming. And though closing it seems daunting, we have reasons to be optimistic
+
+| Location: 135 | 
+ Date: March 7, 2016 |
+<br>
+
+ > The scientists who study human motivation, several of whom we’ve encountered in this book, offer us a sharper and more accurate account of both human performance and the human condition. The truths they’ve revealed are simple, yet powerful. The science shows that those typical twentieth-century carrot-and-stick motivators—which we consider somehow a “natural” part of human enterprise—can sometimes work. But they’re effective in only a surprisingly narrow band of circumstances. The science shows that “if-then” rewards—the mainstays of the Motivation 2.0 operating system—not only are ineffective in many situations, but also can crush the high-level, creative, conceptual abilities that are central to current and future economic and social progress. The science shows that the secret to high performance isn’t our biological drive or our reward-and-punishment drive, but our third drive—our deep-seated desire to direct our own lives, to extend and expand our abilities, and to make a contribution. Bringing our businesses in sync with these truths won’t be easy. Unlearning old ideas is difficult, undoing old habits even harder. And I’d be less sanguine about the prospects of closing the motivation gap anytime soon, if it weren’t for this: The science confirms what we already know in our hearts.
+
+| Location: 135 | 
+ Date: March 7, 2016 |
+<br>
+
+----------
+<br><br>
+
+## Part Three - The Type I Toolkit
+
+ > MOVE FIVE STEPS CLOSER TO MASTERY O ne key to mastery is what Florida State University psychology professor Anders Ericsson calls “deliberate practice”—a “lifelong period of . . . effort to improve performance in a specific domain.” Deliberate practice isn’t running a few miles each day or banging on the piano for twenty minutes each morning. It’s much more purposeful, focused, and, yes, painful. Follow these steps—over and over again for a decade—and you just might become a master: • Remember that deliberate practice has one objective: to improve performance. “People who play tennis once a week for years don’t get any better if they do the same thing each time,” Ericsson has said. “Deliberate practice is about changing your performance, setting new goals and straining yourself to reach a bit higher each time.” • Repeat, repeat, repeat. Repetition matters. Basketball greats don’t shoot ten free throws at the end of team practice; they shoot five hundred. • Seek constant, critical feedback. If you don’t know how you’re doing, you won’t know what to improve. • Focus ruthlessly on where you need help. While many of us work on what we’re already good at, says Ericsson, “those who get better work on their weaknesses.” • Prepare for the process to be mentally and physically exhausting. That’s why so few people commit to it, but that’s why it works.
+
+| Location: 141 | 
+ Date: March 7, 2016 |
+<br>
+
+----------
+<br><br>
+
+## Drive: The Recap
+
+ > Drive : The Recap This book has covered a lot of ground—and you might not be able to instantly recall everything in it. So here you’ll find three different summaries of Drive . Think of it as your talking points, refresher course, or memory jogger.
+
+| Location: 188 | 
+ Date: March 8, 2016 |
+<br>
+
+ > TWITTER SUMMARY g Carrots & sticks are so last century. Drive says for 21st century work, we need to upgrade to autonomy, mastery & purpose. COCKTAIL PARTY SUMMARY h When it comes to motivation, there’s a gap between what science knows and what business does. Our current business operating system— which is built around external, carrot-and-stick motivators—doesn’t work and often does harm. We need an upgrade. And the science shows the way. This new approach has three essential elements: (1) Autonomy— the desire to direct our own lives; (2) Mastery— the urge to make progress and get better at something that matters; and (3) Purpose —the yearning to do what we do in the service of something larger than ourselves.
+
+| Location: 188 | 
+ Date: March 8, 2016 |
+<br>
+
+ > CHAPTER-BY-CHAPTER SUMMARY Introduction: The Puzzling Puzzles of Harry Harlow and Edward Deci Human beings have a biological drive that includes hunger, thirst, and sex. We also have another long-recognized drive: to respond to rewards and punishments in our environment. But in the middle of the twentieth century, a few scientists began discovering that humans also have a third drive—what some call “intrinsic motivation.” For several decades, behavioral scientists have been figuring out the dynamics and explaining the power of our third drive. Alas, business hasn’t caught up to this new understanding. If we want to strengthen our companies, elevate our lives, and improve the world, we need to close the gap between what science knows and what business does.
+
+| Location: 188 | 
+ Date: March 8, 2016 |
+<br>
+
+ > PART ONE. A NEW OPERATING SYSTEM Chapter 1. The Rise and Fall of Motivation 2.0 Societies, like computers, have operating systems—a set of mostly invisible instructions and protocols on which everything runs. The first human operating system—call it Motivation 1.0—was all about survival. Its successor, Motivation 2.0, was built around external rewards and punishments. That worked fine for routine twentieth-century tasks. But in the twenty-first century, Motivation 2.0 is proving incompatible with how we organize what we do, how we think about what we do, and how we do what we do. We need an upgrade.
+
+| Location: 188 | 
+ Date: March 8, 2016 |
+<br>
+
+ > Chapter 2. Seven Reasons Carrots and Sticks (Often) Don’t Work . . . When carrots and sticks encounter our third drive, strange things begin to happen. Traditional “if-then” rewards can give us less of what we want: They can extinguish intrinsic motivation, diminish performance, crush creativity, and crowd out good behavior. They can also give us more of what we don’t want: They can encourage unethical behavior, create addictions, and foster short-term thinking. These are the bugs in our current operating system. Chapter 2a. . . . and the Special Circumstances When They Do Carrots and sticks aren’t all bad. They can be effective for rule-based routine tasks—because there’s little intrinsic motivation to undermine and not much creativity to crush. And they can be more effective still if those giving such rewards offer a rationale for why the task is necessary, acknowledge that it’s boring, and allow people autonomy over how they complete it. For nonroutine conceptual tasks, rewards are more perilous—particularly those of the “if-then” variety. But “now that” rewards—noncontingent rewards given after a task is complete—can sometimes be okay for more creative, right-brain work, especially if they provide useful information about performance.
+
+| Location: 189 | 
+ Date: March 8, 2016 |
+<br>
+
+ > Chapter 3. Type I and Type X Motivation 2.0 depended on and fostered Type X behavior—behavior fueled more by extrinsic desires than intrinsic ones and concerned less with the inherent satisfaction of an activity and more with the external rewards to which an activity leads. Motivation 3.0, the upgrade that’s necessary for the smooth functioning of twenty-first-century business, depends on and fosters Type I behavior. Type I behavior concerns itself less with the external rewards an activity brings and more with the inherent satisfaction of the activity itself. For professional success and personal fulfillment, we need to move ourselves and our colleagues from Type X to Type I. The good news is that Type I’s are made, not born—and Type I behavior leads to stronger performance, greater health, and higher overall well-being
+
+| Location: 189 | 
+ Date: March 8, 2016 |
+<br>
+
+ > PART TWO. THE THREE ELEMENTS Chapter 4. Autonomy Our “default setting” is to be autonomous and self-directed. Unfortunately, circumstances—including outdated notions of “management”—often conspire to change that default setting and turn us from Type I to Type X. To encourage Type I behavior, and the high performance it enables, the first requirement is autonomy. People need autonomy over task (what they do), time (when they do it), team (who they do it with), and technique (how they do it). Organizations that have found inventive, sometimes radical, ways to boost autonomy are outperforming their competitors.
+
+| Location: 190 | 
+ Date: March 8, 2016 |
+<br>
+
+ > Chapter 5. Mastery While Motivation 2.0 required compliance, Motivation 3.0 demands engagement. Only engagement can produce mastery—becoming better at something that matters. And the pursuit of mastery, an important but often dormant part of our third drive, has become essential to making one’s way in the economy. Indeed, making progress in one’s work turns out to be the single most motivating aspect of many jobs. Mastery begins with “flow”—optimal experiences when the challenges we face are exquisitely matched to our abilities. Smart workplaces therefore supplement day-to-day activities with “Goldilocks tasks”—not too hard and not too easy. But mastery also abides by three peculiar rules. Mastery is a mindset: It requires the capacity to see your abilities not as finite, but as infinitely improvable. Mastery is a pain: It demands effort, grit, and deliberate practice. And mastery is an asymptote: It’s impossible to fully realize, which makes it simultaneously frustrating and alluring.
+
+| Location: 190 | 
+ Date: March 8, 2016 |
+<br>
+
+ > Chapter 6. Purpose Humans, by their nature, seek purpose—to make a contribution and to be part of a cause greater and more enduring than themselves. But traditional businesses have long considered purpose ornamental—a perfectly nice accessory, so long as it didn’t get in the way of the important things. But that’s changing—thanks in part to the rising tide of aging baby boomers reckoning with their own mortality. In Motivation 3.0, purpose maximization is taking its place alongside profit maximization as an aspiration and a guiding principle. Within organizations, this new “purpose motive” is expressing itself in three ways: in goals that use profit to reach purpose; in words that emphasize more than self-interest; and in policies that allow people to pursue purpose on their own terms. This move to accompany profit maximization with purpose maximization has the potential to rejuvenate our businesses and remake our world.
+
+| Location: 191 | 
+ Date: March 8, 2016 |
+<br>
+
+----------
+<br><br>

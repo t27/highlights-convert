@@ -1,0 +1,27 @@
+{
+  "volume": {
+    "title": "The Rosie Project: A Novel",
+    "authors": [
+      "Simsion, Graeme"
+    ]
+  },
+  "chapterHighlights": {
+    "Chapter Two": {
+      "index": 1,
+      "highlights": [
+        {
+          "chapter": "Chapter Two",
+          "content": "She began eating her dinner in my apartment on a regular basis, as there are massive economies of scale in cooking one meal for two people rather than two separate meals.",
+          "date": "October 10, 2016",
+          "location": "19"
+        },
+        {
+          "chapter": "Chapter Two",
+          "content": "She recognized the smell immediately and began crying. I thought I had made a terrible error, but she explained that her tears were a symptom of happiness. She was also impressed by the chocolate cake that I had made, but not to the same extent.",
+          "date": "October 10, 2016",
+          "location": "20"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <style>
+        .clryellow {
+            background-color: rgba(43, 231, 175, 0.824);
+        }
+    </style>
+    <script src="https://unpkg.com/vue"></script>
+     
+    <div id="app">
+        <p v-bind:class="'clr'+color">{{content}}</p>
+        <span>Location {{location}}</span>
+        <p v-if="notes.length > 0">Notes</p>
+        <li v-for="note in notes">
+            {{note.content}}
+        </li>
+    </div>
+
+    <script>
+        new Vue({
+                el: '#app',
+                data: {
+                    "color": "yellow",
+                    "content": "Sometimes it took quite a while. I remember one particular time when it took the whole afternoon to find a burned out resistor that was not apparent. That particular time it happened to be a friend of my mother, so I had time—there was nobody on my back saying, “What are you doing?” Instead, they were saying, “Would you like a little milk, or some cake?” I finally fixed it because I had, and still have, persistence. Once I get on a puzzle, I can’t get off. If my mother’s friend had said, “Never mind, it’s too much work,” I’d have blown my top, because I want to beat this damn thing, as long as I’ve gone this far. I can’t just leave it after I’ve found out so much about it. I have to keep going to find out ultimately what is the matter with it in the end.",
+                    "location": "154",
+                    "chapter": "He Fixes Radios by Thinking!",
+                    "notes": [
+                        {
+                            "color": "",
+                            "content": "Feynman on persistence - he calls it Puzzle Drive",
+                            "location": "159",
+                            "chapter": "He Fixes Radios by Thinking!"
+                        }
+                    ]
+                }
+            })
+    </script>
+</body>
+</html>

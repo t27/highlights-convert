@@ -1,0 +1,122 @@
+{
+  "volume": {
+    "title": "Bad Blood",
+    "authors": [
+      "John Carreyrou"
+    ]
+  },
+  "chapterHighlights": {
+    "Prologue": {
+      "index": 1,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Didn’t it always seem to work when investors came to view it? Well, there was a reason it always seemed to work, Shaunak said. The image on the computer screen showing the blood flowing through the cartridge and settling into the little wells was real. But you never knew whether you were going to get a result or not. So they’d recorded a result from one of the times it worked. It was that recorded result that was displayed at the end of each demo.",
+          "location": "129",
+          "chapter": "Prologue"
+        }
+      ]
+    },
+    "3. Apple Envy": {
+      "index": 2,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "“What would you attempt to do if you knew you could not fail?”",
+          "location": "538",
+          "chapter": "3. Apple Envy"
+        }
+      ]
+    },
+    "6. Sunny": {
+      "index": 3,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "“Veni, vidi, vici” (“I came, I saw, I conquered”),",
+          "location": "1161",
+          "chapter": "6. Sunny"
+        }
+      ]
+    },
+    "8. The miniLab": {
+      "index": 4,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Instead of building new instruments from scratch to fit the arbitrary dimensions Elizabeth had laid out, Greg felt they would do better to take the off-the-shelf components they were laboring to miniaturize and integrate them together to test how the overall system worked. Once they had a working prototype, they could then worry about shrinking it. Emphasizing the system’s size first and how it worked later was putting the cart before the horse. But Elizabeth wouldn’t budge.",
+          "location": "1570",
+          "chapter": "8. The miniLab"
+        },
+        {
+          "color": "yellow",
+          "content": "A month or two after Jobs’s death, some of Greg’s colleagues in the engineering department began to notice that Elizabeth was borrowing behaviors and management techniques described in Walter Isaacson’s biography of the late Apple founder. They were all reading the book too and could pinpoint which chapter she was on based on which period of Jobs’s career she was impersonating. Elizabeth even gave the miniLab a Jobs-inspired code name: the 4S. It was a reference to the iPhone 4S, which Apple had coincidentally unveiled the day before Jobs passed away.",
+          "location": "1632",
+          "chapter": "8. The miniLab"
+        },
+        {
+          "color": "yellow",
+          "content": "Elizabeth and Sunny seemed unable, or unwilling, to distinguish between a prototype and a finished product. The miniLab Greg was helping build was a prototype, nothing more. It needed to be tested thoroughly and fine-tuned, which would require time. A lot of time. Most companies went through three cycles of prototyping before they went to market with a product. But Sunny was already placing orders for components to build one hundred miniLabs, based on a first, untested prototype. It was as if Boeing built one plane and, without doing a single flight test, told airline passengers, “Hop aboard.”",
+          "location": "1688",
+          "chapter": "8. The miniLab"
+        }
+      ]
+    },
+    "9. The Wellness Play": {
+      "index": 5,
+      "highlights": [
+        {
+          "color": "pink",
+          "content": "His arrogance was infuriating. And yet Safeway was still hesitant to walk away from the partnership. What if the Theranos technology did turn out to be game-changing? It might spend the next decade regretting passing up on it. The fear of missing out was a powerful deterrent.",
+          "location": "1909",
+          "chapter": "9. The Wellness Play"
+        }
+      ]
+    },
+    "14. Going Live": {
+      "index": 6,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "The biggest problem of all was the dysfunctional corporate culture in which it was being developed. Elizabeth and Sunny regarded anyone who raised a concern or an objection as a cynic and a naysayer. Employees who persisted in doing so were usually marginalized or fired, while sycophants were promoted. Sunny had elevated a group of ingratiating Indians to key positions. One of them was Sam Anekal, the manager in charge of integrating the various components of the miniLab who had clashed with Ian Gibbons. Another was Chinmay Pangarkar, a bioengineer with a Ph.D. in chemical engineering from the University of California, Santa Barbara. There was also Suraj Saksena, a clinical chemist who had a Ph.D. in biochemistry and biophysics from Texas A&M. On paper, all three had impressive educational credentials, but they shared two traits: they had very little industry experience, having joined the company not long after finishing their studies, and they had a habit of telling Elizabeth and Sunny what they wanted to hear, either out of fear or out of desire to advance, or both.",
+          "location": "2586",
+          "chapter": "14. Going Live"
+        },
+        {
+          "color": "blue",
+          "content": "With time, some employees grew less afraid of him and devised ways to manage him, as it dawned on them that they were dealing with an erratic man-child of limited intellect and an even more limited attention span. Arnav Khannah, a young mechanical engineer who worked on the miniLab, figured out a surefire way to get Sunny off his back: answer his emails with a reply longer than five hundred words. That usually bought him several weeks of peace because Sunny simply didn’t have the patience to read long emails. Another strategy was to convene a biweekly meeting of his team and invite Sunny to attend. He might come to the first few, but he would eventually lose interest or forget to show up.",
+          "location": "2600",
+          "chapter": "14. Going Live"
+        },
+        {
+          "color": "yellow",
+          "content": "While Elizabeth was fast to catch on to engineering concepts, Sunny was often out of his depth during engineering discussions. To hide it, he had a habit of repeating technical terms he heard others using. During a meeting with Arnav’s team, he latched onto the term “end effector,” which signifies the claws at the end of a robotic arm. Except Sunny didn’t hear “end effector,” he heard “endofactor.” For the rest of the meeting, he kept referring to the fictional endofactors. At their next meeting with Sunny two weeks later, Arnav’s team brought a PowerPoint presentation titled “Endofactors Update.” As Arnav flashed it on a screen with a projector, the five members of his team stole furtive glances at one another, nervous that Sunny might become wise to the prank. But he didn’t bat an eye and the meeting proceeded without incident. After he left the room, they burst out laughing.",
+          "location": "2605",
+          "chapter": "14. Going Live"
+        }
+      ]
+    },
+    "19. The Tip": {
+      "index": 7,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "It was all beginning to make sense: Holmes and her company had overpromised and then cut corners when they couldn’t deliver. It was one thing to do that with software or a smartphone app, but doing it with a medical product that people relied on to make important health decisions was unconscionable.",
+          "location": "3601",
+          "chapter": "19. The Tip"
+        }
+      ]
+    },
+    "24. The Empress Has No Clothes": {
+      "index": 8,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "One notable exception was Rupert Murdoch. The media mogul sold his stock back to Theranos for one dollar so he could claim a big tax write-off on his other earnings. With a fortune estimated at $12 billion, Murdoch could afford to lose more than $100 million on a bad investment.",
+          "location": "4599",
+          "chapter": "24. The Empress Has No Clothes"
+        }
+      ]
+    }
+  }
+}

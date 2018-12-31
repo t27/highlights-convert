@@ -1,0 +1,148 @@
+{
+  "volume": {
+    "title": "Dark Matter",
+    "authors": [
+      "Blake Crouch"
+    ]
+  },
+  "chapterHighlights": {
+    "Chapter One": {
+      "index": 1,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "“It’s true, and you know it. Science is less advanced because you love your family.”",
+          "location": "105",
+          "chapter": "Chapter One"
+        },
+        {
+          "color": "yellow",
+          "content": "“Your father said to me one night—never forget it—that pure research is life-consuming. He said…” For a moment, and to my surprise, emotion overtakes her. Her eyes mist, and she shakes her head like she always does when she’s about to cry. At the last second, she rallies, pushes through. “He said, ‘Daniela, on my deathbed I would rather have memories of you than of a cold, sterile lab.’ ”",
+          "location": "107",
+          "chapter": "Chapter One"
+        },
+        {
+          "color": "yellow",
+          "content": "It always puts me in mind of that F. Scott Fitzgerald line: Life starts all over again when it gets crisp in the fall.",
+          "location": "132",
+          "chapter": "Chapter One"
+        },
+        {
+          "color": "yellow",
+          "content": "I take a different route toward home. It adds six blocks, but what I lose in brevity, I gain in solitude, and between the cab and Ryan, I need some extra time to reset.",
+          "location": "199",
+          "chapter": "Chapter One"
+        },
+        {
+          "color": "blue",
+          "content": "It’s the beautiful thing about youth. There’s a weightlessness that permeates everything because no damning choices have been made, no paths committed to, and the road forking out ahead is pure, unlimited potential.",
+          "location": "206",
+          "chapter": "Chapter One"
+        },
+        {
+          "color": "yellow",
+          "content": "I say, “My life is great. It’s just not exceptional. And there was a time when it could have been.” “You killed your ambition, didn’t you?” “It died of natural causes. Of neglect.” “And do you know exactly how that happened? Was there a moment when—?”",
+          "location": "525",
+          "chapter": "Chapter One"
+        }
+      ]
+    },
+    "Chapter Five": {
+      "index": 2,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "I am not allowed to think I’m crazy. I am only allowed to solve this problem.",
+          "location": "1291",
+          "chapter": "Chapter Five"
+        },
+        {
+          "color": "yellow",
+          "content": "I am not allowed to think I’m crazy. I am only allowed to solve this problem.",
+          "location": "1353",
+          "chapter": "Chapter Five"
+        },
+        {
+          "color": "yellow",
+          "content": "There’s always a larger, overarching question—the big target. But if you obsess on the sheer enormity of it, you lose focus. The key is to start small. Focus on solving problems you can answer. Build some dry ground to stand on. And after you’ve put in the work, and if you’re lucky, the mystery of the overarching question becomes knowable. Like stepping slowly back from a photomontage to witness the ultimate image revealing itself.",
+          "location": "1355",
+          "chapter": "Chapter Five"
+        },
+        {
+          "color": "yellow",
+          "content": "We’re all just wandering through the tundra of our existence, assigning value to worthlessness, when all that we love and hate, all we believe in and fight for and kill for and die for is as meaningless as images projected onto Plexiglas.",
+          "location": "1446",
+          "chapter": "Chapter Five"
+        },
+        {
+          "color": "yellow",
+          "content": "Nothing exists. All is a dream. God—man—the world—the sun, the moon, the wilderness of stars—a dream, all a dream; they have no existence. Nothing exists save empty space—and you…. And you are not you—you have no body, no blood, no bones, you are but a thought. MARK TWAIN",
+          "location": "1450",
+          "chapter": "Chapter Five"
+        },
+        {
+          "color": "yellow",
+          "content": "“We all live day to day completely oblivious to the fact that we’re a part of a much larger and stranger reality than we can possibly imagine.”",
+          "location": "1635",
+          "chapter": "Chapter Five"
+        }
+      ]
+    },
+    "Chapter Six": {
+      "index": 3,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Most astrophysicists believe that the force holding stars and galaxies together—the thing that makes our whole universe work—comes from a theoretical substance we can’t measure or observe directly. Something they call dark matter. And this dark matter makes up most of the known universe.”",
+          "location": "1899",
+          "chapter": "Chapter Six"
+        }
+      ]
+    },
+    "Chapter Seven": {
+      "index": 4,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Into what we physicists sometimes call, in what passes for humor among scientists, cat state. As in Schrödinger’s cat, the famous thought experiment. Imagine a cat, a vial of poison, and a radioactive source in a sealed box. If an internal sensor registers radioactivity, like an atom decaying, the vial is broken, releasing a poison that kills the cat. The atom has an equal chance of decaying or not decaying. It’s an ingenious way of linking an outcome in the classical world, our world, to a quantum-level event. The Copenhagen interpretation of quantum mechanics suggests a crazy thing: before the box is opened, before observation occurs, the atom exists in superposition—an undetermined state of both decaying and not decaying. Which means, in turn, that the cat is both alive and dead. And only when the box is opened, and an observation made, does the wave function collapse into one of two states. In other words, we only see one of the possible outcomes. For instance, a dead cat.",
+          "location": "2048",
+          "chapter": "Chapter Seven"
+        },
+        {
+          "color": "yellow",
+          "content": "But then things get really weird. Is there another world, just as real as the one we know, where we opened the box and found a purring, living cat instead? The Many-Worlds interpretation of quantum mechanics says yes. That when we open the box, there’s a branch. One universe where we discover a dead cat. One where we discover a live one. And it’s the act of our observing the cat that kills it—or lets it live.",
+          "location": "2058",
+          "chapter": "Chapter Seven"
+        },
+        {
+          "color": "yellow",
+          "content": "And then it gets mind-fuckingly weird. Because those kinds of observations happen all the time. So if the world really splits whenever something is observed, that means there’s an unimaginably massive, infinite number of universes—a multiverse—where everything that can happen will happen.",
+          "location": "2063",
+          "chapter": "Chapter Seven"
+        }
+      ]
+    },
+    "Chapter Ten": {
+      "index": 5,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "“You’re sure writing it down is the best way to go?” “When you write something, you focus your full attention on it. It’s almost impossible to write one thing while thinking about another. The act of putting it on paper keeps your thoughts and intentions aligned.”",
+          "location": "3090",
+          "chapter": "Chapter Ten"
+        }
+      ]
+    },
+    "Chapter Eleven": {
+      "index": 6,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "And maybe I can let go of the sting and resentment of the path not taken, because the path not taken isn’t just the inverse of who I am. It’s an infinitely branching system that represents all the permutations of my life between the extremes of me and Jason2.",
+          "location": "3766",
+          "chapter": "Chapter Eleven"
+        }
+      ]
+    }
+  }
+}

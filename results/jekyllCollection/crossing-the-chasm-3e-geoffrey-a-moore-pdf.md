@@ -1,0 +1,6 @@
+---
+layout: highlight
+title: "Crossing the Chasm, 3e - Geoffrey A Moore.pdf"
+authors: "This document is overwritten when you make changes in Play Books."
+---
+

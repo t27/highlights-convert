@@ -1,0 +1,874 @@
+---
+layout: highlight
+title: "Steve Jobs"
+authors: "Isaacson, Walter"
+---
+
+
+## CHAPTER ONE Childhood: Abandoned and Chosen
+
+ > Jobs remembered being impressed by his father’s focus on craftsmanship. “I thought my dad’s sense of design was pretty good,” he said, “because he knew how to build anything. If we needed a cabinet, he would build it. When he built our fence, he gave me a hammer so I could work with him.”
+
+| Location: 427 | 
+ Color: yellow |
+<br>
+
+ > The chip industry gave the region a new name when Don Hoefler, a columnist for the weekly trade paper Electronic News, began a series in January 1971 entitled “Silicon Valley USA.” The forty-mile Santa Clara Valley, which stretches from South San Francisco through Palo Alto to San Jose, has as its commercial backbone El Camino Real, the royal road that once connected California’s twenty-one mission churches and is now a bustling avenue that connects companies and startups accounting for a third of the venture capital investment in the United States each year. “Growing up, I got inspired by the history of the place,” Jobs said. “That made me want to be a part of it.”
+
+| Location: 502 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER TWO Odd Couple: The Two Steves
+
+ > It may have been the most significant meeting in a Silicon Valley garage since Hewlett went into Packard’s thirty-two years earlier. “Steve and I just sat on the sidewalk in front of Bill’s house for the longest time, just sharing stories—mostly about pranks we’d pulled, and also what kind of electronic designs we’d done,” Wozniak recalled. “We had so much in common. Typically, it was really hard for me to explain to people what kind of design stuff I worked on, but Steve got it right away. And I liked him. He was kind of skinny and wiry and full of energy.” Jobs was also impressed. “Woz was the first person I’d met who knew more electronics than I did,” he once said, stretching his own expertise. “I liked him right away. I was a little more mature than my years, and he was a little less mature than his, so it evened out. Woz was very bright, but emotionally he was my age.”
+
+| Location: 740 | 
+ Color: blue |
+<br>
+
+ > The partnership paved the way for what would be a bigger adventure together. “If it hadn’t been for the Blue Boxes, there wouldn’t have been an Apple,” Jobs later reflected. “I’m 100% sure of that. Woz and I learned how to work together, and we gained the confidence that we could solve technical problems and actually put something into production.” They had created a device with a little circuit board that could control billions of dollars’ worth of infrastructure. “You cannot believe how much confidence that gave us.” Woz came to the same conclusion: “It was probably a bad idea selling them, but it gave us a taste of what we could do with my engineering skills and his vision.”
+
+| Location: 823 | 
+ Color: blue |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER FOUR Atari and India: Zen and the Art of Game Design
+
+ > Jobs came to believe that he could impart that feeling of confidence to others and thus push them to do things they hadn’t thought possible. Holmes had broken up with Kottke and joined a religious cult in San Francisco that expected her to sever ties with all past friends. But Jobs rejected that injunction. He arrived at the cult house in his Ford Ranchero one day and announced that he was driving up to Friedland’s apple farm and she was to come. Even more brazenly, he said she would have to drive part of the way, even though she didn’t know how to use the stick shift. “Once we got on the open road, he made me get behind the wheel, and he shifted the car until we got up to 55 miles per hour,” she recalled. “Then he puts on a tape of Dylan’s Blood on the Tracks, lays his head in my lap, and goes to sleep. He had the attitude that he could do anything, and therefore so can you. He put his life in my hands. So that made me do something I didn’t think I could do.” It was the brighter side of what would become known as his reality distortion field. “If you trust him, you can do things,” Holmes said. “If he’s decided that something should happen, then he’s just going to make it happen.”
+
+| Location: 1170 | 
+ Color: blue |
+<br>
+
+ > “There is something indefinable in an entrepreneur, and I saw that in Steve,” he said. “He was interested not just in engineering, but also the business aspects. I taught him that if you act like you can do something, then it will work. I told him, ‘Pretend to be completely in control and people will assume that you are.’”
+
+| Location: 1223 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER SIX The Apple II: Dawn of a New Age
+
+ > Jobs’s father had once taught him that a drive for perfection meant caring about the craftsmanship even of the parts unseen. Jobs applied that to the layout of the circuit board inside the Apple II. He rejected the initial design because the lines were not straight enough.
+
+| Location: 1523 | 
+ Color: yellow |
+<br>
+
+ > Markkula wrote his principles in a one-page paper titled “The Apple Marketing Philosophy” that stressed three points. The first was empathy, an intimate connection with the feelings of the customer: “We will truly understand their needs better than any other company.” The second was focus: “In order to do a good job of those things that we decide to do, we must eliminate all of the unimportant opportunities.” The third and equally important principle, awkwardly named, was impute. It emphasized that people form an opinion about a company or product based on the signals that it conveys. “People DO judge a book by its cover,” he wrote. “We may have the best product, the highest quality, the most useful software etc.; if we present them in a slipshod manner, they will be perceived as slipshod; if we present them in a creative, professional manner, we will impute the desired qualities.”
+
+| Location: 1587 | 
+ Color: yellow |
+<br>
+
+ > Nevertheless most people considered the Apple II to be Wozniak’s creation. That would spur Jobs to pursue the next great advance, one that he could call his own.
+
+| Location: 1698 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER EIGHT Xerox and Lisa: Graphical User Interfaces
+
+ > Among its visionaries was the scientist Alan Kay, who had two great maxims that Jobs embraced: “The best way to predict the future is to invent it” and “People who are serious about software should make their own hardware.” Kay pushed the vision of a small personal computer, dubbed the “Dynabook,” that would be easy enough for children to use.
+
+| Location: 1844 | 
+ Color: yellow |
+<br>
+
+ > Until then, most computers were character-based. You would type a character on a keyboard, and the computer would generate that character on the screen, usually in glowing greenish phosphor against a dark background. Since there were a limited number of letters, numerals, and symbols, it didn’t take a whole lot of computer code or processing power to accomplish this. In a bitmap system, on the other hand, each and every pixel on the screen is controlled by bits in the computer’s memory. To render something on the screen, such as a letter, the computer has to tell each pixel to be light or dark or, in the case of color displays, what color to be. This uses a lot of computing power, but it permits gorgeous graphics, fonts, and gee-whiz screen displays.
+
+| Location: 1850 | 
+ Color: yellow |
+<br>
+
+ > Jobs made an offer: “I will let you invest a million dollars in Apple if you will open the kimono at PARC.” Xerox accepted. It agreed to show Apple its new technology and in return got to buy 100,000 shares at about $10 each. By the time Apple went public a year later, Xerox’s $1 million worth of shares were worth $17.6 million. But Apple got the better end of the bargain.
+
+| Location: 1861 | 
+ Color: yellow |
+<br>
+
+ > The Apple raid on Xerox PARC is sometimes described as one of the biggest heists in the chronicles of industry. Jobs occasionally endorsed this view, with pride. As he once said, “Picasso had a saying—‘good artists copy, great artists steal’—and we have always been shameless about stealing great ideas.” Another assessment, also sometimes endorsed by Jobs, is that what transpired was less a heist by Apple than a fumble by Xerox. “They were copier-heads who had no clue about what a computer could do,” he said of Xerox’s management. “They just grabbed defeat from the greatest victory in the computer industry. Xerox could have owned the entire computer industry.” Both assessments contain a lot of truth, but there is more to it than that. There falls a shadow, as T. S. Eliot noted, between the conception and the creation. In the annals of innovation, new ideas are only part of the equation. Execution is just as important.
+
+| Location: 1895 | 
+ Color: pink |
+<br>
+
+ > Jobs and his engineers significantly improved the graphical interface ideas they saw at Xerox PARC, and then were able to implement them in ways that Xerox never could accomplish.
+
+| Location: 1902 | 
+ Color: yellow |
+<br>
+
+ > “Steve wasn’t much of an engineer himself, but he was very good at assessing people’s answers. He could tell whether the engineers were defensive or unsure of themselves.”
+
+| Location: 1929 | 
+ Color: yellow |
+<br>
+
+ > To create the illusion of overlapping windows requires complex coding that involves what are called “regions.” Atkinson pushed himself to make this trick work because he thought he had seen this capability during his visit to Xerox PARC. In fact the folks at PARC had never accomplished it, and they later told him they were amazed that he had done so. “I got a feeling for the empowering aspect of naïveté,” Atkinson said. “Because I didn’t know it couldn’t be done, I was enabled to do it.” He was working so hard that one morning, in a daze, he drove his Corvette into a parked truck and nearly killed himself. Jobs immediately drove to the hospital to see him. “We were pretty worried about you,” he said when Atkinson regained consciousness. Atkinson gave him a pained smile and replied, “Don’t worry, I still remember regions.”
+
+| Location: 1934 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER NINE Going Public: A Man of Wealth and Fame
+
+ > At age twenty-five, he was now worth $256 million.
+
+| Location: 1992 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER ELEVEN The Reality Distortion Field: Playing by His Own Set of Rules
+
+ > “The best way to describe the situation is a term from Star Trek,” Tribble explained. “Steve has a reality distortion field.” When Hertzfeld looked puzzled, Tribble elaborated. “In his presence, reality is malleable. He can convince anyone of practically anything. It wears off when he’s not around, but it makes it hard to have realistic schedules.”
+
+| Location: 2183 | 
+ Color: yellow |
+<br>
+
+ > after two weeks of working with Jobs, he became a keen observer of the phenomenon. “The reality distortion field was a confounding mélange of a charismatic rhetorical style, indomitable will, and eagerness to bend any fact to fit the purpose at hand,” he said. There was little that could shield you from the force, Hertzfeld discovered. “Amazingly, the reality distortion field seemed to be effective even if you were acutely aware of it. We would often discuss potential techniques for grounding it, but after a while most of us gave up, accepting it as a force of nature.”
+
+| Location: 2189 | 
+ Color: blue |
+<br>
+
+ > He would assert something—be it a fact about world history or a recounting of who suggested an idea at a meeting—without even considering the truth. It came from willfully defying reality, not only to others but to himself. “He can deceive himself,” said Bill Atkinson. “It allowed him to con people into believing his vision, because he has personally embraced and internalized it.” A lot of people distort reality, of course. When Jobs did so, it was often a tactic for accomplishing something.
+
+| Location: 2196 | 
+ Color: blue |
+<br>
+
+ > Wozniak, who was as congenitally honest as Jobs was tactical, marveled at how effective it could be. “His reality distortion is when he has an illogical vision of the future, such as telling me that I could design the Breakout game in just a few days. You realize that it can’t be true, but he somehow makes it true.”
+
+| Location: 2200 | 
+ Color: yellow |
+<br>
+
+ > At the root of the reality distortion was Jobs’s belief that the rules didn’t apply to him. He had some evidence for this; in his childhood, he had often been able to bend reality to his desires. Rebelliousness and willfulness were ingrained in his character. He had the sense that he was special, a chosen one, an enlightened one. “He thinks there are a few people who are special—people like Einstein and Gandhi and the gurus he met in India—and he’s one of them,” said Hertzfeld. “He told Chrisann this. Once he even hinted to me that he was enlightened. It’s almost like Nietzsche.” Jobs never studied Nietzsche, but the philosopher’s concept of the will to power and the special nature of the Überman came naturally to him.
+
+| Location: 2207 | 
+ Color: yellow |
+<br>
+
+ > “Just because he tells you that something is awful or great, it doesn’t necessarily mean he’ll feel that way tomorrow,” Tribble explained. “If you tell him a new idea, he’ll usually tell you that he thinks it’s stupid. But then, if he actually likes it, exactly one week later, he’ll come back to you and propose your idea to you, as if he thought of it.”
+
+| Location: 2225 | 
+ Color: yellow |
+<br>
+
+ > There were some upsides to Jobs’s demanding and wounding behavior. People who were not crushed ended up being stronger. They did better work, out of both fear and an eagerness to please. “His behavior can be emotionally draining, but if you survive, it works,”
+
+| Location: 2253 | 
+ Color: yellow |
+<br>
+
+ > “Jobs thought of himself as an artist, and he encouraged the design team to think of ourselves that way too,” said Hertzfeld. “The goal was never to beat the competition, or to make a lot of money. It was to do the greatest thing possible, or even a little greater.”
+
+| Location: 2286 | 
+ Color: yellow |
+<br>
+
+ > But even though Jobs’s style could be demoralizing, it could also be oddly inspiring. It infused Apple employees with an abiding passion to create groundbreaking products and a belief that they could accomplish what seemed impossible.
+
+| Location: 2296 | 
+ Color: yellow |
+<br>
+
+ > “I’ve learned over the years that when you have really good people you don’t have to baby them,” Jobs later explained. “By expecting them to do great things, you can get them to do great things.
+
+| Location: 2299 | 
+ Color: pink |
+<br>
+
+ > The original Mac team taught me that A-plus players like to work together, and they don’t like it if you tolerate B work. Ask any member of that Mac team. They will tell you it was worth the pain.” Most of them agree. “He would shout at a meeting, ‘You asshole, you never do anything right,’” Debi Coleman recalled. “It was like an hourly occurrence. Yet I consider myself the absolute luckiest person in the world to have worked with him.”
+
+| Location: 2300 | 
+ Color: blue |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER TWELVE The Design: Real Artists Simplify
+
+ > “I want it to be as beautiful as possible, even if it’s inside the box. A great carpenter isn’t going to use lousy wood for the back of a cabinet, even though nobody’s going to see it.”
+
+| Location: 2450 | 
+ Color: yellow |
+<br>
+
+ > When the design was finally locked in, Jobs called the Macintosh team together for a ceremony. “Real artists sign their work,” he said. So he got out a sheet of drafting paper and a Sharpie pen and had all of them sign their names. The signatures were engraved inside each Macintosh. No one would ever see them, but the members of the team knew that their signatures were inside, just as they knew that the circuit board was laid out as elegantly as possible. Jobs called them each up by name, one at a time. Burrell Smith went first. Jobs waited until last, after all forty-five of the others. He found a place right in the center of the sheet and signed his name in lowercase letters with a grand flair. Then he toasted them with champagne. “With moments like this, he got us seeing our work as art,” said Atkinson.
+
+| Location: 2460 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER THIRTEEN Building the Mac: The Journey Is the Reward
+
+ > Jobs also decided to eliminate the cursor arrow keys on the Macintosh keyboard. The only way to move the cursor was to use the mouse. It was a way of forcing old-fashioned users to adapt to point-and-click navigation, even if they didn’t want to.
+
+| Location: 2520 | 
+ Color: yellow |
+<br>
+
+ > Jobs’s desire for end-to-end control also made him allergic to proposals that Apple license the Macintosh operating system to other office equipment manufacturers and allow them to make Macintosh clones.
+
+| Location: 2526 | 
+ Color: yellow |
+<br>
+
+ > the editors in New York get this story and say, “We can’t make this guy Man of the Year.” That really hurt. But it was a good lesson. It taught me to never get too excited about things like that, since the media is a circus anyway. They FedExed me the magazine, and I remember opening the package, thoroughly expecting to see my mug on the cover, and it was this computer sculpture thing. I thought, “Huh?” And then I read the article, and it was so awful that I actually cried.
+
+| Location: 2554 | 
+ Color: yellow |
+<br>
+
+ > Jobs kept a tight rein on the hiring process. The goal was to get people who were creative, wickedly smart, and slightly rebellious. The software team would make applicants play Defender, Smith’s favorite video game. Jobs would ask his usual offbeat questions to see how well the applicant could think in unexpected situations.
+
+| Location: 2581 | 
+ Color: yellow |
+<br>
+
+ > After mentioning a scheduled completion date, he told them, “It would be better to miss than to turn out the wrong thing.” A different type of project manager, willing to make some trade-offs, might try to lock in dates after which no changes could be made. Not Jobs. He displayed another maxim: “It’s not done until it ships.”
+
+| Location: 2598 | 
+ Color: yellow |
+<br>
+
+ > contained a koōan-like phrase that he later told me was his favorite maxim: “The journey is the reward.”
+
+| Location: 2600 | 
+ Color: yellow |
+<br>
+
+ > At the end of the presentation someone asked whether he thought they should do some market research to see what customers wanted. “No,” he replied, “because customers don’t know what they want until we’ve shown them.”
+
+| Location: 2603 | 
+ Color: yellow |
+<br>
+
+ > At the end, Jobs stood in front of the assemblage and gave a soliloquy. “As every day passes, the work fifty people are doing here is going to send a giant ripple through the universe,” he said. “I know I might be a little hard to get along with, but this is the most fun thing I’ve done in my life.” Years later most of those in the audience would be able to laugh about the “little hard to get along with” episodes and agree with him that creating that giant ripple was the most fun they had in their lives.
+
+| Location: 2609 | 
+ Color: blue |
+<br>
+
+ > The next retreat was at the end of January 1983, the same month the Lisa launched, and there was a shift in tone. Four months earlier Jobs had written on his flip chart: “Don’t compromise.” This time one of the maxims was “Real artists ship.” Nerves were frayed.
+
+| Location: 2613 | 
+ Color: blue |
+<br>
+
+ > Another of Jobs’s maxims at the retreat was “It’s better to be a pirate than to join the navy.” He wanted to instill a rebel spirit in his team, to have them behave like swashbucklers who were proud of their work but willing to commandeer from others. As Susan Kare put it, “He meant, ‘Let’s have a renegade feeling to our group. We can move fast. We can get things done.’” To celebrate Jobs’s birthday a few weeks later, the team paid for a billboard on the road to Apple headquarters. It read: “Happy 28th Steve. The Journey is the Reward.—The Pirates.”
+
+| Location: 2623 | 
+ Color: blue |
+<br>
+
+ > Jobs disagreed. He decided that they would work with Alps to produce their own drive, and he ordered Belleville to cease all work with Sony. Belleville decided it was best to partially ignore Jobs, and he asked a Sony executive to get its disk drive ready for use in the Macintosh. If and when it became clear that Alps could not deliver on time, Apple would switch to Sony. So Sony sent over the engineer who had developed the drive, Hidetoshi Komoto, a Purdue graduate who fortunately possessed a good sense of humor about his clandestine task. Whenever Jobs would come from his corporate office to visit the Mac team’s engineers—which was almost every afternoon—they would hurriedly find somewhere for Komoto to hide.
+
+| Location: 2662 | 
+ Color: yellow |
+<br>
+
+ > “Steve swallowed his pride and thanked them for disobeying him and doing the right thing.” It was, after all, what he would have done in their situation.
+
+| Location: 2676 | 
+ Color: blue |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER FOURTEEN Enter Sculley: The Pepsi Challenge
+
+ > Sculley found Jobs as memorable as his machine. “He seemed more a showman than a businessman. Every move seemed calculated, as if it was rehearsed, to create an occasion of the moment.”
+
+| Location: 2747 | 
+ Color: yellow |
+<br>
+
+ > he issued a challenge that would haunt me for days. ‘Do you want to spend the rest of your life selling sugared water, or do you want a chance to change the world?’” Sculley felt as if he had been punched in the stomach. There was no response possible other than to acquiesce. “He had an uncanny ability to always get what he wanted, to size up a person and know exactly what to say to reach a person,” Sculley recalled. “I realized for the first time in four months that I couldn’t say no.”
+
+| Location: 2778 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER FIFTEEN The Launch: A Dent in the Universe
+
+ > Real artists ship, Jobs had declared, and now the Macintosh team had.
+
+| Location: 2887 | 
+ Color: blue |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER SIXTEEN Gates and Jobs: When Orbits Intersect
+
+ > Gates was good at computer coding, unlike Jobs, and his mind was more practical, disciplined, and abundant in analytic processing power. Jobs was more intuitive and romantic and had a greater instinct for making technology usable, design delightful, and interfaces friendly. He had a passion for perfection, which made him fiercely demanding, and he managed by charisma and scattershot intensity. Gates was more methodical; he held tightly scheduled product review meetings where he would cut to the heart of issues with lapidary skill.
+
+| Location: 3054 | 
+ Color: yellow |
+<br>
+
+ > “Each one thought he was smarter than the other one, but Steve generally treated Bill as someone who was slightly inferior, especially in matters of taste and style,” said Andy Hertzfeld. “Bill looked down on Steve because he couldn’t actually program.” From the beginning of their relationship, Gates was fascinated by Jobs and slightly envious of his mesmerizing effect on people. But he also found him “fundamentally odd” and “weirdly flawed as a human being,” and he was put off by Jobs’s rudeness and his tendency to be “either in the mode of saying you were shit or trying to seduce you.” For his part, Jobs found Gates unnervingly narrow. “He’d be a broader guy if he had dropped acid once or gone off to an ashram when he was younger,” Jobs once declared.
+
+| Location: 3061 | 
+ Color: yellow |
+<br>
+
+ > They met in Jobs’s conference room, where Gates found himself surrounded by ten Apple employees who were eager to watch their boss assail him. Jobs didn’t disappoint his troops. “You’re ripping us off!” he shouted. “I trusted you, and now you’re stealing from us!” Hertzfeld recalled that Gates just sat there coolly, looking Steve in the eye, before hurling back, in his squeaky voice, what became a classic zinger. “Well, Steve, I think there’s more than one way of looking at it. I think it’s more like we both had this rich neighbor named Xerox and I broke into his house to steal the TV set and found out that you had already stolen it.”
+
+| Location: 3150 | 
+ Color: yellow |
+<br>
+
+ > Jobs never got over his anger. “They just ripped us off completely, because Gates has no shame,” Jobs told me almost thirty years later. Upon hearing this, Gates responded, “If he believes that, he really has entered into one of his own reality distortion fields.” In a legal sense, Gates was right, as courts over the years have subsequently ruled. And on a practical level, he had a strong case as well. Even though Apple made a deal for the right to use what it saw at Xerox PARC, it was inevitable that other companies would develop similar graphical interfaces. As Apple found out, the “look and feel” of a computer interface design is a hard thing to protect.
+
+| Location: 3169 | 
+ Color: blue |
+<br>
+
+ > Apple had been more innovative, imaginative, elegant in execution, and brilliant in design. But even though Microsoft created a crudely copied series of products, it would end up winning the war of operating systems. This exposed an aesthetic flaw in how the universe worked: The best and most innovative products don’t always win. A decade later, this truism caused Jobs to let loose a rant that was somewhat arrogant and over-the-top, but also had a whiff of truth to it. “The only problem with Microsoft is they just have no taste, they have absolutely no taste,” he said. “I don’t mean that in a small way. I mean that in a big way, in the sense that they don’t think of original ideas and they don’t bring much culture into their product.”
+
+| Location: 3174 | 
+ Color: pink |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER SEVENTEEN Icarus: What Goes Up . . .
+
+ > The Lisa and Macintosh divisions were folded together, with Jobs in charge. He was flying high, but this did not serve to make him more mellow. Indeed there was a memorable display of his brutal honesty when he stood in front of the combined Lisa and Macintosh teams to describe how they would be merged. His Macintosh group leaders would get all of the top positions, he said, and a quarter of the Lisa staff would be laid off. “You guys failed,” he said, looking directly at those who had worked on the Lisa. “You’re a B team. B players. Too many people here are B or C players, so today we are releasing some of you to have the opportunity to work at our sister companies here in the valley.” Bill Atkinson, who had worked on both teams, thought it was not only callous, but unfair. “These people had worked really hard and were brilliant engineers,”
+
+| Location: 3194 | 
+ Color: yellow |
+<br>
+
+ > Jobs had latched onto what he believed was a key management lesson from his Macintosh experience: You have to be ruthless if you want to build a team of A players. “It’s too easy, as a team grows, to put up with a few B players, and they then attract a few more B players, and soon you will even have some C players,” he recalled. “The Macintosh experience taught me that A players like to work only with other A players, which means you can’t indulge B players.”
+
+| Location: 3200 | 
+ Color: pink |
+<br>
+
+ > Jobs said it was a way to ensure a passion for perfection: I’d go out to the factory, and I’d put on a white glove to check for dust. I’d find it everywhere—on machines, on the tops of the racks, on the floor. And I’d ask Debi to get it cleaned. I told her I thought we should be able to eat off the floor of the factory. Well, this drove Debi up the wall. She didn’t understand why. And I couldn’t articulate it back then. See, I’d been very influenced by what I’d seen in Japan. Part of what I greatly admired there—and part of what we were lacking in our factory—was a sense of teamwork and discipline. If we didn’t have the discipline to keep that place spotless, then we weren’t going to have the discipline to keep all these machines running.
+
+| Location: 3235 | 
+ Color: yellow |
+<br>
+
+ > He insisted that the Macintosh have just one floppy disk drive. If you wanted to copy data, you could end up with a new form of tennis elbow from having to swap floppy disks in and out of the single drive.
+
+| Location: 3286 | 
+ Color: yellow |
+<br>
+
+ > The interview touched on many subjects, but Jobs’s most poignant ruminations were about growing old and facing the future: Your thoughts construct patterns like scaffolding in your mind. You are really etching chemical patterns. In most cases, people get stuck in those patterns, just like grooves in a record, and they never get out of them. I’ll always stay connected with Apple. I hope that throughout my life I’ll sort of have the thread of my life and the thread of Apple weave in and out of each other, like a tapestry. There may be a few years when I’m not there, but I’ll always come back. . . . If you want to live your life in a creative way, as an artist, you have to not look back too much. You have to be willing to take whatever you’ve done and whoever you were and throw them away. The more the outside world tries to reinforce an image of you, the harder it is to continue to be an artist, which is why a lot of times, artists have to say, “Bye. I have to go. I’m going crazy and I’m getting out of here.” And they go and hibernate somewhere. Maybe later they re-emerge a little differently. With each of those statements, Jobs seemed to have a premonition that his life would soon be changing. Perhaps the thread of his life would indeed weave in and out of the thread of Apple’s. Perhaps it was time to throw away some of what he had been. Perhaps it was time to say “Bye, I have to go,” and then reemerge later, thinking differently.
+
+| Location: 3344 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER EIGHTEEN NeXT: Prometheus Unbound
+
+ > Apple’s threat to sue him was outrageous. It was also sad. It showed that Apple was no longer a confident, rebellious company. “It’s hard to think that a $2 billion company with 4,300 employees couldn’t compete with six people in blue jeans.”
+
+| Location: 3810 | 
+ Color: yellow |
+<br>
+
+ > At the company he founded after being ousted from Apple, Jobs was able to indulge all of his instincts, both good and bad. He was unbound. The result was a series of spectacular products that were dazzling market flops. This was the true learning experience. What prepared him for the great success he would have in Act III was not his ouster from his Act I at Apple but his brilliant failures in Act II.
+
+| Location: 3819 | 
+ Color: yellow |
+<br>
+
+ > Jobs had always indulged his obsession that the unseen parts of a product should be crafted as beautifully as its façade, just as his father had taught him when they were building a fence. This too he took to extremes when he found himself unfettered at NeXT. He made sure that the screws inside the machine had expensive plating. He even insisted that the matte black finish be coated onto the inside of the cube’s case, even though only repairmen would see it.
+
+| Location: 3888 | 
+ Color: yellow |
+<br>
+
+ > “His product comes with an interesting feature called incompatibility,” Gates told the Washington Post. “It doesn’t run any of the existing software. It’s a super-nice computer. I don’t think if I went out to design an incompatible computer I would have done as well as he did.”
+
+| Location: 4008 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER TWENTY-THREE The Second Coming: What Rough Beast, Its Hour Come Round at Last . . .
+
+ > Feeling like a genius back in 1987, John Sculley had made a series of proclamations that nowadays sound embarrassing. Jobs wanted Apple “to become a wonderful consumer products company,” Sculley wrote. “This was a lunatic plan. . . . Apple would never be a consumer products company. . . . We couldn’t bend reality to all our dreams of changing the world. . . . High tech could not be designed and sold as a consumer product.”
+
+| Location: 5035 | 
+ Color: blue |
+<br>
+
+ > Jobs was appalled, and he became angry and contemptuous as Sculley presided over a steady decline in market share for Apple in the early 1990s. “Sculley destroyed Apple by bringing in corrupt people and corrupt values,” Jobs later lamented. “They cared about making money—for themselves mainly, and also for Apple—rather than making great products.” He felt that Sculley’s drive for profits came at the expense of gaining market share. “Macintosh lost to Microsoft because Sculley insisted on milking all the profits he could get rather than improving the product and making it affordable.” As a result, the profits eventually disappeared.
+
+| Location: 5038 | 
+ Color: yellow |
+<br>
+
+ > “Apple deserved it. After I left, it didn’t invent anything new. The Mac hardly improved. It was a sitting duck for Microsoft.”
+
+| Location: 5046 | 
+ Color: blue |
+<br>
+
+ > There was, of course, one other option. Two years earlier Macworld magazine columnist (and former Apple software evangelist) Guy Kawasaki had published a parody press release joking that Apple was buying NeXT and making Jobs its CEO. In the spoof Mike Markkula asked Jobs, “Do you want to spend the rest of your life selling UNIX with a sugarcoating, or change the world?” Jobs responded, “Because I’m now a father, I needed a steadier source of income.” The release noted that “because of his experience at Next, he is expected to bring a newfound sense of humility back to Apple.” It also quoted Bill Gates as saying there would now be more innovations from Jobs that Microsoft could copy. Everything in the press release was meant as a joke, of course. But reality has an odd habit of catching up with satire.
+
+| Location: 5083 | 
+ Color: blue |
+<br>
+
+ > Ellison thought that Jobs was missing a key point. “But Steve, there’s one thing I don’t understand,” he said. “If we don’t buy the company, how can we make any money?” It was a reminder of how different their desires were. Jobs put his hand on Ellison’s left shoulder, pulled him so close that their noses almost touched, and said, “Larry, this is why it’s really important that I’m your friend. You don’t need any more money.” Ellison recalled that his own answer was almost a whine: “Well, I may not need the money, but why should some fund manager at Fidelity get the money? Why should someone else get it? Why shouldn’t it be us?” “I think if I went back to Apple, and I didn’t own any of Apple, and you didn’t own any of Apple, I’d have the moral high ground,” Jobs replied. “Steve, that’s really expensive real estate, this moral high ground,” said Ellison. “Look, Steve, you’re my best friend, and Apple is your company. I’ll do whatever you want.” Although Jobs later said that he was not plotting to take over Apple at the time, Ellison thought it was inevitable. “Anyone who spent more than a half hour with Amelio would realize that he couldn’t do anything but self-destruct,” he later said.
+
+| Location: 5112 | 
+ Color: yellow |
+<br>
+
+ > But the Pixar people were happy to see him go back to Apple part-time; a little less of Jobs’s focus would be a good thing. He was useful when there were big negotiations, but he could be dangerous when he had too much time on his hands.
+
+| Location: 5187 | 
+ Color: yellow |
+<br>
+
+ > He said he wanted Lasseter’s blessing. “I keep thinking about all the time away from my family this will cause, and the time away from the other family at Pixar,” Jobs said. “But the only reason I want to do it is that the world will be a better place with Apple in it.”
+
+| Location: 5189 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER TWENTY-FOUR The Restoration: The Loser Now Will Be Later to Win
+
+ > The Loser Now Will Be Later to Win
+
+| Location: 5195 | 
+ Color: pink |
+<br>
+
+ > “It’s rare that you see an artist in his thirties or forties able to really contribute something amazing,” Jobs declared as he was about to turn thirty. That held true for Jobs in his thirties, during the decade that began with his ouster from Apple in 1985. But after turning forty in 1995, he flourished. Toy Story was released that year, and the following year Apple’s purchase of NeXT offered him reentry into the company he had founded. In returning to Apple, Jobs would show that even people over forty could be great innovators.
+
+| Location: 5198 | 
+ Color: blue |
+<br>
+
+ > He had told Larry Ellison that his return strategy was to sell NeXT to Apple, get appointed to the board, and be there ready when CEO Gil Amelio stumbled. Ellison may have been baffled when Jobs insisted that he was not motivated by money, but it was partly true. He had neither Ellison’s conspicuous consumption needs nor Gates’s philanthropic impulses nor the competitive urge to see how high on the Forbes list he could get. Instead his ego needs and personal drives led him to seek fulfillment by creating a legacy that would awe people. A dual legacy, actually: building innovative products and building a lasting company. He wanted to be in the pantheon with, indeed a notch above, people like Edwin Land, Bill Hewlett, and David Packard. And the best way to achieve all this was to return to Apple and reclaim his kingdom.
+
+| Location: 5203 | 
+ Color: blue |
+<br>
+
+ > That spring Larry Ellison saw Amelio at a party and introduced him to the technology journalist Gina Smith, who asked how Apple was doing. “You know, Gina, Apple is like a ship,” Amelio answered. “That ship is loaded with treasure, but there’s a hole in the ship. And my job is to get everyone to row in the same direction.” Smith looked perplexed and asked, “Yeah, but what about the hole?” From then on, Ellison and Jobs joked about the parable of the ship. “When Larry relayed this story to me, we were in this sushi place, and I literally fell off my chair laughing,” Jobs recalled. “He was just such a buffoon, and he took himself so seriously. He insisted that everyone call him Dr. Amelio. That’s always a warning sign.”
+
+Notes:
+
+`😂😂`
+| Location: 5283 | 
+ Color: blue |
+<br>
+
+ > Why did Jobs not seize the reins? Why was he reluctant to grab the job that for two decades he had seemed to desire? When I asked him, he said: We’d just taken Pixar public, and I was happy being CEO there. I never knew of anyone who served as CEO of two public companies, even temporarily, and I wasn’t even sure it was legal. I didn’t know what I wanted to do. I was enjoying spending more time with my family. I was torn. I knew Apple was a mess, so I wondered: Do I want to give up this nice lifestyle that I have? What are all the Pixar shareholders going to think? I talked to people I respected. I finally called Andy Grove at about eight one Saturday morning—too early. I gave him the pros and the cons, and in the middle he stopped me and said, “Steve, I don’t give a shit about Apple.” I was stunned. It was then I realized that I do give a shit about Apple—I started it and it is a good thing to have in the world. That was when I decided to go back on a temporary basis to help them hire a CEO. The claim that he was enjoying spending more time with his family was not convincing. He was never destined to win a Father of the Year trophy, even when he had spare time on his hands. He was getting better at paying heed to his children, especially Reed, but his primary focus was on his work. He was frequently aloof from his two younger daughters, estranged again from Lisa, and often prickly as a husband. So what was the real reason for his hesitancy in taking over at Apple? For all of his willfulness and insatiable desire to control things, Jobs was indecisive and reticent when he felt unsure about something. He craved perfection, and he was not always good at figuring out how to settle for something less. He did not like to wrestle with complexity or make accommodations. This was true in products, design, and furnishings for the house. It was also true when it came to personal commitments. If he knew for sure a course of action was right, he was unstoppable. But if he had doubts, he sometimes withdrew, preferring not to think about things that did not perfectly suit him.
+
+| Location: 5355 | 
+ Color: blue |
+<br>
+
+ > This attitude arose partly out of his tendency to see the world in binary terms. A person was either a hero or a bozo, a product was either amazing or shit. But he could be stymied by things that were more complex, shaded, or nuanced: getting married, buying the right sofa, committing to run a company. In addition, he didn’t want to be set up for failure.
+
+| Location: 5372 | 
+ Color: yellow |
+<br>
+
+ > At times Jobs displayed a strange mixture of prickliness and neediness. He usually didn’t care one iota what people thought of him; he could cut people off and never care to speak to them again. Yet sometimes he also felt a compulsion to explain himself. So that evening Amelio received, to his surprise, a phone call from Jobs.
+
+| Location: 5386 | 
+ Color: blue |
+<br>
+
+ > It immediately became clear that, whether or not he wanted to admit it publicly (or even to himself), Jobs was going to take control and not be a mere advisor. As soon as he came onstage that day—wearing shorts, sneakers, and a black turtleneck—he got to work reinvigorating his beloved institution. “Okay, tell me what’s wrong with this place,” he said. There were some murmurings, but Jobs cut them off. “It’s the products!” he answered. “So what’s wrong with the products?” Again there were a few attempts at an answer, until Jobs broke in to hand down the correct answer. “The products suck!” he shouted. “There’s no sex in them anymore!”
+
+| Location: 5402 | 
+ Color: yellow |
+<br>
+
+ > “This company is in shambles, and I don’t have time to wet-nurse the board. So I need all of you to resign. Or else I’m going to resign and not come back on Monday.” The one person who could stay, he said, was Woolard.
+
+| Location: 5426 | 
+ Color: yellow |
+<br>
+
+ > “He told me he wanted a new board because he wanted to start fresh,” Markkula said. “He was worried that I might take it poorly, and he was relieved when I didn’t.” They spent the rest of the time talking about where Apple should focus in the future. Jobs’s ambition was to build a company that would endure, and he asked Markkula what the formula for that would be. Markkula replied that lasting companies know how to reinvent themselves. Hewlett-Packard had done that repeatedly; it started as an instrument company, then became a calculator company, then a computer company. “Apple has been sidelined by Microsoft in the PC business,” Markkula said. “You’ve got to reinvent the company to do some other thing, like other consumer products or devices. You’ve got to be like a butterfly and have a metamorphosis.” Jobs didn’t say much, but he agreed.
+
+| Location: 5444 | 
+ Color: yellow |
+<br>
+
+ > Jobs also brought in Bill Campbell, who had run marketing at Apple in the early 1980s and been caught in the middle of the Sculley-Jobs clash. Campbell had ended up sticking with Sculley, but he had grown to dislike him so much that Jobs forgave him. Now he was the CEO of Intuit and a walking buddy of Jobs. “We were sitting out in the back of his house,” recalled Campbell, who lived only five blocks from Jobs in Palo Alto, “and he said he was going back to Apple and wanted me on the board. I said, ‘Holy shit, of course I will do that.’” Campbell had been a football coach at Columbia, and his great talent, Jobs said, was to “get A performances out of B players.” At Apple, Jobs told him, he would get to work with A players.
+
+| Location: 5457 | 
+ Color: yellow |
+<br>
+
+ > As he spoke, his passion poured forth with increasing intensity, and he began saying “we” and “I”—rather than “they”—when referring to what Apple would be doing.
+
+| Location: 5489 | 
+ Color: yellow |
+<br>
+
+ > “I think you still have to think differently to buy an Apple computer,” he said. “The people who buy them do think different. They are the creative spirits in this world, and they’re out to change the world. We make tools for those kinds of people.” When he stressed the word “we” in that sentence, he cupped his hands and tapped his fingers on his chest. And then, in his final peroration, he continued to stress the word “we” as he talked about Apple’s future. “We too are going to think differently and serve the people who have been buying our products from the beginning. Because a lot of people think they’re crazy, but in that craziness we see genius.”
+
+| Location: 5491 | 
+ Color: blue |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER TWENTY-FIVE Think Different: Jobs as iCEO
+
+ > Here’s to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They’re not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can’t do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world are the ones who do.
+
+| Location: 5593 | 
+ Color: yellow |
+<br>
+
+ > They debated the grammatical issue: If “different” was supposed to modify the verb “think,” it should be an adverb, as in “think differently.” But Jobs insisted that he wanted “different” to be used as a noun, as in “think victory” or “think beauty.” Also, it echoed colloquial use, as in “think big.” Jobs later explained, “We discussed whether it was correct before we ran it. It’s grammatical, if you think about what we’re trying to say. It’s not think the same, it’s think different. Think a little different, think a lot different, think different. ‘Think differently’ wouldn’t hit the meaning for me.”
+
+| Location: 5602 | 
+ Color: yellow |
+<br>
+
+ > The problem Jobs faced was that running two companies was brutal. Looking back on it, he traced his health problems back to those days: It was rough, really rough, the worst time in my life. I had a young family. I had Pixar. I would go to work at 7 a.m. and I’d get back at 9 at night, and the kids would be in bed. And I couldn’t speak, I literally couldn’t, I was so exhausted. I couldn’t speak to Laurene. All I could do was watch a half hour of TV and vegetate. It got close to killing me. I was driving up to Pixar and down to Apple in a black Porsche convertible, and I started to get kidney stones. I would rush to the hospital and the hospital would give me a shot of Demerol in the butt and eventually I would pass it.
+
+| Location: 5668 | 
+ Color: yellow |
+<br>
+
+ > One of Jobs’s great strengths was knowing how to focus. “Deciding what not to do is as important as deciding what to do,” he said. “That’s true for companies, and it’s true for products.”
+
+| Location: 5713 | 
+ Color: pink |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER TWENTY-SIX Design Principles: The Studio of Jobs and Ive
+
+ > Why do we assume that simple is good? Because with physical products, we have to feel we can dominate them. As you bring order to complexity, you find a way to make the product defer to you. Simplicity isn’t just a visual style. It’s not just minimalism or the absence of clutter. It involves digging through the depth of the complexity. To be truly simple, you have to go really deep.
+
+| Location: 5815 | 
+ Color: yellow |
+<br>
+
+ > That was the fundamental principle Jobs and Ive shared. Design was not just about what a product looked like on the surface. It had to reflect the product’s essence. “In most people’s vocabularies, design means veneer,” Jobs told Fortune shortly after retaking the reins at Apple. “But to me, nothing could be further from the meaning of design. Design is the fundamental soul of a man-made creation that ends up expressing itself in successive outer layers.”
+
+| Location: 5821 | 
+ Color: yellow |
+<br>
+
+ > Early on, Mike Markkula had taught Jobs to “impute”—to understand that people do judge a book by its cover—and therefore to make sure all the trappings and packaging of Apple signaled that there was a beautiful gem inside. Whether it’s an iPod Mini or a MacBook Pro, Apple customers know the feeling of opening up the well-crafted box and finding the product nestled in an inviting fashion.
+
+| Location: 5880 | 
+ Color: yellow |
+<br>
+
+ > Ive, who has the sensitive temperament of an artist, at times got upset with Jobs for taking too much credit, a habit that has bothered other colleagues over the years. His personal feelings for Jobs were so intense that at times he got easily bruised. “He will go through a process of looking at my ideas and say, ‘That’s no good. That’s not very good. I like that one,’” Ive said. “And later I will be sitting in the audience and he will be talking about it as if it was his idea. I pay maniacal attention to where an idea comes from, and I even keep notebooks filled with my ideas. So it hurts when he takes credit for one of my designs.” Ive also has bristled when outsiders portrayed Jobs as the only ideas guy at Apple. “That makes us vulnerable as a company,” Ive said earnestly, his voice soft. But then he paused to recognize the role Jobs in fact played. “In so many other companies, ideas and great design get lost in the process,” he said. “The ideas that come from me and my team would have been completely irrelevant, nowhere, if Steve hadn’t been here to push us, work with us, and drive through all the resistance to turn our ideas into products.”
+
+| Location: 5885 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER TWENTY-EIGHT CEO: Still Crazy after All These Years
+
+ > He also came to like the idea of having a uniform for himself, because of both its daily convenience (the rationale he claimed) and its ability to convey a signature style. “So I asked Issey to make me some of his black turtlenecks that I liked, and he made me like a hundred of them.” Jobs noticed my surprise when he told this story, so he gestured to them stacked up in the closet. “That’s what I wear,” he said. “I have enough to last for the rest of my life.”
+
+| Location: 6101 | 
+ Color: yellow |
+<br>
+
+ > Many companies pride themselves on having few meetings. Jobs had many: an executive staff session every Monday, a marketing strategy session all Wednesday afternoon, and endless product review sessions. Still allergic to PowerPoints and formal presentations, he insisted that the people around the table hash out issues from various vantages and the perspectives of different departments.
+
+| Location: 6106 | 
+ Color: yellow |
+<br>
+
+ > For most things in life, the range between best and average is 30% or so. The best airplane flight, the best meal, they may be 30% better than your average one. What I saw with Woz was somebody who was fifty times better than the average engineer. He could have meetings in his head. The Mac team was an attempt to build a whole team like that, A players. People said they wouldn’t get along, they’d hate working with each other. But I realized that A players like to work with A players, they just didn’t like working with C players. At Pixar, it was a whole company of A players. When I got back to Apple, that’s what I decided to try to do. You need to have a collaborative hiring process. When we hire someone, even if they’re going to be in marketing, I will have them talk to the design folks and the engineers. My role model was J. Robert Oppenheimer. I read about the type of people he sought for the atom bomb project. I wasn’t nearly as good as he was, but that’s what I aspired to do.
+
+| Location: 6117 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER THIRTY The Digital Hub: From iTunes to the iPod
+
+ > In order to make the iPod really easy to use—and this took a lot of arguing on my part—we needed to limit what the device itself would do. Instead we put that functionality in iTunes on the computer. For example, we made it so you couldn’t make playlists using the device.
+
+| Location: 6527 | 
+ Color: yellow |
+<br>
+
+ > The most Zen of all simplicities was Jobs’s decree, which astonished his colleagues, that the iPod would not have an on-off switch. It became true of most Apple devices. There was no need for one. Apple’s devices would go dormant if they were not being used, and they would wake up when you touched any key. But there was no need for a switch that would go “Click—you’re off. Good-bye.”
+
+| Location: 6533 | 
+ Color: yellow |
+<br>
+
+ > The white would be not just white, but pure white. “Not only the device, but the headphones and the wires and even the power block,” he recalled. “Pure white.” Others kept arguing that the headphones, of course, should be black, like all headphones. “But Steve got it immediately, and embraced white,” said Ive. “There would be a purity to it.”
+
+| Location: 6546 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER THIRTY-ONE The iTunes Store: I’m the Pied Piper
+
+ > “Piracy and online downloads had already deconstructed the album,” recalled Jobs. “You couldn’t compete with piracy unless you sold the songs individually.” At the heart of the problem was a chasm between the people who loved technology and those who loved artistry.
+
+| Location: 6652 | 
+ Color: yellow |
+<br>
+
+ > Jobs flew east to show the service to other Time Warner execs. “He sat in front of a Mac like a kid with a toy,” Vidich recalled. “Unlike any other CEO, he was totally engaged with the product.”
+
+| Location: 6674 | 
+ Color: yellow |
+<br>
+
+ > Jobs insisted that he come over to the house in Palo Alto, and he proceeded to show off iTunes. “What do you want to search for?” he asked Marsalis. Beethoven, the trumpeter replied. “Watch what it can do!” Jobs kept insisting when Marsalis’s attention would wander. “See how the interface works.” Marsalis later recalled, “I don’t care much about computers, and kept telling him so, but he goes on for two hours. He was a man possessed. After a while, I started looking at him and not the computer, because I was so fascinated with his passion.”
+
+| Location: 6738 | 
+ Color: yellow |
+<br>
+
+ > The price? Just 99 cents, he said, less than a third of what a Starbucks latte cost. Why was it worth it? Because to get the right song from Kazaa took about fifteen minutes, rather than a minute. By spending an hour of your time to save about four dollars, he calculated, “you’re working for under the minimum wage!” And one more thing . . . “With iTunes, it’s not stealing anymore. It’s good karma.”
+
+Notes:
+
+`Music from iTunes`
+| Location: 6753 | 
+ Color: yellow |
+<br>
+
+ > should it also create a version of iTunes to serve as the music-management software for those Windows users? As usual, Jobs believed the hardware and software should go together: The user experience depended on the iPod working in complete sync (so to speak) with iTunes software on the computer. Schiller was opposed. “I thought that was crazy, since we don’t make Windows software,” Schiller recalled. “But Steve kept arguing, ‘If we’re going to do it, we should do it right.’”
+
+| Location: 6793 | 
+ Color: yellow |
+<br>
+
+ > The older I get, the more I see how much motivations matter. The Zune was crappy because the people at Microsoft don’t really love music or art the way we do. We won because we personally love music. We made the iPod for ourselves, and when you’re doing something for yourself, or your best friend or family, you’re not going to cheese out. If you don’t love something, you’re not going to go the extra mile, work the extra weekend, challenge the status quo as much.
+
+| Location: 6817 | 
+ Color: yellow |
+<br>
+
+ > But Sony couldn’t. It had pioneered portable music with the Walkman, it had a great record company, and it had a long history of making beautiful consumer devices. It had all of the assets to compete with Jobs’s strategy of integration of hardware, software, devices, and content sales. Why did it fail? Partly because it was a company, like AOL Time Warner, that was organized into divisions (that word itself was ominous) with their own bottom lines; the goal of achieving synergy in such companies by prodding the divisions to work together was usually elusive.
+
+| Location: 6826 | 
+ Color: yellow |
+<br>
+
+ > Jobs did not organize Apple into semiautonomous divisions; he closely controlled all of his teams and pushed them to work as one cohesive and flexible company, with one profit-and-loss bottom line. “We don’t have ‘divisions’ with their own P&L,” said Tim Cook. “We run one P&L for the company.” In addition, like many companies, Sony worried about cannibalization. If it built a music player and service that made it easy for people to share digital songs, that might hurt sales of its record division. One of Jobs’s business rules was to never be afraid of cannibalizing yourself. “If you don’t cannibalize yourself, someone else will,” he said. So even though an iPhone might cannibalize sales of an iPod, or an iPad might cannibalize sales of a laptop, that did not deter him.
+
+| Location: 6831 | 
+ Color: blue |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER THIRTY-THREE Pixar’s Friends: . . . and Foes
+
+ > Creativity comes from spontaneous meetings, from random discussions. You run into someone, you ask what they’re doing, you say ‘Wow,’ and soon you’re cooking up all sorts of ideas.” So he had the Pixar building designed to promote encounters and unplanned collaborations. “If a building doesn’t encourage that, you’ll lose a lot of innovation and the magic that’s sparked by serendipity,” he said. “So we designed the building to make people get out of their offices and mingle in the central atrium with people they might not otherwise see.” The front doors and main stairs and corridors all led to the atrium, the café and the mailboxes were there, the conference rooms had windows that looked out onto it, and the six-hundred-seat theater and two smaller screening rooms all spilled into it. “Steve’s theory worked from day one,” Lasseter recalled. “I kept running into people I hadn’t seen for months. I’ve never seen a building that promoted collaboration and creativity as well as this one.”
+
+| Location: 7200 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER THIRTY-FIVE Round One: Memento Mori
+
+ > Alex Haley once said that the best way to begin a speech is “Let me tell you a story.” Nobody is eager for a lecture, but everybody loves a story. And that was the approach Jobs chose. “Today, I want to tell you three stories from my life,” he began. “That’s it. No big deal. Just three stories.”
+
+| Location: 7609 | 
+ Color: yellow |
+<br>
+
+ > Remembering that I’ll be dead soon is the most important tool I’ve ever encountered to help me make the big choices in life. Because almost everything—all external expectations, all pride, all fear of embarrassment or failure—these things just fall away in the face of death, leaving only what is truly important. Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart. The artful minimalism of the speech gave it simplicity, purity, and charm. Search where you will, from anthologies to YouTube, and you won’t find a better commencement address.
+
+| Location: 7617 | 
+ Color: blue |
+<br>
+
+ > Ive realized that most people, himself among them, tend not to be direct when they feel something is shoddy because they want to be liked, “which is actually a vain trait.” That was an overly kind explanation. In any case, it was not a trait Jobs had.
+
+| Location: 7699 | 
+ Color: yellow |
+<br>
+
+ > He’s a very, very sensitive guy. That’s one of the things that makes his antisocial behavior, his rudeness, so unconscionable. I can understand why people who are thick-skinned and unfeeling can be rude, but not sensitive people. I once asked him why he gets so mad about stuff. He said, “But I don’t stay mad.” He has this very childish ability to get really worked up about something, and it doesn’t stay with him at all. But there are other times, I think honestly, when he’s very frustrated, and his way to achieve catharsis is to hurt somebody. And I think he feels he has a liberty and a license to do that. The normal rules of social engagement, he feels, don’t apply to him. Because of how very sensitive he is, he knows exactly how to efficiently and effectively hurt someone. And he does do that.
+
+| Location: 7703 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER THIRTY-SIX The iPhone: Three Revolutionary Products in One
+
+ > Their initial approach was to modify the iPod. They tried to use the trackwheel as a way for a user to scroll through phone options and, without a keyboard, try to enter numbers. It was not a natural fit. “We were having a lot of problems using the wheel, especially in getting it to dial phone numbers,” Fadell recalled. “It was cumbersome.”
+
+| Location: 7767 | 
+ Color: yellow |
+<br>
+
+ > By not having a replaceable battery, it was possible to make the iPhone much thinner. For Jobs, thinner was always better. “He’s always believed that thin is beautiful,” said Tim Cook. “You can see that in all of the work. We have the thinnest notebook, the thinnest smartphone, and we made the iPad thin and then even thinner.”
+
+| Location: 7876 | 
+ Color: yellow |
+<br>
+
+ > In his piece Grossman correctly noted that the iPhone did not really invent many new features, it just made these features a lot more usable. “But that’s important. When our tools don’t work, we tend to blame ourselves, for being too stupid or not reading the manual or having too-fat fingers. . . . When our tools are broken, we feel broken. And when somebody fixes one, we feel a tiny bit more whole.”
+
+| Location: 7883 | 
+ Color: pink |
+<br>
+
+ > In a career of dazzling product presentations, this may have been his best. “Every once in a while a revolutionary product comes along that changes everything,” he began. He referred to two earlier examples: the original Macintosh, which “changed the whole computer industry,” and the first iPod, which “changed the entire music industry.” Then he carefully built up to the product he was about to launch: “Today, we’re introducing three revolutionary products of this class. The first one is a widescreen iPod with touch controls. The second is a revolutionary mobile phone. And the third is a breakthrough Internet communications device.” He repeated the list for emphasis, then asked, “Are you getting it? These are not three separate devices, this is one device, and we are calling it iPhone.”
+
+| Location: 7887 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER FORTY-ONE Round Three: The Twilight Struggle
+
+ > He knew how to flatter Jobs: He asked if he could come by and get tips on how to be a good CEO. Jobs was still furious at Google. “My first thought was, ‘Fuck you,’” he recounted. “But then I thought about it and realized that everybody helped me when I was young, from Bill Hewlett to the guy down the block who worked for HP. So I called him back and said sure.”
+
+| Location: 9142 | 
+ Color: yellow |
+<br>
+
+ > We talked a lot about focus. And choosing people. How to know who to trust, and how to build a team of lieutenants he can count on. I described the blocking and tackling he would have to do to keep the company from getting flabby or being larded with B players. The main thing I stressed was focus. Figure out what Google wants to be when it grows up. It’s now all over the map. What are the five products you want to focus on? Get rid of the rest, because they’re dragging you down. They’re turning you into Microsoft. They’re causing you to turn out products that are adequate but not great.
+
+| Location: 9146 | 
+ Color: yellow |
+<br>
+
+ > That evening, he stressed to me that his hope was to remain as active as his health allowed. “I’m going to work on new products and marketing and the things that I like,” he said. But when I asked how it really felt to be relinquishing control of the company he had built, his tone turned wistful, and he shifted into the past tense. “I’ve had a very lucky career, a very lucky life,” he replied. “I’ve done all that I can do.”
+
+| Location: 9258 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## CHAPTER FORTY-TWO Legacy: The Brightest Heaven of Invention
+
+ > Jobs’s intensity was also evident in his ability to focus. He would set priorities, aim his laser attention on them, and filter out distractions. If something engaged him—the user interface for the original Macintosh, the design of the iPod and iPhone, getting music companies into the iTunes Store—he was relentless. But if he did not want to deal with something—a legal annoyance, a business issue, his cancer diagnosis, a family tug—he would resolutely ignore it. That focus allowed him to say no. He got Apple back on track by cutting all except a few core products.
+
+| Location: 9324 | 
+ Color: yellow |
+<br>
+
+ > Unfortunately his Zen training never quite produced in him a Zen-like calm or inner serenity, and that too is part of his legacy. He was often tightly coiled and impatient, traits he made no effort to hide. Most people have a regulator between their mind and mouth that modulates their brutish sentiments and spikiest impulses. Not Jobs. He made a point of being brutally honest. “My job is to say when something sucks rather than sugarcoat it,” he said. This made him charismatic and inspiring, yet also, to use the technical term, an asshole at times.
+
+| Location: 9331 | 
+ Color: yellow |
+<br>
+
+ > The saga of Steve Jobs is the Silicon Valley creation myth writ large: launching a startup in his parents’ garage and building it into the world’s most valuable company. He didn’t invent many things outright, but he was a master at putting together ideas, art, and technology in ways that invented the future. He designed the Mac after appreciating the power of graphical interfaces in a way that Xerox was unable to do, and he created the iPod after grasping the joy of having a thousand songs in your pocket in a way that Sony, which had all the assets and heritage, never could accomplish.
+
+| Location: 9344 | 
+ Color: yellow |
+<br>
+
+ > Steve Jobs thus became the greatest business executive of our era, the one most certain to be remembered a century from now. History will place him in the pantheon right next to Edison and Ford. More than anyone else of his time, he made products that were completely innovative, combining the power of poetry and processors. With a ferocity that could make working with him as unsettling as it was inspiring, he also built the world’s most creative company. And he was able to infuse into its DNA the design sensibilities, perfectionism, and imagination that make it likely to be, even decades from now, the company that thrives best at the intersection of artistry and technology.
+
+| Location: 9364 | 
+ Color: yellow |
+<br>
+
+ > My passion has been to build an enduring company where people were motivated to make great products. Everything else was secondary. Sure, it was great to make a profit, because that was what allowed you to make great products. But the products, not the profits, were the motivation.
+
+| Location: 9374 | 
+ Color: yellow |
+<br>
+
+ > Some people say, “Give the customers what they want.” But that’s not my approach. Our job is to figure out what they’re going to want before they do. I think Henry Ford once said, “If I’d asked customers what they wanted, they would have told me, ‘A faster horse!’” People don’t know what they want until you show it to them. That’s why I never rely on market research. Our task is to read things that are not yet on the page.
+
+| Location: 9378 | 
+ Color: yellow |
+<br>
+
+ > When the sales guys run the company, the product guys don’t matter so much, and a lot of them just turn off. It happened at Apple when Sculley came in, which was my fault, and it happened when Ballmer took over at Microsoft. Apple was lucky and it rebounded, but I don’t think anything will change at Microsoft as long as Ballmer is running it.
+
+| Location: 9405 | 
+ Color: yellow |
+<br>
+
+ > I hate it when people call themselves “entrepreneurs” when what they’re really trying to do is launch a startup and then sell or go public, so they can cash in and move on. They’re unwilling to do the work it takes to build a real company, which is the hardest work in business. That’s how you really make a contribution and add to the legacy of those who went before. You build a company that will still stand for something a generation or two from now. That’s what Walt Disney did, and Hewlett and Packard, and the people who built Intel. They created a company to last, not just to make money. That’s what I want Apple to be.
+
+| Location: 9408 | 
+ Color: yellow |
+<br>
+
+ > What drove me? I think most creative people want to express appreciation for being able to take advantage of the work that’s been done by others before us. I didn’t invent the language or mathematics I use. I make little of my own food, none of my own clothes. Everything I do depends on other members of our species and the shoulders that we stand on. And a lot of us want to contribute something back to our species and to add something to the flow. It’s about trying to express something in the only way that most of us know how—because we can’t write Bob Dylan songs or Tom Stoppard plays. We try to use the talents we do have to express our deep feelings, to show our appreciation of all the contributions that came before us, and to add something to that flow. That’s what has driven me.
+
+| Location: 9430 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>

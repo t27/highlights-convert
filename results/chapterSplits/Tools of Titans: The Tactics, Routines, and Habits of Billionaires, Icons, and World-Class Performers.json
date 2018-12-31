@@ -1,0 +1,44 @@
+{
+  "volume": {
+    "title": "Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers",
+    "authors": [
+      "Timothy Ferriss"
+    ]
+  },
+  "chapterHighlights": {
+    "Foreword": {
+      "index": 1,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "it is not true that I am self-made. Like everyone, to get to where I am, I stood on the shoulders of giants.",
+          "location": "68",
+          "chapter": "Foreword"
+        },
+        {
+          "color": "yellow",
+          "content": "My life was built on a foundation of parents, coaches, and teachers; of kind souls who lent couches or gym back rooms where I could sleep; of mentors who shared wisdom and advice; of idols who motivated me from the pages of magazines (and, as my life grew, from personal interaction).",
+          "location": "69",
+          "chapter": "Foreword"
+        },
+        {
+          "color": "yellow",
+          "content": "I had a big vision, and I had fire in my belly. But I would never have gotten anywhere without my mother helping me with my homework (and smacking me when I wasn’t ready to study), without my father telling me to “be useful,” without teachers who explained how to sell, or without coaches who taught me the fundamentals of weight lifting.",
+          "location": "71",
+          "chapter": "Foreword"
+        }
+      ]
+    },
+    "Read This First—How to Use This Book": {
+      "index": 2,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "In this book, at its core, I want to convey the following: Success, however you define it, is achievable if you collect the right field-tested beliefs and habits. Someone else has done your version of “success” before, and often, many have done something similar. “But,” you might ask, “what about a first, like colonizing Mars?” There are still recipes. Look at empire building of other types, look at the biggest decisions in the life of Robert Moses (read The Power Broker), or simply find someone who stepped up to do great things that were deemed impossible at the time (e.g., Walt Disney). There is shared DNA you can borrow. The superheroes you have in your mind (idols, icons, titans, billionaires, etc.) are nearly all walking flaws who’ve maximized 1 or 2 strengths. Humans are imperfect creatures. You don’t “succeed” because you have no weaknesses; you succeed because you find your unique strengths and focus on developing habits around them. To make this crystal-clear, I’ve deliberately included two sections in this book (pages 197 and 616) that will make you think: “Wow, Tim Ferriss is a mess. How the hell does he ever get anything done?” Everyone is fighting a battle you know nothing about. The heroes in this book are no different. Everyone struggles. Take solace in that.",
+          "location": "389",
+          "chapter": "Read This First—How to Use This Book"
+        }
+      ]
+    }
+  }
+}

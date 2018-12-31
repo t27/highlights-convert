@@ -1,0 +1,1132 @@
+---
+layout: highlight
+title: "How to Win Friends and Influence People"
+authors: "Dale Carnegie"
+---
+
+
+## Part One: Fundamental Techniques in Handling People
+
+ > 1 “If You Want to Gather Honey, Don’t Kick Over the Beehive”
+
+| Location: 27 | 
+ Date: January 16, 2017 |
+<br>
+
+ > Criticism is futile because it puts a person on the defensive and usually makes him strive to justify himself. Criticism is dangerous, because it wounds a person’s precious pride, hurts his sense of importance, and arouses resentmen
+
+| Location: 29 | 
+ Date: May 2, 2016 |
+<br>
+
+ > The resentment that criticism engenders can demoralize employees, family members and friends, and still not correct the situation that has been condemned
+
+| Location: 29 | 
+ Date: May 2, 2016 |
+<br>
+
+ > There you are; human nature in action, wrongdoers, blaming everybody but themselves. We are all like that. So when you and I are tempted to criticize someone tomorrow, let’s remember Al Capone, “Two Gun” Crowley and Albert Fall. Let’s realize that criticisms are like homing pigeons. They always return home. Let’s realize that the person we are going to correct and condemn will probably justify himself or herself, and condemn us in return; or, like the gentle Taft, will say: “I don’t see how I could have done any differently from what I have.”
+
+| Location: 31 | 
+ Date: May 2, 2016 |
+<br>
+
+ > When dealing with people, let us remember we are not dealing with creatures of logic. We are dealing with creatures of emotion, creatures bristling with prejudices and motivated by pride and vanity. Bitter criticism caused the sensitive Thomas Hardy, one of the finest novelists ever to enrich English literature, to give up forever the writing of fiction. Criticism drove Thomas Chatterton, the English poet, to suicide. Benjamin Franklin, tactless in his youth, became so diplomatic, so adroit at handling people, that he was made American Ambassador to France. The secret of his success? “I will speak ill of no man,” he said, “ … and speak all the good I know of everybody.” Any fool can criticize, condemn and complain—and most fools do. But it takes character and self-control to be understanding and forgiving. “A great man shows his greatness,” said Carlyle, “by the way he treats little men.”
+
+| Location: 37 | 
+ Date: May 2, 2016 |
+<br>
+
+ > Instead of condemning people, let’s try to understand them. Let’s try to figure out why they do what they do. That’s a lot more profitable and intriguing than criticism; and it breeds sympathy, tolerance and kindness. “To know all is to forgive all.”
+
+| Location: 40 | 
+ Date: May 2, 2016 |
+<br>
+
+ > PRINCIPLE 1 Don’t criticize, condemn or complain.
+
+| Location: 40 | 
+ Date: May 2, 2016 |
+<br>
+
+ > 2 The Big Secret of Dealing with People
+
+| Location: 41 | 
+ Date: January 16, 2017 |
+<br>
+
+ > T here is only one way under high heaven to get anybody to do anything. Did you ever stop to think of that? Yes, just one way. And that is by making the other person want to do it. Remember, there is no other way.
+
+| Location: 41 | 
+ Date: May 2, 2016 |
+<br>
+
+ > The only way I can get you to do anything is by giving you what you want.
+
+| Location: 41 | 
+ Date: January 16, 2017 |
+<br>
+
+ > Dr. Dewey said that the deepest urge in human nature is “the desire to be important.” Remember that phrase: “the desire to be important.” It is significant. You are going to hear a lot about it in this book.
+
+| Location: 41 | 
+ Date: January 16, 2017 |
+<br>
+
+ > Some of the things most people want include: 1. Health and the preservation of life 2. Food 3. Sleep 4. Money and the things money will buy 5. Life in the hereafter 6. Sexual gratification 7. The well-being of our children 8. A feeling of importance Almost all these wants are usually gratified—all except one. But there is one longing—almost as deep, almost as imperious, as the desire for food or sleep—which is seldom gratified. It is what Freud calls “the desire to be great.” It is what Dewey calls the “desire to be important.”
+
+| Location: 41 | 
+ Date: May 2, 2016 |
+<br>
+
+ > The desire for a feeling of importance is one of the chief distinguishing differences between mankind and the animals
+
+| Location: 42 | 
+ Date: May 2, 2016 |
+<br>
+
+ > If our ancestors hadn’t had this flaming urge for a feeling of importance, civilization would have been impossible. Without it, we should have been just about like animals. It was this desire for a feeling of importance that led an uneducated, poverty-stricken grocery clerk to study some law books he found in the bottom of a barrel of household plunder that he had bought for fifty cents. You have probably heard of this grocery clerk. His name was Lincoln
+
+| Location: 42 | 
+ Date: May 2, 2016 |
+<br>
+
+ > If some people are so hungry for a feeling of importance that they actually go insane to get it, imagine what miracle you and I can achieve by giving people honest appreciation this side of insanity.
+
+| Location: 45 | 
+ Date: May 2, 2016 |
+<br>
+
+ > Schwab says that he was paid this salary largely because of his ability to deal with people. I asked him how he did it. Here is his secret set down in his own words—
+
+| Location: 46 | 
+ Date: May 2, 2016 |
+<br>
+
+ > “I consider my ability to arouse enthusiasm among my people,” said Schwab, “the greatest asset I possess, and the way to develop the best that is in a person is by appreciation and encouragement. “There is nothing else that so kills the ambitions of a person as criticisms from superiors. I never criticize anyone. I believe in giving a person incentive to work. So I am anxious to praise but loath to find fault. If I like anything, I am hearty in my approbation and lavish in my praise .” That is what Schwab did. But what do average people do? The exact opposite.
+
+| Location: 46 | 
+ Date: May 2, 2016 |
+<br>
+
+ > The difference between appreciation and flattery? That is simple. One is sincere and the other insincere. One comes from the heart out; the other from the teeth out. One is unselfish; the other selfish. One is universally admired; the other universally condemned.
+
+| Location: 50 | 
+ Date: May 2, 2016 |
+<br>
+
+ > Teach me neither to proffer nor receive cheap praise.” That’s all flattery is—cheap praise. I once read a definition of flattery that may be worth repeating: “Flattery is telling the other person precisely what he thinks about himself
+
+| Location: 51 | 
+ Date: May 2, 2016 |
+<br>
+
+ > Let’s cease thinking of our accomplishments, our wants. Let’s try to figure out the other person’s good points. Then forget flattery. Give honest, sincere appreciation. Be “hearty in your approbation and lavish in your praise,” and people will cherish your words and treasure them and repeat them over a lifetime—repeat them years after you have forgotten them.
+
+| Location: 52 | 
+ Date: May 2, 2016 |
+<br>
+
+ > PRINCIPLE 2 Give honest and sincere appreciation.
+
+| Location: 52 | 
+ Date: May 2, 2016 |
+<br>
+
+ > 3 “He Who Can Do This Has the Whole World with Him. He Who Cannot Walks a Lonely Way”
+
+| Location: 54 | 
+ Date: January 16, 2017 |
+<br>
+
+ > the only way to influence people is to talk in terms of what the other person wants
+
+| Location: 55 | 
+ Date: May 2, 2016 |
+<br>
+
+ > Tomorrow you may want to persuade somebody to do something. Before you speak, pause and ask yourself: “How can I make this person want to do it?” That question will stop us from rushing into a situation heedlessly, with futile chatter about our desires.
+
+| Location: 57 | 
+ Date: May 2, 2016 |
+<br>
+
+ > Here is one of the best bits of advice ever given about the fine art of human relationships. “If there is any one secret of success,” said Henry Ford, “it lies in the ability to get the other person’s point of view and see things from that person’s angle as well as from your own.” That is so good, I want to repeat it: “ If there is any one secret of success, it lies in the ability to get the other person’s point of view and see things from that person’s angle as well as from your own .”
+
+| Location: 58 | 
+ Date: May 4, 2016 |
+<br>
+
+ > The world is full of people who are grabbing and self-seeking. So the rare individual who unselfishly tries to serve others has an enormous advantage. He has little competition. Owen D. Young, a noted lawyer and one of America’s great business leaders, once said: “People who can put themselves in the place of other people, who can understand the workings of their minds, need never worry about what the future has in store for them.”
+
+| Location: 65 | 
+ Date: January 16, 2017 |
+<br>
+
+ > If out of reading this book you get just one thing—an increased tendency to think always in terms of other people’s point of view, and see things from their angle—if you get that one thing out of this book, it may easily prove to be one of the building blocks of your career. Looking at the other person’s point of view and arousing in him an eager want for something is not to be construed as manipulating that person so that he will do something that is only for your benefit and his detriment. Each party should gain from the negotiation
+
+| Location: 65 | 
+ Date: May 4, 2016 |
+<br>
+
+ > To repeat Professor Overstreet’s wise advice: First, arouse in the other person an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way .
+
+| Location: 67 | 
+ Date: May 4, 2016 |
+<br>
+
+ > PRINCIPLE 3 Arouse in the other person an eager want.
+
+| Location: 69 | 
+ Date: May 4, 2016 |
+<br>
+
+ > IN A NUTSHELL FUNDAMENTAL TECHNIQUES IN HANDLING PEOPLE PRINCIPLE 1 Don’t criticize, condemn or complain. PRINCIPLE 2 Give honest and sincere appreciation. PRINCIPLE 3 Arouse in the other person an eager want.
+
+| Location: 69 | 
+ Date: May 4, 2016 |
+<br>
+
+----------
+<br><br>
+
+## Part Two: Six Ways to Make People Like You
+
+ > 1 Do This and You’ll Be Welcome Anywhere
+
+| Location: 71 | 
+ Date: January 18, 2017 |
+<br>
+
+ > you can make more friends in two months by becoming genuinely interested in other people than you can in two years by trying to get other people interested in you. Let me repeat that. You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you
+
+| Location: 71 | 
+ Date: May 4, 2016 |
+<br>
+
+ > It is the individual who is not interested in his fellow men who has the greatest difficulties in life and provides the greatest injury to others. It is from among such individuals that all human failures spring.
+
+| Location: 72 | 
+ Date: May 4, 2016 |
+<br>
+
+ > If we want to make friends, let’s put ourselves out to do things for other people—things that require time, energy, unselfishness and thoughtfulness
+
+| Location: 77 | 
+ Date: May 4, 2016 |
+<br>
+
+ > If we want to make friends, let’s greet people with animation and enthusiasm. When somebody calls you on the telephone use the same psychology. Say “Hello” in tones that bespeak how pleased you are to have the person call. Many companies train their telephone operators to greet all callers in a tone of voice that radiates interest and enthusiasm. The caller feels the company is concerned about them. Let’s remember that when we answer the telephone tomorrow. Showing a genuine interest in others not only wins friends for you, but may develop in its customers a loyalty to your company.
+
+| Location: 78 | 
+ Date: May 4, 2016 |
+<br>
+
+ > “We are interested in others when they are interested in us.” A show of interest, as with every other principle of human relations, must be sincere. It must pay off not only for the person showing the interest, but for the person receiving the attention. It is a two-way street—both parties benefit.
+
+| Location: 81 | 
+ Date: May 4, 2016 |
+<br>
+
+ > PRINCIPLE 1 Become genuinely interested in other people.
+
+| Location: 82 | 
+ Date: May 4, 2016 |
+<br>
+
+ > 2 A Simple Way to Make a Good First Impression
+
+| Location: 83 | 
+ Date: January 18, 2017 |
+<br>
+
+ > Charles Schwab told me his smile had been worth a million dollars. And he was probably understating the truth. For Schwab’s personality, his charm, his ability to make people like him, were almost wholly responsible for his extraordinary success; and one of the most delightful factors in his personality was his captivating smile. Actions speak louder than words, and a smile says, “I like you. You make me happy. I am glad to see you.” That is why dogs make such a hit. They are so glad to see us that they almost jump out of their skins. So, naturally, we are glad to see them. A baby’s smile has the same effect.
+
+| Location: 83 | 
+ Date: May 12, 2016 |
+<br>
+
+ > An insincere grin? No. That doesn’t fool anybody. We know it is mechanical and we resent it. I am talking about a real smile, a heartwarming smile, a smile that comes from within, the kind of smile that will bring a good price in the marketplace.
+
+| Location: 84 | 
+ Date: May 12, 2016 |
+<br>
+
+ > You don’t feel like smiling? Then what? Two things. First, force yourself to smile. If you are alone, force yourself to whistle or hum a tune or sing. Act as if you were already happy, and that will tend to make you happy. Here is the way the psychologist and philosopher William James put it: “Action seems to follow feeling, but really action and feeling go together; and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not. “Thus the sovereign voluntary path to cheerfulness, if our cheerfulness be lost, is to sit up cheerfully and to act and speak as if cheerfulness were already there. …” Everybody in the world is seeking happiness—and there is one sure way to find it. That is by controlling your thoughts. Happiness doesn’t depend on outward conditions. It depends on inner conditions. It isn’t what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it. For example, two people may be in the same place, doing the same thing; both may have about an equal amount of money and prestige—and yet one may be miserable and the other happy. Why? Because of a different mental attitude. I have seen just as many happy faces among the poor peasants toiling with their primitive tools in the devastating heat of the tropics as I have seen in air-conditioned offices in New York, Chicago or Los Angeles. “There is nothing either good or bad,” said Shakespeare, “but thinking makes it so.” Abe Lincoln once remarked that “most folks are about as happy as they make up their minds to be
+
+| Location: 87 | 
+ Date: May 12, 2016 |
+<br>
+
+ > The Value of a Smile at Christmas It costs nothing, but creates much. It enriches those who receive, without impoverishing those who give. It happens in a flash and the memory of it sometimes lasts forever. None are so rich they can get along without it, and none so poor but are richer for its benefits. It creates happiness in the home, fosters good will in a business, and is the countersign of friends. It is rest to the weary, daylight to the discouraged, sunshine to the sad, and Nature’s best antidote for trouble. Yet it cannot be bought, begged, borrowed, or stolen, for it is something that is no earthly good to anybody till it is given away. And if in the last-minute rush of Christmas buying some of our salespeople should be too tired to give you a smile, may we ask you to leave one of yours? For nobody needs a smile so much as those who have none left to give!
+
+| Location: 89 | 
+ Date: May 12, 2016 |
+<br>
+
+ > PRINCIPLE 2 Smile
+
+| Location: 90 | 
+ Date: May 12, 2016 |
+<br>
+
+ > 3 If You Don’t Do This, You Are Headed for Trouble
+
+| Location: 91 | 
+ Date: January 18, 2017 |
+<br>
+
+ > This policy of remembering and honoring the names of his friends and business associates was one of the secrets of Andrew Carnegie’s leadership. He was proud of the fact that he could call many of his factory workers by their first names, and he boasted that while he was personally in charge, no strike ever disturbed his flaming steel mills.
+
+| Location: 94 | 
+ Date: May 12, 2016 |
+<br>
+
+ > Most people don’t remember names, for the simple reason that they don’t take the time and energy necessary to concentrate and repeat and fix names indelibly in their minds. They make excuses for themselves; they are too busy. But they were probably no busier than Franklin D. Roosevelt, and he took time to remember and recall even the names of mechanics with whom he came into contact.
+
+| Location: 95 | 
+ Date: May 12, 2016 |
+<br>
+
+ > Franklin D. Roosevelt knew that one of the simplest, most obvious and most important ways of gaining good will was by remembering names and making people feel important—yet how many of us do it? Half the time we are introduced to a stranger, we chat a few minutes and can’t even remember his or her name by the time we say goodbye. One of the first lessons a politician learns is this: “To recall a voter’s name is statesmanship. To forget it is oblivion.” And the ability to remember names is almost as important in business and social contacts as it is in politics.
+
+| Location: 97 | 
+ Date: May 13, 2016 |
+<br>
+
+ > We should be aware of the magic contained in a name and realize that this single item is wholly and completely owned by the person with whom we are dealing … and nobody else. The name sets the individual apart; it makes him or her unique among all others. The information we are imparting or the request we are making takes on a special importance when we approach the situation with the name of the individual. From the waitress to the senior executive, the name will work magic as we deal with others.
+
+| Location: 98 | 
+ Date: May 13, 2016 |
+<br>
+
+ > PRINCIPLE 3 Remember that a person’s name is to that person the sweetest and most important sound in any language.
+
+| Location: 98 | 
+ Date: May 13, 2016 |
+<br>
+
+ > 4 An Easy Way to Become a Good Conversationalist
+
+| Location: 100 | 
+ Date: January 18, 2017 |
+<br>
+
+ > , declared that many people fail to make a favorable impression because they don’t listen attentively. “They have been so much concerned with what they are going to say next that they do not keep their ears open. … Very important people have told me that they prefer good listeners to good talkers, but the ability to listen seems rarer than almost any other good trait
+
+| Location: 107 | 
+ Date: May 14, 2016 |
+<br>
+
+ > So if you aspire to be a good conversationalist, be an attentive listener. To be interesting, be interested. Ask questions that other persons will enjoy answering. Encourage them to talk about themselves and their accomplishments. Remember that the people you are talking to are a hundred times more interested in themselves and their wants and problems than they are in you and your problems. A person’s toothache means more to that person than a famine in China which kills a million people. A boil on one’s neck interests one more than forty earthquakes in Africa. Think of that the next time you start a conversation.
+
+| Location: 108 | 
+ Date: May 14, 2016 |
+<br>
+
+ > PRINCIPLE 4 Be a good listener. Encourage others to talk about themselves
+
+| Location: 108 | 
+ Date: May 14, 2016 |
+<br>
+
+ > 5 How to Interest People
+
+| Location: 109 | 
+ Date: January 18, 2017 |
+<br>
+
+ > Talking in terms of the other person’s interests pays off for both parties. Howard Z. Herzig, a leader in the field of employee communications, has always followed this principle. When asked what reward he got from it, Mr. Herzig responded that he not only received a different reward from each person but that in general the reward had been an enlargement of his life each time he spoke to someone.
+
+| Location: 112 | 
+ Date: May 14, 2016 |
+<br>
+
+ > PRINCIPLE 5 Talk in terms of the other person’s interests.
+
+| Location: 112 | 
+ Date: May 14, 2016 |
+<br>
+
+ > 6 How to Make People Like You Instantly
+
+| Location: 113 | 
+ Date: January 18, 2017 |
+<br>
+
+ > There is one all-important law of human conduct. If we obey that law, we shall almost never get into trouble. In fact, that law, if obeyed, will bring us countless friends and constant happiness. But the very instant we break the law, we shall get into endless trouble. The law is this: Always make the other person feel important .
+
+| Location: 114 | 
+ Date: May 14, 2016 |
+<br>
+
+ > Do unto others as you would have others do unto you
+
+| Location: 114 | 
+ Date: May 14, 2016 |
+<br>
+
+ > So let’s obey the Golden Rule, and give unto others what we would have others give unto us. How? When? Where? The answer is: All the time, everywhere
+
+| Location: 115 | 
+ Date: May 14, 2016 |
+<br>
+
+ > If, for example, the waitress brings us mashed potatoes when we have ordered French fried, let’s say: “I’m sorry to trouble you, but I prefer French fried.” She’ll probably reply, “No trouble at all” and will be glad to change the potatoes, because we have shown respect for her. Little phrases such as “I’m sorry to trouble you,” “Would you be so kind as to ———?” “Won’t you please?” “Would you mind?” “Thank you”—little courtesies like these oil the cogs of the monotonous grind of everyday life—and, incidentally, they are the hallmark of good breeding.
+
+| Location: 115 | 
+ Date: May 14, 2016 |
+<br>
+
+ > The unvarnished truth is that almost all the people you meet feel themselves superior to you in some way, and a sure way to their hearts is to let them realize in some subtle way that you recognize their importance, and recognize it sincerely. Remember what Emerson said: “Every man I meet is my superior in some way. In that, I learn of him.”
+
+| Location: 117 | 
+ Date: May 14, 2016 |
+<br>
+
+ > PRINCIPLE 6 Make the other person feel important—and do it sincerely.
+
+| Location: 123 | 
+ Date: May 22, 2016 |
+<br>
+
+ > IN A NUTSHELL SIX WAYS TO MAKE PEOPLE LIKE YOU PRINCIPLE 1 Become genuinely interested in other people. PRINCIPLE 2 Smile. PRINCIPLE 3 Remember that a person’s name is to that person the sweetest and most important sound in any language. PRINCIPLE 4 Be a good listener. Encourage others to talk about themselves. PRINCIPLE 5 Talk in terms of the other person’s interests. PRINCIPLE 6 Make the other person feel important—and do it sincerely.
+
+| Location: 123 | 
+ Date: May 22, 2016 |
+<br>
+
+----------
+<br><br>
+
+## Part Three: How to Win People to Your Way of Thinking
+
+ > 1 You Can’t Win an Argument
+
+| Location: 125 | 
+ Date: January 18, 2017 |
+<br>
+
+ > On our way home that night, I said to Mr. Gammond: “Frank, you knew that quotation was from Shakespeare.” “Yes, of course,” he replied, “ Hamlet , Act Five, Scene Two. But we were guests at a festive occasion, my dear Dale. Why prove to a man he is wrong? Is that going to make him like you? Why not let him save his face? He didn’t ask for your opinion. He didn’t want it. Why argue with him? Always avoid the acute angle.” The man who said that taught me a lesson I’ll never forget. I not only had made the storyteller uncomfortable, but had put my friend in an embarrassing situation. How much better it would have been had I not become argumentative
+
+| Location: 125 | 
+ Date: May 25, 2016 |
+<br>
+
+ > In an article in Bits and Pieces , * some suggestions are made on how to keep a disagreement from becoming an argument: Welcome the disagreement . Remember the slogan, “When two partners always agree, one of them is not necessary.” If there is some point you haven’t thought about, be thankful if it is brought to your attention. Perhaps this disagreement is your opportunity to be corrected before you make a serious mistake. Distrust your first instinctive impression . Our first natural reaction in a disagreeable situation is to be defensive. Be careful. Keep calm and watch out for your first reaction. It may be you at your worst, not your best. Control your temper . Remember, you can measure the size of a person by what makes him or her angry. Listen first . Give your opponents a chance to talk. Let them finish. Do not resist, defend or debate. This only raises barriers. Try to build bridges of understanding. Don’t build higher barriers of misunderstanding. Look for areas of agreement . When you have heard your opponents out, dwell first on the points and areas on which you agree. Be honest . Look for areas where you can admit error and say so. Apologize for your mistakes. It will help disarm your opponents and reduce defensiveness. Promise to think over your opponents’ ideas and study them carefully . And mean it. Your opponents may be right. It is a lot easier at this stage to agree to think about their points than to move rapidly ahead and find yourself in a position where your opponents can say: “We tried to tell you, but you wouldn’t listen.” Thank your opponents sincerely for their interest . Anyone who takes the time to disagree with you is interested in the same things you are. Think of them as people who really want to help you, and you may turn your opponents into friends. Postpone action to give both sides time to think through the problem . Suggest that a new meeting be held later that day or the next day, when all the facts may be brought to bear. In preparation for this meeting, ask yourself some hard questions:
+
+| Location: 129 | 
+ Date: May 25, 2016 |
+<br>
+
+ > PRINCIPLE 1 The only way to get the best of an argument is to avoid it.
+
+| Location: 131 | 
+ Date: May 25, 2016 |
+<br>
+
+ > 2 A Sure Way of Making Enemies—and How to Avoid It
+
+| Location: 132 | 
+ Date: January 18, 2017 |
+<br>
+
+ > He told his class: “Recognizing that this was getting me nowhere fast, I tried a new tack. I would say something like this: ‘Our dealership has made so many mistakes that I am frequently ashamed. We may have erred in your case. Tell me about it.’ “This approach becomes quite disarming, and by the time the customer releases his feelings, he is usually much more reasonable when it comes to settling the matter. In fact, several customers have thanked me for having such an understanding attitude. And two of them have even brought in friends to buy new cars. In this highly competitive market, we need more of this type of customer, and I believe that showing respect for all customers’ opinions and treating them diplomatically and courteously will help beat the competition.” You will never get into trouble by admitting that you may be wrong. That will stop all argument and inspire your opponent to be just as fair and open and broad-minded as you are. It will make him want to admit that he, too, may be wrong. If you know positively that a person is wrong, and you bluntly tell him or her so, what happens? Let me illustrate. Mr. S——, a young New York attorney, once argued a rather important case before the United States Supreme Court ( Lustgarten v. Fleet Corporation 280 U.S. 320). The case involved a considerable sum of money and an important question of law. During the argument, one of the Supreme Court justices said to him: “The statute of limitations in admiralty law is six years, is it not?” Mr. S—— stopped, stared at the justice for a moment, and then said bluntly: “Your Honor, there is no statute of limitations in admiralty.” “A hush fell on the court,” said Mr. S—— as he related his experience to one of the author’s classes, “and the temperature in the room seemed to drop to zero. I was right. Justice—— was wrong. And I had told him so. But did that make him friendly? No. I still believe that I had the law on my side. And I know that I spoke better than I ever spoke before. But I didn’t persuade. I made the enormous blunder of telling a very learned and famous man that he was wrong.” Few people are logical. Most of us are prejudiced and biased. Most of us are blighted with preconceived notions, with jealousy, suspicion, fear, envy and pride. And most citizens don’t want to change their minds about their religion or their haircut or communism or their favorite movie star. So, if you are inclined to tell people they are wrong, please read the following paragraph every morning before breakfast. It is from James Harvey Robinson’s enlightening book The Mind in the Making .
+
+| Location: 133 | 
+ Date: May 25, 2016 |
+<br>
+
+ > We sometimes find ourselves changing our minds without any resistance or heavy emotion, but if we are told we are wrong, we resent the imputation and harden our hearts. We are incredibly heedless in the formation of our beliefs, but find ourselves filled with an illicit passion for them when anyone proposes to rob us of their companionship. It is obviously not the ideas themselves that are dear to us, but our self-esteem which is threatened. … The little word “my” is the most important one in human affairs, and properly to reckon with it is the beginning of wisdom. It has the same force whether it is “my” dinner, “my” dog, and “my” house, or “my” father, “my” country, and “my” God. We not only resent the imputation that our watch is wrong, or our car shabby, but that our conception of the canals of Mars, of the pronunciation of “Epictetus,” of the medicinal value of salicin, or of the date of Sargon I is subject to revision. We like to continue to believe what we have been accustomed to accept as true, and the resentment aroused when doubt is cast upon any of our assumptions leads us to seek every manner of excuse for clinging to it. The result is that most of our so-called reasoning consists in finding arguments for going on believing as we already do.
+
+| Location: 134 | 
+ Date: May 25, 2016 |
+<br>
+
+ > “After several sessions of this course, I realized all too well where I had made my mistakes. I called another meeting and this time I asked where they felt their problems were. We discussed each point, and I asked them their opinions on which was the best way to proceed. With a few low-keyed suggestions, at proper intervals, I let them develop my system themselves. At the end of the meeting when I actually presented my system, they enthusiastically accepted it. “I am convinced now that nothing good is accomplished and a lot of damage can be done if you tell a person straight out that he or she is wrong. You only succeed in stripping that person of self-dignity and making yourself an unwelcome part of any discussion
+
+| Location: 139 | 
+ Date: May 25, 2016 |
+<br>
+
+ > In other words, don’t argue with your customer or your spouse or your adversary. Don’t tell them they are wrong, don’t get them stirred up. Use a little diplomacy. PRINCIPLE 2 Show respect for the other person’s opinions. Never say, “You’re wrong
+
+| Location: 142 | 
+ Date: May 25, 2016 |
+<br>
+
+ > 3 If You’re Wrong, Admit It
+
+| Location: 143 | 
+ Date: January 18, 2017 |
+<br>
+
+ > That policeman, being human, wanted a feeling of importance; so when I began to condemn myself, the only way he could nourish his self-esteem was to take the magnanimous attitude of showing mercy. But suppose I had tried to defend myself—well, did you ever argue with a policeman?
+
+| Location: 144 | 
+ Date: January 16, 2017 |
+<br>
+
+ > If we know we are going to be rebuked anyhow, isn’t it far better to beat the other person to it and do it ourselves? Isn’t it much easier to listen to self-criticism than to bear condemnation from alien lips? Say about yourself all the derogatory things you know the other person is thinking or wants to say or intends to say—and say them before that person has a chance to say them. The chances are a hundred to one that a generous, forgiving attitude will be taken and your mistakes will be minimized just as the mounted policeman did with me and Rex.
+
+| Location: 144 | 
+ Date: January 16, 2017 |
+<br>
+
+ > There is a certain degree of satisfaction in having the courage to admit one’s errors. It not only clears the air of guilt and defensiveness, but often helps solve the problem created by the error.
+
+| Location: 145 | 
+ Date: January 16, 2017 |
+<br>
+
+ > Any fool can try to defend his or her mistakes—and most fools do—but it raises one above the herd and gives one a feeling of nobility and exultation to admit one’s mistakes.
+
+| Location: 146 | 
+ Date: January 16, 2017 |
+<br>
+
+ > When we are right, let’s try to win people gently and tactfully to our way of thinking, and when we are wrong—and that will be surprisingly often, if we are honest with ourselves—let’s admit our mistakes quickly and with enthusiasm. Not only will that technique produce astonishing results; but, believe it or not, it is a lot more fun, under the circumstances, than trying to defend oneself.
+
+| Location: 149 | 
+ Date: January 16, 2017 |
+<br>
+
+ > Remember the old proverb: “By fighting you never get enough, but by yielding you get more than you expected.”
+
+| Location: 149 | 
+ Date: January 16, 2017 |
+<br>
+
+ > PRINCIPLE 3 If you are wrong, admit it quickly and emphatically.
+
+| Location: 149 | 
+ Date: May 25, 2016 |
+<br>
+
+ > 4 A Drop of Honey
+
+| Location: 150 | 
+ Date: January 18, 2017 |
+<br>
+
+ > If a man’s heart is rankling with discord and ill feeling toward you, you can’t win him to your way of thinking with all the logic in Christendom. Scolding parents and domineering bosses and husbands and nagging wives ought to realize that people don’t want to change their minds. They can’t be forced or driven to agree with you or me. But they may possibly be led to, if we are gentle and friendly, ever so gentle and ever so friendly.
+
+| Location: 152 | 
+ Date: January 16, 2017 |
+<br>
+
+ > Lincoln said that, in effect, over a hundred years ago. Here are his words: It is an old and true maxim that “a drop of honey catches more flies than a gallon of gall.” So with men, if you would win a man to your cause, first convince him that you are his sincere friend. Therein is a drop of honey that catches his heart; which, say what you will, is the great high road to reason.
+
+| Location: 152 | 
+ Date: January 16, 2017 |
+<br>
+
+ > Business executives have learned that it pays to be friendly to strikers. For example, when 2,500 employees in the White Motor Company’s plant struck for higher wages and a union shop, Robert F. Black, then president of the company, didn’t lose his temper and condemn and threaten and talk of tyranny and Communists. He actually praised the strikers. He published an advertisement in the Cleveland papers, complimenting them on “the peaceful way in which they laid down their tools.” Finding the strike pickets idle, he bought them a couple of dozen baseball bats and gloves and invited them to play ball on vacant lots. For those who preferred bowling, he rented a bowling alley. This friendliness on Mr. Black’s part did what friendliness always does: it begot friendliness. So the strikers borrowed brooms, shovels, and rubbish carts, and began picking up matches, papers, cigarette stubs, and cigar butts around the factory. Imagine it! Imagine strikers tidying up the factory grounds while battling for higher wages and recognition of the union. Such an event had never been heard of before in the long, tempestuous history of American labor wars. That strike ended with a compromise settlement within a week—ended without any ill feeling or rancor.
+
+| Location: 152 | 
+ Date: January 16, 2017 |
+<br>
+
+ > Daniel Webster, who looked like a god and talked like Jehovah, was one of the most successful advocates who ever pleaded a case; yet he ushered in his most powerful arguments with such friendly remarks as: “It will be for the jury to consider,” “This may, perhaps, be worth thinking of,” “Here are some facts that I trust you will not lose sight of,” or “You, with your knowledge of human nature, will easily see the significance of these facts.” No bulldozing. No high-pressure methods. No attempt to force his opinions on others. Webster used the soft-spoken, quiet, friendly approach, and it helped to make him famous.
+
+| Location: 153 | 
+ Date: January 16, 2017 |
+<br>
+
+ > Everyone told me that the landlord was extremely difficult to deal with. But I said to myself, ‘I am studying a course in how to deal with people, so I’ll try it on him—and see how it works.’ “He and his secretary came to see me as soon as he got my letter. I met him at the door with a friendly greeting. I fairly bubbled with good will and enthusiasm. I didn’t begin talking about how high the rent was. I began talking about how much I liked his apartment house. Believe me, I was ‘hearty in my approbation and lavish in my praise.’ I complimented him on the way he ran the building and told him I should like so much to stay for another year but I couldn’t afford it. “He had evidently never had such a reception from a tenant. He hardly knew what to make of it. “Then he started to tell me his troubles. Complaining tenants. One had written him fourteen letters, some of them positively insulting. Another threatened to break his lease unless the landlord kept the man on the floor above from snoring. ‘What a relief it is,’ he said, ‘to have a satisfied tenant like you.’ And then, without my even asking him to do it, he offered to reduce my rent a little. I wanted more, so I named the figure I could afford to pay, and he accepted without a word.
+
+| Location: 153 | 
+ Date: January 16, 2017 |
+<br>
+
+ > The sun can make you take off your coat more quickly than the wind; and kindliness, the friendly approach and appreciation can make people change their minds more readily than all the bluster and storming in the world. Remember what Lincoln said: “A drop of honey catches more flies than a gallon of gall.”
+
+| Location: 157 | 
+ Date: January 18, 2017 |
+<br>
+
+ > PRINCIPLE 4 Begin in a friendly way.
+
+| Location: 157 | 
+ Date: January 18, 2017 |
+<br>
+
+ > 5 The Secret of Socrates
+
+| Location: 158 | 
+ Date: January 18, 2017 |
+<br>
+
+ > In talking with people, don’t begin by discussing the things on which you differ. Begin by emphasizing—and keep on emphasizing—the things on which you agree. Keep emphasizing, if possible, that you are both striving for the same end and that your only difference is one of method and not of purpose. Get the other person saying “Yes, yes” at the outset. Keep your opponent, if possible, from saying “No.”
+
+| Location: 158 | 
+ Date: January 18, 2017 |
+<br>
+
+ > The skillful speaker gets, at the outset, a number of “Yes” responses. This sets the psychological process of the listeners moving in the affirmative direction. It is like the movement of a billiard ball. Propel in one direction, and it takes some force to deflect it; far more force to send it back in the opposite direction.
+
+| Location: 158 | 
+ Date: January 18, 2017 |
+<br>
+
+ > When a person says “No” and really means it, he or she is doing far more than saying a word of two letters. The entire organism—glandular, nervous, muscular—gathers itself together into a condition of rejection. There is, usually in minute but sometimes in observable degree, a physical withdrawal or readiness for withdrawal. The whole neuromuscular system, in short, sets itself on guard against acceptance. When, to the contrary, a person says “Yes,” none of the withdrawal activities takes place. The organism is in a forward-moving, accepting, open attitude
+
+| Location: 158 | 
+ Date: January 18, 2017 |
+<br>
+
+ > “It took me years and cost me countless thousands of dollars in lost business before I finally learned that it doesn’t pay to argue, that it is much more profitable and much more interesting to look at things from the other person’s viewpoint and try to get that person saying ‘yes, yes.’”
+
+| Location: 161 | 
+ Date: January 18, 2017 |
+<br>
+
+ > His whole technique, now called the “Socratic method,” was based upon getting a “yes, yes” response. He asked questions with which his opponent would have to agree. He kept on winning one admission after another until he had an armful of yeses. He kept on asking questions until finally, almost without realizing it, his opponents found themselves embracing a conclusion they would have bitterly denied a few minutes previously.
+
+| Location: 162 | 
+ Date: January 18, 2017 |
+<br>
+
+ > The next time we are tempted to tell someone he or she is wrong, let’s remember old Socrates and ask a gentle question—a question that will get the “yes, yes” response. The Chinese have a proverb pregnant with the age-old wisdom of the Orient: “He who treads softly goes far.”
+
+| Location: 162 | 
+ Date: January 18, 2017 |
+<br>
+
+ > PRINCIPLE 5 Get the other person saying “yes, yes” immediately.
+
+| Location: 162 | 
+ Date: January 18, 2017 |
+<br>
+
+ > 6 The Safety Valve in Handling Complaints
+
+| Location: 164 | 
+ Date: January 18, 2017 |
+<br>
+
+ > M ost people trying to win others to their way of thinking do too much talking themselves. Let the other people talk themselves out. They know more about their business and problems than you do. So ask them questions. Let them tell you a few things. If you disagree with them you may be tempted to interrupt. But don’t. It is dangerous. They won’t pay attention to you while they still have a lot of ideas of their own crying for expression. So listen patiently and with an open mind. Be sincere about it. Encourage them to express their ideas fully.
+
+| Location: 164 | 
+ Date: January 18, 2017 |
+<br>
+
+ > Almost every successful person likes to reminisce about his early struggles. This man was no exception.
+
+| Location: 166 | 
+ Date: January 18, 2017 |
+<br>
+
+ > Even our friends would much rather talk to us about their achievements than listen to us boast about ours.
+
+| Location: 167 | 
+ Date: January 18, 2017 |
+<br>
+
+ > La Rochefoucauld, the French philosopher, said: “If you want enemies, excel your friends; but if you want friends, let your friends excel you.” Why is that true? Because when our friends excel us, they feel important; but when we excel them, they—or at least some of them—will feel inferior and envious.
+
+| Location: 167 | 
+ Date: January 18, 2017 |
+<br>
+
+ > PRINCIPLE 6 Let the other person do a great deal of the talking.
+
+| Location: 168 | 
+ Date: January 18, 2017 |
+<br>
+
+ > 7 How to Get Cooperation
+
+| Location: 169 | 
+ Date: January 18, 2017 |
+<br>
+
+ > D on’t you have much more faith in ideas that you discover for yourself than in ideas that are handed to you on a silver platter? If so, isn’t it bad judgment to try to ram your opinions down the throats of other people? Isn’t it wiser to make suggestions—and let the other person think out the conclusion?
+
+| Location: 169 | 
+ Date: January 18, 2017 |
+<br>
+
+ > Adolph Seltz of Philadelphia, sales manager in an automobile showroom and a student in one of my courses, suddenly found himself confronted with the necessity of injecting enthusiasm into a discouraged and disorganized group of automobile salespeople. Calling a sales meeting, he urged his people to tell him exactly what they expected from him. As they talked, he wrote their ideas on the blackboard. He then said: “I’ll give you all these qualities you expect from me. Now I want you to day—and
+
+| Location: 169 | 
+ Date: January 18, 2017 |
+<br>
+
+ > No one likes to feel that he or she is being sold something or told to do a thing. We much prefer to feel that we are buying of our own accord or acting on our own ideas. We like to be consulted about our wishes, our wants, our thoughts.
+
+| Location: 169 | 
+ Date: January 18, 2017 |
+<br>
+
+ > “I realized why I had failed for years to sell him,” said Mr. Wesson. “I had urged him to buy what I thought he ought to have. Then I changed my approach completely. I urged him to give me his ideas. This made him feel that he was creating the designs. And he was. I didn’t have to sell him. He bought.”
+
+| Location: 170 | 
+ Date: January 18, 2017 |
+<br>
+
+ > Letting the other person feel that the idea is his or hers not only works in business and politics, it works in family life as well.
+
+| Location: 170 | 
+ Date: January 18, 2017 |
+<br>
+
+ > Ralph Waldo Emerson in his essay “Self-Reliance” stated: “In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.”
+
+| Location: 172 | 
+ Date: January 18, 2017 |
+<br>
+
+ > After I got to know the President,’ House said, ‘I learned the best way to convert him to an idea was to plant it in his mind casually, but so as to interest him in it—so as to get him thinking about it on his own account. The first time this worked it was an accident. I had been visiting him at the White House and urged a policy on him which he appeared to disapprove. But several days later, at the dinner table, I was amazed to hear him trot out my suggestion as his own.’” Did House interrupt him and say, “That’s not your idea. That’s mine”? Oh, no. Not House. He was too adroit for that. He didn’t care about credit. He wanted results. So he let Wilson continue to feel that the idea was his. House did even more than that. He gave Wilson public credit for these ideas.
+
+| Location: 172 | 
+ Date: January 18, 2017 |
+<br>
+
+ > Twenty-five centuries ago, Lao-tse, a Chinese sage, said some things that readers of this book might use today: “The reason why rivers and seas receive the homage of a hundred mountain streams is that they keep below them. Thus they are able to reign over all the mountain streams. So the sage, wishing to be above men, putteth himself below them; wishing to be before them, he putteth himself behind them. Thus, though his place be above men, they do not feel his weight; though his place be before them, they do not count it an injury.”
+
+| Location: 173 | 
+ Date: January 18, 2017 |
+<br>
+
+ > PRINCIPLE 7 Let the other person feel that the idea is his or hers.
+
+| Location: 173 | 
+ Date: January 18, 2017 |
+<br>
+
+ > 8 A Formula That Will Work Wonders for You
+
+| Location: 174 | 
+ Date: January 18, 2017 |
+<br>
+
+ > Remember that other people may be totally wrong. But they don’t think so. Don’t condemn them. Any fool can do that. Try to understand them. Only wise, tolerant, exceptional people even try to do that. There is a reason why the other man thinks and acts as he does. Ferret out that reason—and you have the key to his actions, perhaps to his personality. Try honestly to put yourself in his place. If you say to yourself, “How would I feel, how would I react if I were in his shoes?” you will save yourself time and irritation, for “by becoming interested in the cause, we are less likely to dislike the effect.” And, in addition, you will sharply increase your skill in human relationships.
+
+| Location: 174 | 
+ Date: January 18, 2017 |
+<br>
+
+ > that success in dealing with people depends on a sympathetic grasp of the other person’s viewpoint.”
+
+| Location: 174 | 
+ Date: January 18, 2017 |
+<br>
+
+ > That is so important that I am going to repeat it in italics for the sake of emphasis. I would rather walk the sidewalk in front of a person’s office for two hours before an interview than step into that office without a perfectly clear idea of what I was going to say and what that person—from my knowledge of his or her interests and motives—was likely to answer. If, as a result of reading this book, you get only one thing—an increased tendency to think always in terms of the other person’s point of view, and see things from that person’s angle as well as your own—if you get only that one thing from this book, it may easily prove to be one of the stepping-stones of your career.
+
+| Location: 178 | 
+ Date: January 18, 2017 |
+<br>
+
+ > PRINCIPLE 8 Try honestly to see things from the other person’s point of view
+
+| Location: 178 | 
+ Date: January 18, 2017 |
+<br>
+
+ > 9 What Everybody Wants
+
+| Location: 179 | 
+ Date: January 18, 2017 |
+<br>
+
+ > Wouldn’t you like to have a magic phrase that would stop arguments, eliminate ill feeling, create good will, and make the other person listen attentively? Yes? All right. Here it is: “I don’t blame you one iota for feeling as you do. If I were you I would undoubtedly feel just as you do.” An answer like that will soften the most cantankerous old cuss alive. And you can say that and be 100 percent sincere, because if you were the other person you, of course, would feel just as he does
+
+| Location: 179 | 
+ Date: January 23, 2017 |
+<br>
+
+ > The only reason, for example, that you are not a rattlesnake is that your mother and father weren’t rattlesnakes. You deserve very little credit for being what you are—and remember, the people who come to you irritated, bigoted, unreasoning, deserve very little discredit for being what they are. Feel sorry for the poor devils. Pity them. Sympathize with them. Say to yourself: “There, but for the grace of God, go I.” Three-fourths of the people you will ever meet are hungering and thirsting for sympathy. Give it to them, and they will love you.
+
+| Location: 179 | 
+ Date: January 23, 2017 |
+<br>
+
+ > So, because I had apologized and sympathized with her point of view, she began apologizing and sympathizing with my point of view. I had the satisfaction of controlling my temper, the satisfaction of returning kindness for an insult.
+
+| Location: 181 | 
+ Date: January 24, 2017 |
+<br>
+
+ > “Rick, I know your hotel is quite busy and you would like to keep the escalator shutdown time to a minimum. I understand your concern about this, and we want to do everything possible to accommodate you. However, our diagnosis of the situation shows that if we do not do a complete job now, your escalator may suffer more serious damage and that would cause a much longer shutdown. I know you would not want to inconvenience your guests for several days.” The manager had to agree that an eight-hour shutdown was more desirable than several days’. By sympathizing with the manager’s desire to keep his patrons happy, Mr. Mangum was able to win the hotel manager to his way of thinking easily and without rancor.
+
+| Location: 183 | 
+ Date: January 24, 2017 |
+<br>
+
+ > “Sympathy the human species universally craves. The child eagerly displays his injury; or even inflicts a cut or bruise in order to reap abundant sympathy. For the same purpose adults … show their bruises, relate their accidents, illness, especially details of surgical operations. ‘Self-pity’ for misfortunes real or imaginary is, in some measure, practically a universal practice.”
+
+| Location: 185 | 
+ Date: January 24, 2017 |
+<br>
+
+ > PRINCIPLE 9 Be sympathetic with the other person’s ideas and desires.
+
+| Location: 186 | 
+ Date: January 24, 2017 |
+<br>
+
+ > 10 An Appeal That Everybody Likes
+
+| Location: 187 | 
+ Date: January 24, 2017 |
+<br>
+
+ > a person usually has two reasons for doing a thing: one that sounds good and a real one.
+
+| Location: 187 | 
+ Date: January 24, 2017 |
+<br>
+
+ > The person himself will think of the real reason. You don’t need to emphasize that. But all of us, being idealists at heart, like to think of motives that sound good. So, in order to change people, appeal to the nobler motives.
+
+| Location: 187 | 
+ Date: January 24, 2017 |
+<br>
+
+ > They had concluded that the only honorable thing to do was to live up to their lease
+
+| Location: 188 | 
+ Date: January 24, 2017 |
+<br>
+
+ > When the late Lord Northcliffe found a newspaper using a picture of him which he didn’t want published, he wrote the editor a letter. But did he say, “Please do not publish that picture of me any more; I don’t like it”? No, he appealed to a nobler motive. He appealed to the respect and love that all of us have for motherhood. He wrote, “Please do not publish that picture of me any more. My mother doesn’t like it
+
+| Location: 188 | 
+ Date: January 24, 2017 |
+<br>
+
+ > Experience has taught me,” says Mr. Thomas, “that when no information can be secured about the customer, the only sound basis on which to proceed is to assume that he or she is sincere, honest, truthful and willing and anxious to pay the charges, once convinced they are correct. To put it differently and perhaps more clearly, people are honest and want to discharge their obligations. The exceptions to that rule are comparatively few, and I am convinced that the individuals who are inclined to chisel will in most cases react favorably if you make them feel that you consider them honest, upright and fair.”
+
+| Location: 191 | 
+ Date: January 24, 2017 |
+<br>
+
+ > PRINCIPLE 10 Appeal to the nobler motives
+
+| Location: 191 | 
+ Date: January 24, 2017 |
+<br>
+
+ > The Movies Do It. TV Does It. Why Don’t You Do It?
+
+| Location: 192 | 
+ Date: January 25, 2017 |
+<br>
+
+ > This is the day of dramatization. Merely stating a truth isn’t enough. The truth has to be made vivid, interesting, dramatic. You have to use showmanship. The movies do it. Television does it. And you will have to do it if you want attention.
+
+| Location: 192 | 
+ Date: January 25, 2017 |
+<br>
+
+ > You can dramatize your ideas in business or in any other aspect of your life. It’s easy.
+
+| Location: 193 | 
+ Date: January 25, 2017 |
+<br>
+
+ > It works in home life as well. When the old-time lover proposed to his sweetheart, did he just use words of love? No! He went down on his knees. That really showed he meant what he said. We don’t propose on our knees any more, but many suitors still set up a romantic atmosphere before they pop the question.
+
+| Location: 193 | 
+ Date: January 25, 2017 |
+<br>
+
+ > PRINCIPLE 11 Dramatize your ideas.
+
+| Location: 195 | 
+ Date: January 25, 2017 |
+<br>
+
+ > “The way to get things done,” says Schwab, “is to stimulate competition. I do not mean in a sordid, money-getting way, but in the desire to excel.” The desire to excel! The challenge! Throwing down the gauntlet! An infallible way of appealing to people of spirit.
+
+| Location: 196 | 
+ Date: January 25, 2017 |
+<br>
+
+ > So Smith was throwing down a challenge, was he? Lawes liked the idea of attempting a job that called for someone “big.” So he went. And he stayed. He stayed, to become the most famous warden of his time
+
+| Location: 197 | 
+ Date: January 25, 2017 |
+<br>
+
+ > The one major factor that motivated people was the work itself. If the work was exciting and interesting, the worker looked forward to doing it and was motivated to do a good job. That is what every successful person loves: the game. The chance for self-expression. The chance to prove his or her worth, to excel, to win. That is what makes footraces and hog-calling and pie-eating contests. The desire to excel. The desire for a feeling of importance
+
+| Location: 198 | 
+ Date: January 25, 2017 |
+<br>
+
+ > PRINCIPLE 12 Throw down a challenge
+
+| Location: 198 | 
+ Date: January 25, 2017 |
+<br>
+
+ > IN A NUTSHELL WIN PEOPLE TO YOUR WAY OF THINKING PRINCIPLE 1 The only way to get the best of an argument is to avoid it. PRINCIPLE 2 Show respect for the other person’s opinions. Never say, “You’re wrong.” PRINCIPLE 3 If you are wrong, admit it quickly and emphatically. PRINCIPLE 4 Begin in a friendly way. PRINCIPLE 5 Get the other person saying “yes, yes” immediately.
+
+| Location: 198 | 
+ Date: January 25, 2017 |
+<br>
+
+ > PRINCIPLE 6 Let the other person do a great deal of the talking. PRINCIPLE 7 Let the other person feel that the idea is his or hers. PRINCIPLE 8 Try honestly to see things from the other person’s point of view. PRINCIPLE 9 Be sympathetic with the other person’s ideas and desires. PRINCIPLE 10 Appeal to the nobler motives. PRINCIPLE 11 Dramatize your ideas. PRINCIPLE 12 Throw down a challenge.
+
+| Location: 198 | 
+ Date: January 25, 2017 |
+<br>
+
+ > Part Four Be a Leader: How to Change People Without Giving Offense or Arousing Resentment
+
+| Location: 200 | 
+ Date: January 25, 2017 |
+<br>
+
+----------
+<br><br>
+
+## Part Four: Be a Leader: How to Change People Without Giving Offense or Arousing Resentment
+
+ > 1 If You Must Find Fault, This Is the Way to Begin
+
+| Location: 201 | 
+ Date: January 26, 2017 |
+<br>
+
+ > It is always easier to listen to unpleasant things after we have heard some praise of our good points.
+
+| Location: 201 | 
+ Date: January 25, 2017 |
+<br>
+
+ > This is perhaps the sharpest letter Abe Lincoln wrote after he became President; yet you will note that he praised General Hooker before he spoke of his grave faults. Yes, they were grave faults, but Lincoln didn’t call them that. Lincoln was more conservative, more diplomatic. Lincoln wrote: “There are some things in regard to which I am not quite satisfied with you.” Talk about tact! And diplomacy!
+
+| Location: 202 | 
+ Date: January 25, 2017 |
+<br>
+
+ > PRINCIPLE 1 Begin with praise and honest appreciation.
+
+| Location: 206 | 
+ Date: January 25, 2017 |
+<br>
+
+ > 2 How to Criticize—and Not Be Hated for It
+
+| Location: 207 | 
+ Date: January 26, 2017 |
+<br>
+
+ > He walked over to the men, handed each one a cigar, and said, “I’ll appreciate it, boys, if you will smoke these on the outside.” They knew that he knew that they had broken a rule—and they admired him because he said nothing about it and gave them a little present and made them feel important. Couldn’t keep from loving a man like that, could you?
+
+| Location: 207 | 
+ Date: January 25, 2017 |
+<br>
+
+ > Many people begin their criticism with sincere praise followed by the word “but” and ending with a critical statement. For example, in trying to change a child’s careless attitude toward studies, we might say, “We’re really proud of you, Johnnie, for raising your grades this term. But if you had worked harder on your algebra, the results would have been better.” In this case, Johnnie might feel encouraged until he heard the word “but.” He might then question the sincerity of the original praise. To him, the praise seemed only to be a contrived lead-in to a critical inference of failure. Credibility would be strained, and we probably would not achieve our objectives of changing Johnnie’s attitude toward his studies. This could be easily overcome by changing the word “but” to “and.” “We’re really proud of you, Johnnie, for raising your grades this term, and by continuing the same conscientious efforts next term, your algebra grade can be up with all the others.” Now, Johnnie would accept the praise because there was no follow-up of an inference of failure. We have called his attention to the behavior we wished to change indirectly, and the chances are he will try to live up to our expectations.
+
+
+Notes:`But vs and`
+| Location: 208 | 
+ Date: January 25, 2017 |
+<br>
+
+ > she merely remarked that it would make an excellent article for the North American Review. In other words, she praised it and at the same time subtly suggested that it wouldn’t do as a speech. Lyman Abbott saw the point, tore up his carefully prepared manuscript and preached without even using notes
+
+| Location: 210 | 
+ Date: January 25, 2017 |
+<br>
+
+ > An effective way to correct others’ mistakes is… PRINCIPLE 2 Call attention to people’s mistakes indirectly.
+
+| Location: 210 | 
+ Date: January 25, 2017 |
+<br>
+
+ > 3 Talk About Your Own Mistakes First
+
+| Location: 211 | 
+ Date: January 26, 2017 |
+<br>
+
+ > If a few sentences humbling oneself and praising the other party can turn a haughty, insulted Kaiser into a staunch friend, imagine what humility and praise can do for you and me in our daily contacts. Rightfully used, they will work veritable miracles in human relations.
+
+| Location: 214 | 
+ Date: January 26, 2017 |
+<br>
+
+ > Admitting one’s own mistakes—even when one hasn’t corrected them—can help convince somebody to change his behavior
+
+| Location: 214 | 
+ Date: January 26, 2017 |
+<br>
+
+ > PRINCIPLE 3 Talk about your own mistakes before criticizing the other person
+
+| Location: 215 | 
+ Date: January 26, 2017 |
+<br>
+
+ > 4 No One Likes to Take Orders
+
+| Location: 216 | 
+ Date: January 27, 2017 |
+<br>
+
+ > all that time he had never heard Owen D. Young give a direct order to anyone. He always gave suggestions, not orders. Owen D. Young never said, for example, “Do this or do that,” or “Don’t do this or don’t do that.” He would say, “You might consider this,” or “Do you think that would work?” Frequently he would looking over a letter of one of his assistants, he would say, “Maybe if we were to phrase it this way it would be better.” He always gave people the opportunity to do things themselves; he never told his assistants to do things; he let them do them, let them learn from their mistakes.
+
+| Location: 216 | 
+ Date: January 27, 2017 |
+<br>
+
+ > A technique like that makes it easy for a person to correct errors. A technique like that saves a person’s pride and gives him or her a feeling of importance. It encourages cooperation instead of rebellion.
+
+| Location: 216 | 
+ Date: January 27, 2017 |
+<br>
+
+ > Resentment caused by a brash order may last a long time—even if the order was given to correct an obviously bad situation.
+
+| Location: 216 | 
+ Date: January 27, 2017 |
+<br>
+
+ > Asking questions not only makes an order more palatable; it often stimulates the creativity of the persons whom you ask. People are more likely to accept an order if they have had a part in the decision that caused the order to be issued.
+
+| Location: 217 | 
+ Date: January 27, 2017 |
+<br>
+
+ > PRINCIPLE 4 Ask questions instead of giving direct orders.
+
+| Location: 217 | 
+ Date: January 27, 2017 |
+<br>
+
+ > 5 Let the Other Person Save Face
+
+| Location: 219 | 
+ Date: January 27, 2017 |
+<br>
+
+ > Years ago the General Electric Company was faced with the delicate task of removing Charles Steinmetz from the head of a department. Steinmetz, a genius of the first magnitude when it came to electricity, was a failure as the head of the calculating department. Yet the company didn’t dare offend the man. He was indispensable—and highly sensitive. So they gave him a new title. They made him Consulting Engineer of the General Electric Company—a new title for work he was already doing—and let someone else head up the department. Steinmetz was happy. So were the officers of G.E. They had gently maneuvered their most temperamental star, and they had done it without a storm—by letting him save face. Letting one save face! How important, how vitally important that is!
+
+| Location: 219 | 
+ Date: January 27, 2017 |
+<br>
+
+ > Even if we are right and the other person is definitely wrong, we only destroy ego by causing someone to lose face. The legendary French aviation pioneer and author Antoine de Saint-Exupéry wrote: “I have no right to say or do anything that diminishes a man in his own eyes. What matters is not what I think of him, but what he thinks of himself. Hurting a man in his dignity is a crime.”
+
+| Location: 221 | 
+ Date: January 27, 2017 |
+<br>
+
+ > PRINCIPLE 5 Let the other person save face.
+
+| Location: 222 | 
+ Date: January 27, 2017 |
+<br>
+
+ > 6 How to Spur People On to Success
+
+| Location: 223 | 
+ Date: January 27, 2017 |
+<br>
+
+ > Why don’t we use praise instead of condemnation? Let us praise even the slightest improvement. That inspires the other person to keep on improving
+
+| Location: 223 | 
+ Date: January 27, 2017 |
+<br>
+
+ > What Mr. Roper did was not just flatter the young printer and say “You’re good.” He specifically pointed out how his work was superior. Because he had singled out a specific accomplishment, rather than just making general flattering remarks, his praise became much more meaningful to the person to whom it was given. Everybody likes to be praised, but when praise is specific, it comes across as sincere—not something the other person may be saying just to make one feel good.
+
+| Location: 226 | 
+ Date: January 27, 2017 |
+<br>
+
+ > Remember, we all crave appreciation and recognition, and will do almost anything to get it. But nobody wants insincerity. Nobody wants flattery.
+
+| Location: 226 | 
+ Date: January 27, 2017 |
+<br>
+
+ > Let me repeat: The principles taught in this book will work only when they come from the heart. I am not advocating a bag of tricks. I am talking about a new way of life. Talk about changing people. If you and I will inspire the people with whom we come in contact to a realization of the hidden treasures they possess, we can do far more than change people. We can literally transform them
+
+| Location: 226 | 
+ Date: January 27, 2017 |
+<br>
+
+ > PRINCIPLE 6 Praise the slightest improvement and praise every improvement. Be “hearty in your approbation and lavish in your praise.”
+
+| Location: 227 | 
+ Date: January 27, 2017 |
+<br>
+
+ > The average person,” said Samuel Vauclain, then president of the Baldwin Locomotive Works, “can be led readily if you have his or her respect and if you show that you respect that person for some kind of ability.”
+
+| Location: 228 | 
+ Date: January 27, 2017 |
+<br>
+
+ > if you want to improve a person in a certain respect, act as though that particular trait were already one of his or her outstanding characteristics. Shakespeare said, “Assume a virtue, if you have it not.” And it might be well to assume and state openly that other people have the virtue you want them to develop. Give them a fine reputation to live up to, and they will make prodigious efforts rather than see you disillusioned.
+
+| Location: 228 | 
+ Date: January 27, 2017 |
+<br>
+
+ > PRINCIPLE 7 Give the other person a fine reputation to live up to.
+
+| Location: 231 | 
+ Date: January 27, 2017 |
+<br>
+
+ > 8 Make the Fault Seem Easy to Correct
+
+| Location: 232 | 
+ Date: January 27, 2017 |
+<br>
+
+ > Tell your child, your spouse, or your employee that he or she is stupid or dumb at a certain thing, has no gift for it, and is doing it all wrong, and you have destroyed almost every incentive to try to improve. But use the opposite technique—be liberal with your encouragement, make the thing seem easy to do, let the other person know that you have faith in his ability to do it, that he has an undeveloped flair for it—and he will practice until the dawn comes in the window in order to excel
+
+| Location: 232 | 
+ Date: January 27, 2017 |
+<br>
+
+ > PRINCIPLE 8 Use encouragement. Make the fault seem easy to correct
+
+| Location: 235 | 
+ Date: January 27, 2017 |
+<br>
+
+ > Always make the other person happy about doing the thing you suggest.
+
+| Location: 236 | 
+ Date: January 27, 2017 |
+<br>
+
+ > The effective leader should keep the following guidelines in mind when it is necessary to change attitudes or behavior: 1. Be sincere. Do not promise anything that you cannot deliver. Forget about the benefits to yourself and concentrate on the benefits to the other person. 2. Know exactly what it is you want the other person to do. 3. Be empathetic. Ask yourself what it is the other person really wants. 4. Consider the benefits that person will receive from doing what you suggest. 5. Match those benefits to the other person’s wants. 6. When you make your request, put it in a form that will convey to the other person the idea that he personally will benefit
+
+| Location: 239 | 
+ Date: January 27, 2017 |
+<br>
+
+ > It is naïve to believe you will always get a favorable reaction from other persons when you use these approaches, but the experience of most people shows that you are more likely to change attitudes this way than by not using these principles—and if you increase your successes by even a mere 10 percent, you have become 10 percent more effective as a leader than you were before—and that is your benefit.
+
+| Location: 240 | 
+ Date: January 27, 2017 |
+<br>
+
+ > PRINCIPLE 9 Make the other person happy about doing the thing you suggest.
+
+| Location: 240 | 
+ Date: January 27, 2017 |
+<br>
+
+ > IN A NUTSHELL BE A LEADER A leader’s job often includes changing your people’s attitudes and behavior. Some suggestions to accomplish this: PRINCIPLE 1 Begin with praise and honest appreciation. PRINCIPLE 2 Call attention to people’s mistakes indirectly. PRINCIPLE 3 Talk about your own mistakes before criticizing the other person. PRINCIPLE 4 Ask questions instead of giving direct orders. PRINCIPLE 5 Let the other person save face. PRINCIPLE 6 Praise the slightest improvement and praise every improvement. Be “hearty in your approbation and lavish in your praise.” PRINCIPLE 7 Give the other person a fine reputation to live up to. PRINCIPLE 8 Use encouragement. Make the fault seem easy to correct. PRINCIPLE 9 Make the other person happy about doing the thing you suggest.
+
+| Location: 240 | 
+ Date: January 27, 2017 |
+<br>
+
+----------
+<br><br>

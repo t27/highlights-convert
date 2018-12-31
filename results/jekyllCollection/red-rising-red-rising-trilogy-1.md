@@ -1,0 +1,134 @@
+---
+layout: highlight
+title: "Red Rising: Red Rising Trilogy 1"
+authors: "Pierce Brown"
+---
+
+
+## 4: The Gift
+
+ > And I grasp my wife as the clans flow in dance throughout the square to join us. We sweat and we laugh and try to forget the anger. We grew together, and now are grown. In her eyes, I see my heart. In her breath, I hear my soul. She is my land. She is my kin. My love.
+
+| Location: 469 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 8: Dancer
+
+ > He holds out a bowl and explains the rules. “There are two cards in the bowl. One bears the reaper’s scythe. The other bears a lamb. Pick the scythe and you lose. Pick the lamb and you win.” Except I notice his voice fluctuate when he says this last bit. This is a test. Which means there is no element of luck to it. It must then be measuring my intelligence, which means there is a kink. The only way the game could test my intelligence is if the cards are both scythes; that’s the singular variable that could be altered. Simple. I stare into Dancer’s handsome eyes. It is a rigged game; I’m used to these, and usually I follow the rules. Just not this time. “I’ll play.” I reach into the bowl and pull free a card, taking care that only I can see its face. It is a scythe. Dancer’s eyes never leave mine. “I win,” I say. He reaches for the card to see its face, but I shove it in my mouth before he can take hold of it. He never sees what I drew. Dancer watches me chew on the paper. I swallow and pull the remaining card from the bowl and toss it at him. A scythe. “The lamb card simply looked too good not to eat,” I say. “Perfectly understandable.”
+
+| Location: 947 | 
+ Color: yellow |
+<br>
+
+ > “Imagine there was a table covered with fleas,” he explains. “The fleas would jump and jump to heights unknown. Then a man came along and upturned a glass jar over the fleas. The fleas jumped and hit the top of the jar and could go no farther. Then the man removed the jar and yet the fleas did not jump higher than they had grown accustomed, because they believed there to still be a glass ceiling.” He breathes out smoke. I see his eyes glow through it like the ember tip of his burner. “We are the fleas who jump high. Now let me show you just how high.”
+
+| Location: 973 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 9: The Lie
+
+ > grotesquerie.
+
+| Location: 1019 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 18: Classmates
+
+ > I am a product of my upbringing. I cheer for the underdog.”
+
+| Location: 2015 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 29: Unity
+
+ > “Life is the most effective school ever created. Once upon a time they made children bow their heads and read books. It would take ages to get anything across.” He taps his head. “But we have widgets and datapads now, and we Golds have the lower Colors to do our research. We need not study chemistry or physics. We have computers and others to do that. What we must study is humanity. In order to rule, ours must be the study of political, psychological, and behavioral science—how desperate human beings react to one another, how packs form, how armies function, how things fall apart and why. You could learn this nowhere else but here.”
+
+| Location: 3377 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 30: House Diana
+
+ > Always negotiate with food. I make a note.
+
+| Location: 3618 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 34: The Northwoods
+
+ > “You have to remember, people don’t like being told what to do. You can treat your friends like servants and they’ll love you, but you tell them they’re servants and they’ll kill you. Anyway, you put too much stock in hierarchy and fear.”
+
+| Location: 4049 | 
+ Color: yellow |
+<br>
+
+ > All that matters is that no one trusts you because it’s obvious you care more about your goal than you do about them.”
+
+| Location: 4058 | 
+ Color: yellow |
+<br>
+
+ > When I had a tribe, I did it right. I made every boy and every girl love me. Made them earn their keep. I taught them how to kill a goat as if I knew how. I gave them fire as if I had created the matches. I shared a secret with them—that we had food and Titus didn’t. They saw me as their father. I remember it in their eyes. When Titus was alive, I was a symbol of goodness and hope.
+
+| Location: 4062 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 35: Oathbreakers
+
+ > The way I look at it is those ten already made it clear they don’t want to be slaves. So they might like the first person who will give them purpose, food, furs, who is not demanding that they lick a bootheel.
+
+| Location: 4324 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 36: A Second Test
+
+ > They want to win, but to follow my orders, to understand that I don’t think I’m some high and mighty emperor, their proud hearts need to feel valued. So I make sure they know they are. I pay each student a specific compliment. One they remember forever. Even when I am ruining their Society at the vanguard of a billion screaming Reds, they will tell their children that Darrow of Mars once clapped them on the shoulder and paid them a compliment.
+
+| Location: 4518 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 37: South
+
+ > “The measure of a man is what he does when he has power.” She laughs. “You mock him for Cicero and then spit out Plato.”
+
+| Location: 4652 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>

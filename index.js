@@ -1,15 +1,19 @@
 
 const fs = require("fs")
 const path = require('path');
+const slugify = require('@sindresorhus/slugify');
 const KindleConverter = require("./KindleConverter");
 const GPlayConverter = require('./GooglePlayConverter')
+const postProcessJson = require('./postProcessJson')
 const glob = require('glob')
 KindleNotes = "./raw/KindleHighlights/*.html"
 PlayBooksNotes = "./raw/Play Books Notes/*.html"
+ResultDir = "./results/"
 
 function convertAllKindleFiles() {
     glob(KindleNotes, function (er, files) {
         if (er) {
+            console.log("Error during Kindle file conversion")
             console.log(er);
             return;
         } else {
@@ -27,6 +31,7 @@ function convertAllKindleFiles() {
 function convertAllPlayBooksFiles () {
     glob(PlayBooksNotes, function (er, files) {
         if (er) {
+            console.log("Error during PlayBooks file conversion")
             console.log(er);
             return;
         } else {
@@ -45,18 +50,65 @@ function saveJson(converter) {
     if (converter.valid) {
         let res = converter.getJSON()
         console.log(res.volume.title);
-        fs.writeFileSync("results/" + res.volume.title + ".json", JSON.stringify(res, null, 2))
+        fs.writeFileSync(ResultDir + res.volume.title + ".json", JSON.stringify(res, null, 2))
         return true
     } else {
         return false
     }
 }
-convertAllPlayBooksFiles()
-convertAllKindleFiles()
+
+function chapterWiseIndexing() {
+    glob(ResultDir+"*.json", function(er, files) {
+        if(er) {
+            console.log("Error during chapterIndexing")
+            console.log(er)
+            return
+        }
+        files.forEach(rawJsonFile => {
+            let rawJson = JSON.parse(fs.readFileSync(rawJsonFile).toString())
+            let chapterJson = postProcessJson.chapterWiseSplitJson(rawJson)
+            let targetDir = ResultDir + "chapterSplits/"
+            if (!fs.existsSync(targetDir)){
+                fs.mkdirSync(targetDir);
+            }
+            filename = rawJsonFile.substring(rawJsonFile.lastIndexOf('/') + 1)
+            fs.writeFileSync(targetDir+filename,JSON.stringify(chapterJson,null,2))
+
+        });
+    })
+}
+
+function createJekyllData() {
+    glob(ResultDir + "chapterSplits/*.json", function(er, files) {
+        if(er) {
+            console.log("Error during chapterIndexing")
+            console.log(er)
+            return
+        }
+        files.forEach(rawJsonFile => {
+            let rawJson = JSON.parse(fs.readFileSync(rawJsonFile).toString())
+            let jekyllFile = postProcessJson.createJekyllCollectionFiles(rawJson)
+            let targetDir = ResultDir + "jekyllCollection/"
+            if (!fs.existsSync(targetDir)){
+                fs.mkdirSync(targetDir);
+            }
+            filename = rawJsonFile.substring(rawJsonFile.lastIndexOf('/') + 1)
+            filename = slugify(filename.split('.').slice(0, -1).join())
+            fs.writeFileSync(targetDir+filename+".md",jekyllFile)
+        });
+    })
+}
+
+
+// convertAllPlayBooksFiles()
+// convertAllKindleFiles()
+// chapterWiseIndexing()
+// createJekyllData()
+testSingleKindleFile()
 /** Test Functions */
 
 function testSingleKindleFile() {
-    file = "/Users/tshah/Documents/Else/t27/kindlehigh/raw/KindleHighlights/tsaongaf.html"
+    file = "/Users/tshah/Documents/Else/t27/kindlehigh/raw/KindleHighlights/Seven Brief Lessons on Physics - Notebook.html"
     const kfile = fs.readFileSync(file)
     const kindleConverter = new KindleConverter(kfile);
 

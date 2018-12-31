@@ -1,0 +1,3 @@
+
+
+resultFolder = "./results/chapterSplits"

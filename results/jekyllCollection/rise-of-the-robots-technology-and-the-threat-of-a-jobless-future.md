@@ -1,0 +1,25 @@
+---
+layout: highlight
+title: "Rise of the Robots: Technology and the Threat of a Jobless Future"
+authors: "Martin Ford"
+---
+
+
+## Introduction
+
+ > Sometime during the 1960s, the Nobel laureate economist Milton Friedman was consulting with the government of a developing Asian nation. Friedman was taken to a large-scale public works project, where he was surprised to see large numbers of workers wielding shovels, but very few bulldozers, tractors, or other heavy earth-moving equipment. When asked about this, the government official in charge explained that the project was intended as a “jobs program.” Friedman’s caustic reply has become famous: “So then, why not give the workers spoons instead of shovels?”
+
+| Location: 9 | 
+ Date: February 7, 2016 |
+<br>
+
+ > There have certainly been hiccups—and indeed major disruptions—along the way. The mechanization of agriculture vaporized millions of jobs and drove crowds of unemployed farmhands into cities in search of factory work. Later, automation and globalization pushed workers out of the manufacturing sector and into new service jobs. Short-term unemployment was often a problem during these transitions, but it never became systemic or permanent. New jobs were created and dispossessed workers found new opportunities.What’s more, those new jobs were often better than earlier counterparts, requiring upgraded skills and offering better wages.
+
+
+Notes:`Factory labourers to ecommerce delivery, logistics`
+| Location: 9 | 
+ Date: February 7, 2016 |
+<br>
+
+----------
+<br><br>

@@ -1,0 +1,62 @@
+{
+  "volume": {
+    "title": "PG's Best Few",
+    "authors": [
+      "t27"
+    ]
+  },
+  "chapterHighlights": {
+    "What Doesn't Seem Like Work?": {
+      "index": 1,
+      "highlights": [
+        {
+          "chapter": "What Doesn't Seem Like Work?",
+          "content": "Few people know so early or so certainly what they want to work on. But talking to my father reminded me of a heuristic the rest of us can use. If something that seems like work to other people doesn't seem like work to you, that's something you're well suited for",
+          "date": "February 27, 2016",
+          "location": "4"
+        }
+      ]
+    },
+    "Why to Start a Startup in a Bad Economy": {
+      "index": 2,
+      "highlights": [
+        {
+          "chapter": "Why to Start a Startup in a Bad Economy",
+          "content": "The economic situation is apparently so grim that some experts fear we may be in for a stretch as bad as the mid seventies. When Microsoft and Apple were founded. As those examples suggest, a recession may not be such a bad time to start a startup. I'm not claiming it's a particularly good time either. The truth is more boring: the state of the economy doesn't matter much either way. If we've learned one thing from funding so many startups, it's that they succeed or fail based on the qualities of the founders. The economy has some effect, certainly, but as a predictor of success it's rounding error compared to the founders. Which means that what matters is who you are, not when you do it. If you're the right sort of person, you'll win even in a bad economy. And if you're not, a good economy won't save you. Someone who thinks \"I better not start a startup now, because the economy is so bad\" is making the same mistake as the people who thought during the Bubble \"all I have to do is start a startup, and I'll be rich.\"",
+          "date": "March 3, 2016",
+          "location": "239"
+        },
+        {
+          "chapter": "Why to Start a Startup in a Bad Economy",
+          "content": "That doesn't mean you can ignore the economy. Both customers and investors will be feeling pinched. It's not necessarily a problem if customers feel pinched: you may even be able to benefit from it, by making things that save money. Startups often make things cheaper, so in that respect they're better positioned to prosper in a recession than big companies.",
+          "date": "March 3, 2016",
+          "location": "240"
+        },
+        {
+          "chapter": "Why to Start a Startup in a Bad Economy",
+          "content": "Fortunately the way to make a startup recession-proof is to do exactly what you should do anyway: run it as cheaply as possible. For years I've been telling founders that the surest route to success is to be the cockroaches of the corporate world. The immediate cause of death in a startup is always running out of money. So the cheaper your company is to operate, the harder it is to kill. And fortunately it has gotten very cheap to run a startup. A recession will if anything make it cheaper still.",
+          "date": "March 3, 2016",
+          "location": "241"
+        },
+        {
+          "chapter": "Why to Start a Startup in a Bad Economy",
+          "content": "What if you quit your job to start a startup that fails, and you can't find another? That could be a problem if you work in sales or marketing. In those fields it can take months to find a new job in a bad economy. But hackers seem to be more liquid. Good hackers can always get some kind of job. It might not be your dream job, but you're not going to starve. Another advantage of bad times is that there's less competition. Technology trains leave the station at regular intervals. If everyone else is cowering in a corner, you may have a whole car to yourself.",
+          "date": "March 3, 2016",
+          "location": "241"
+        },
+        {
+          "chapter": "Why to Start a Startup in a Bad Economy",
+          "content": "You're an investor too. As a founder, you're buying stock with work: the reason Larry and Sergey are so rich is not so much that they've done work worth tens of billions of dollars, but that they were the first investors in Google. And like any investor you should buy when times are bad.",
+          "date": "March 3, 2016",
+          "location": "241"
+        },
+        {
+          "chapter": "Why to Start a Startup in a Bad Economy",
+          "content": "Were you nodding in agreement, thinking \"stupid investors\" a few paragraphs ago when I was talking about how investors are reluctant to put money into startups in bad markets, even though that's the time they should rationally be most willing to buy? Well, founders aren't much better. When times get bad, hackers go to grad school. And no doubt that will happen this time too. In fact, what makes the preceding paragraph true is that most readers won't believe it—at least to the extent of acting on it.",
+          "date": "March 3, 2016",
+          "location": "242"
+        }
+      ]
+    }
+  }
+}
