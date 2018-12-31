@@ -22,6 +22,7 @@ authors: "Andy Weir"
 
 
 Notes:`Amazingly realistic details! Totally relate to it! 😂😁`
+
 | Location: 214 | 
  Date: January 13, 2016 |
 <br>
@@ -35,6 +36,7 @@ Notes:`Amazingly realistic details! Totally relate to it! 😂😁`
 
 
 Notes:`Navigating Mars - do it like the humans did long long ago`
+
 | Location: 268 | 
  Date: January 15, 2016 |
 <br>
@@ -54,6 +56,7 @@ Notes:`Navigating Mars - do it like the humans did long long ago`
 
 
 Notes:`Another great problem solving example - 1`
+
 | Location: 278 | 
  Date: January 15, 2016 |
 <br>
@@ -62,6 +65,7 @@ Notes:`Another great problem solving example - 1`
 
 
 Notes:`Another great problem solving example - 2`
+
 | Location: 279 | 
  Date: January 15, 2016 |
 <br>
@@ -70,6 +74,7 @@ Notes:`Another great problem solving example - 2`
 
 
 Notes:`Another great problem solving example - 3`
+
 | Location: 281 | 
  Date: January 15, 2016 |
 <br>
@@ -78,6 +83,7 @@ Notes:`Another great problem solving example - 3`
 
 
 Notes:`Another great problem solving example - 4`
+
 | Location: 282 | 
  Date: January 15, 2016 |
 <br>
@@ -86,6 +92,7 @@ Notes:`Another great problem solving example - 4`
 
 
 Notes:`😁 lol`
+
 | Location: 283 | 
  Date: January 15, 2016 |
 <br>

@@ -254,6 +254,7 @@ authors: "Renee DiResta"
 
 
 Notes:`How software products avoid competition and retain existing customers`
+
 | Location: 66 | 
  Date: June 2, 2016 |
 <br>

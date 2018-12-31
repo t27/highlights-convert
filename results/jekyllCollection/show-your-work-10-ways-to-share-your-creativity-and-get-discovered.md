@@ -17,6 +17,7 @@ authors: "Kleon, Austin"
 
 
 Notes:`“Creativity is not a talent. It is a way of operating. ” —John Cleese`
+
 | Location: 1 | 
  Date: November 9, 2015 |
 <br>

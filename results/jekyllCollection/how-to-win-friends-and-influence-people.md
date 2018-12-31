@@ -926,6 +926,7 @@ authors: "Dale Carnegie"
 
 
 Notes:`But vs and`
+
 | Location: 208 | 
  Date: January 25, 2017 |
 <br>

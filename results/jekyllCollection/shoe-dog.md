@@ -52,6 +52,7 @@ authors: "Phil Knight"
 
 
 Notes:`The "log kya kahenge" mindset in 60s America`
+
 | Location: 17 | 
  Date: December 12, 2016 |
 <br>
@@ -114,6 +115,7 @@ Notes:`The "log kya kahenge" mindset in 60s America`
 
 
 Notes:`Dealing with the Japanese 🏯`
+
 | Location: 30 | 
  Date: December 15, 2016 |
 <br>
@@ -182,6 +184,7 @@ Notes:`Dealing with the Japanese 🏯`
 
 
 Notes:`Bowermans mailbox`
+
 | Location: 52 | 
  Date: December 30, 2016 |
 <br>
@@ -250,6 +253,7 @@ Notes:`Bowermans mailbox`
 
 
 Notes:`Beginning of Phil and Sarah's story`
+
 | Location: 70 | 
  Date: December 15, 2016 |
 <br>
@@ -264,6 +268,7 @@ Notes:`Beginning of Phil and Sarah's story`
 
 
 Notes:`End of Phil and Sarah...`
+
 | Location: 74 | 
  Date: December 15, 2016 |
 <br>
@@ -314,6 +319,7 @@ Notes:`End of Phil and Sarah...`
 
 
 Notes:`How Phil dealed with his Bankers and how he grew his business monetarily`
+
 | Location: 81 | 
  Date: December 15, 2016 |
 <br>
@@ -394,6 +400,7 @@ Notes:`How Phil dealed with his Bankers and how he grew his business monetarily`
 
 
 Notes:`A lot of this chapter contains info about Johnson, his dedication to work and how he played a very important role for Phil. Johnson was introduced a few chapters back.`
+
 | Location: 92 | 
  Date: December 16, 2016 |
 <br>
@@ -426,6 +433,7 @@ Notes:`A lot of this chapter contains info about Johnson, his dedication to work
 
 
 Notes:`Ignoring J luckily worked for Phil here, because Johnson was OK with it. But most people doing what J did do it for approval/validation, J didn't seek any of it. If you ignore employees who do what J did for validation and you ignore them, they would get pissed and probably quit (is that a good thing??)`
+
 | Location: 93 | 
  Date: December 16, 2016 |
 <br>
@@ -476,6 +484,7 @@ Notes:`Ignoring J luckily worked for Phil here, because Johnson was OK with it. 
 
 
 Notes:`EACH AND EVERY LINE OF THIS PARAGRAPH... Spot on 🎯. BEST PARAGRAPH OF THE BOOK SO Far. Best line from it... "Starting my own business was the only thing that made life’s other risks—marriage, Vegas, alligator wrestling—seem like sure things"`
+
 | Location: 97 | 
  Date: December 17, 2016 |
 <br>
@@ -484,6 +493,7 @@ Notes:`EACH AND EVERY LINE OF THIS PARAGRAPH... Spot on 🎯. BEST PARAGRAPH OF 
 
 
 Notes:`Poor little Johnson, pity him sometimes`
+
 | Location: 97 | 
  Date: December 16, 2016 |
 <br>
@@ -498,6 +508,7 @@ Notes:`Poor little Johnson, pity him sometimes`
 
 
 Notes:`It's ok to say a white lie, if you can make it true. So it isn't a lie anymore. Phil didn't have an east coast office but he still told them that he did, and it was enough to tip the decision in his favour. Unintuitive but true.`
+
 | Location: 103 | 
  Date: December 17, 2016 |
 <br>
@@ -530,6 +541,7 @@ Notes:`It's ok to say a white lie, if you can make it true. So it isn't a lie an
 
 
 Notes:`Johnson's mutiny`
+
 | Location: 107 | 
  Date: December 17, 2016 |
 <br>
@@ -550,6 +562,7 @@ Notes:`Johnson's mutiny`
 
 
 Notes:`Competion as fuel/motivation`
+
 | Location: 112 | 
  Date: December 17, 2016 |
 <br>
@@ -780,6 +793,7 @@ Notes:`Competion as fuel/motivation`
 
 
 Notes:`Phil(buck Knight) realises (in the next paragraph) that he should not have written this as Bork was a really valuable part and he couldn't afford to lose this employee. Stubbornness is required when somebody who is easily replaceable rebels. But when it is someone crucial who rebels, meeting in person and humbly resolving is the best way to fix things. If the situation still doesn't change for the good, best is to let go.`
+
 | Location: 152 | 
  Date: December 19, 2016 |
 <br>
@@ -788,6 +802,7 @@ Notes:`Phil(buck Knight) realises (in the next paragraph) that he should not hav
 
 
 Notes:`Putting out the fires and finding out The actual reason for t h e mutiny.`
+
 | Location: 152 | 
  Date: December 19, 2016 |
 <br>
@@ -910,6 +925,7 @@ Notes:`Putting out the fires and finding out The actual reason for t h e mutiny.
 
 
 Notes:`Best time to raise money is when you don't actually need it.`
+
 | Location: 182 | 
  Date: December 21, 2016 |
 <br>
@@ -948,6 +964,7 @@ Notes:`Best time to raise money is when you don't actually need it.`
 
 
 Notes:`When this happens, it's the leader who has to take charge and boost morale`
+
 | Location: 202 | 
  Date: December 22, 2016 |
 <br>
@@ -956,6 +973,7 @@ Notes:`When this happens, it's the leader who has to take charge and boost moral
 
 
 Notes:`Motivation from the ceo`
+
 | Location: 203 | 
  Date: December 22, 2016 |
 <br>
@@ -1048,6 +1066,7 @@ Notes:`Motivation from the ceo`
 
 
 Notes:`Honesty, in the court`
+
 | Location: 221 | 
  Date: December 24, 2016 |
 <br>
@@ -1056,6 +1075,7 @@ Notes:`Honesty, in the court`
 
 
 Notes:`Phil's deposition`
+
 | Location: 222 | 
  Date: December 24, 2016 |
 <br>
@@ -1136,6 +1156,7 @@ Notes:`Phil's deposition`
 
 
 Notes:`Court case, new beginnings,`
+
 | Location: 231 | 
  Date: December 26, 2016 |
 <br>
@@ -1180,6 +1201,7 @@ Notes:`Court case, new beginnings,`
 
 
 Notes:`5 stages of Jeff`
+
 | Location: 247 | 
  Date: December 26, 2016 |
 <br>
@@ -1224,6 +1246,7 @@ Notes:`5 stages of Jeff`
 
 
 Notes:`Bank issues, etc`
+
 | Location: 250 | 
  Date: December 26, 2016 |
 <br>
@@ -1363,6 +1386,7 @@ Notes:`Bank issues, etc`
 
 
 Notes:`First half is about pre, Olympics, and company finally making their own shoes in Taiwan, Rest is about the company, the people who matter, the culture etc.`
+
 | Location: 271 | 
  Date: December 28, 2016 |
 <br>
@@ -1605,6 +1629,7 @@ Notes:`First half is about pre, Olympics, and company finally making their own s
 
 
 Notes:`Lobbying by competition`
+
 | Location: 304 | 
  Date: December 29, 2016 |
 <br>
@@ -1667,6 +1692,7 @@ Notes:`Lobbying by competition`
 
 
 Notes:`Nike vs the US government`
+
 | Location: 321 | 
  Date: December 29, 2016 |
 <br>
@@ -1687,6 +1713,7 @@ Notes:`Nike vs the US government`
 
 
 Notes:`Nike's final blows against the government, that worked.`
+
 | Location: 330 | 
  Date: December 29, 2016 |
 <br>
@@ -1713,6 +1740,7 @@ Notes:`Nike's final blows against the government, that worked.`
 
 
 Notes:`😂😂`
+
 | Location: 336 | 
  Date: December 29, 2016 |
 <br>
@@ -1721,6 +1749,7 @@ Notes:`😂😂`
 
 
 Notes:`😂😂 hilarious hayes`
+
 | Location: 337 | 
  Date: December 29, 2016 |
 <br>
@@ -1729,6 +1758,7 @@ Notes:`😂😂 hilarious hayes`
 
 
 Notes:`One of the best sections - about business and startups`
+
 | Location: 337 | 
  Date: December 29, 2016 |
 <br>
@@ -1749,6 +1779,7 @@ Notes:`One of the best sections - about business and startups`
 
 
 Notes:`Johnson and Phil`
+
 | Location: 341 | 
  Date: December 30, 2016 |
 <br>
@@ -1828,6 +1859,7 @@ Notes:`Johnson and Phil`
 
 
 Notes:`About variation in incomes across countries...`
+
 | Location: 357 | 
  Date: December 30, 2016 |
 <br>

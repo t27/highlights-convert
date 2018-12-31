@@ -23,6 +23,7 @@ authors: "Paul Graham"
 Notes:
 
 `7/10`
+
 | Location: 192 | 
  Color: yellow |
 <br>
@@ -67,6 +68,7 @@ Notes:
 Notes:
 
 `7/10`
+
 | Location: 434 | 
  Color: yellow |
 <br>

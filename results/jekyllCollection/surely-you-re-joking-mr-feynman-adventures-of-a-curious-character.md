@@ -12,6 +12,7 @@ authors: "Richard Phillips Feynman, Edward Hutchings, Ralph Leighton"
 Notes:
 
 `Feynman on persistence - he calls it Puzzle Drive`
+
 | Location: 154 | 
  Color: yellow |
 <br>
@@ -61,6 +62,7 @@ Notes:
 Notes:
 
 `Great business story`
+
 | Location: 664 | 
  Color: yellow |
 <br>
@@ -126,6 +128,7 @@ Notes:
 Notes:
 
 `if you are arguing that X cant be possible ,there two outcomes. if you are right, you look smart and you win. if you're wrong, you actually learn why X is possible, you might look naive but you've learnt something new`
+
 | Location: 1155 | 
  Color: yellow |
 <br>
@@ -232,6 +235,7 @@ Notes:
 Notes:
 
 `THE Delight!`
+
 | Location: 1856 | 
  Color: yellow |
 <br>
@@ -241,6 +245,7 @@ Notes:
 Notes:
 
 `bieng honest and at times brutal, even when the person in front of you is of stature`
+
 | Location: 1962 | 
  Color: yellow |
 <br>
@@ -342,6 +347,7 @@ Notes:
 Notes:
 
 `feynman and drinking`
+
 | Location: 3150 | 
  Color: yellow |
 <br>
@@ -419,6 +425,7 @@ Notes:
 Notes:
 
 `😂😂😂🤣`
+
 | Location: 4217 | 
  Color: yellow |
 <br>

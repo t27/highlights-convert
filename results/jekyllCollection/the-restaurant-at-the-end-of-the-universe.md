@@ -22,6 +22,7 @@ authors: "Douglas Adams"
 
 
 Notes:`😂😂`
+
 | Location: 7 | 
  Date: October 3, 2016 |
 <br>
@@ -137,6 +138,7 @@ Notes:`😂😂`
 
 
 Notes:`Problems with teleportation`
+
 | Location: 120 | 
  Date: December 9, 2016 |
 <br>

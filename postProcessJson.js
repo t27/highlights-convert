@@ -48,11 +48,11 @@ function createJekyllCollectionFiles(bookdata) {
             if(highlight.notes) {
                 let notes = highlight.notes
                 if(typeof notes === "string") {
-                    mdContent += `\n\nNotes:\`${notes}\``
+                    mdContent += `\n\nNotes:\`${notes}\`\n`
                 } else {
                     mdContent+= "\nNotes:"
                     notes.forEach(element => {
-                        mdContent +=`\n\n\`${element.content}\``
+                        mdContent +=`\n\n\`${element.content}\`\n`
                     });
                 }
             }

@@ -516,6 +516,7 @@ authors: "t27.github.io"
 Notes:
 
 `Why do some people hate people who have helped them a lot, especially if the person sees some unfairness in the scenario.`
+
 | Location: 629 | 
  Color: yellow |
 <br>
@@ -765,6 +766,7 @@ Notes:
 Notes:
 
 `Anchoring bias`
+
 | Location: 860 | 
  Color: yellow |
 <br>
@@ -930,6 +932,7 @@ Notes:
 Notes:
 
 `from Influence`
+
 | Location: 1024 | 
  Color: yellow |
 <br>

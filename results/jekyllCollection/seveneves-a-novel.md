@@ -11,6 +11,7 @@ authors: "Neal Stephenson"
 
 
 Notes:`Difference between writing software for computers and software for robots`
+
 | Location: 16 | 
  Date: October 7, 2016 |
 <br>

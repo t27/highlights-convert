@@ -95,6 +95,7 @@ authors: "Drucker, Peter Ferdinand"
 Notes:
 
 `Learnkng by doing and talking(discussing about the topic) - note to self`
+
 | Location: 121 | 
  Color: blue |
 <br>

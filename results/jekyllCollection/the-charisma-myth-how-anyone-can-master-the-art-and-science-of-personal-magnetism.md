@@ -158,6 +158,7 @@ authors: "Cabane, Olivia Fox"
 
 
 Notes:`Priorities in the same order.`
+
 | Location: 111 | 
  Date: March 27, 2016 |
 <br>

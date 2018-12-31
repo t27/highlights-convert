@@ -396,6 +396,7 @@ authors: "Ben Horowitz"
 Notes:
 
 `Gold.`
+
 | Location: 1588 | 
  Color: yellow |
 <br>
@@ -1088,6 +1089,7 @@ Notes:
 Notes:
 
 `Don't Be a jerk. Most CEOs are inherently good people.`
+
 | Location: 2943 | 
  Color: yellow |
 <br>

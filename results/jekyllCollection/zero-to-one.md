@@ -129,6 +129,7 @@ authors: "Peter Thiel"
 
 
 Notes:`The world we live in is dynamic: it’s possible to invent new and better things.`
+
 | Location: 33 | 
  Date: February 12, 2016 |
 <br>
@@ -202,6 +203,7 @@ Notes:`The world we live in is dynamic: it’s possible to invent new and better
 
 
 Notes:`Oracle's example`
+
 | Location: 42 | 
  Date: February 12, 2016 |
 <br>
@@ -210,6 +212,7 @@ Notes:`Oracle's example`
 
 
 Notes:`Paypal and X.com`
+
 | Location: 43 | 
  Date: February 12, 2016 |
 <br>
@@ -283,6 +286,7 @@ Notes:`Paypal and X.com`
 
 
 Notes:`Examples of PayPal improving eBay's payment vs cheques, Amazon stocking more books than anyone on the world and iPad bieng better than all tablets before it, follow`
+
 | Location: 49 | 
  Date: February 12, 2016 |
 <br>
@@ -482,6 +486,7 @@ Notes:`Examples of PayPal improving eBay's payment vs cheques, Amazon stocking m
 
 
 Notes:`Amazing perspective!! Read!`
+
 | Location: 66 | 
  Date: February 12, 2016 |
 <br>
@@ -668,6 +673,7 @@ Notes:`Amazing perspective!! Read!`
 
 
 Notes:`A grave and very important issue which must be addressed. This the first of 4 points(highlighted red) all are clearly important issues that have to be overcome.`
+
 | Location: 92 | 
  Date: February 14, 2016 |
 <br>
@@ -694,6 +700,7 @@ Notes:`A grave and very important issue which must be addressed. This the first 
 
 
 Notes:`Believing in innovation and change is necessary. And why not to let a finance/economics background person to steer a companies decisions.`
+
 | Location: 95 | 
  Date: February 14, 2016 |
 <br>
@@ -803,6 +810,7 @@ Notes:`Believing in innovation and change is necessary. And why not to let a fin
 
 
 Notes:`Cash incentivizes short term thinking`
+
 | Location: 106 | 
  Date: February 15, 2016 |
 <br>
@@ -965,6 +973,7 @@ Notes:`Cash incentivizes short term thinking`
 
 
 Notes:`Difference between small, medium enterprises (SMEs) and large companies`
+
 | Location: 121 | 
  Date: February 16, 2016 |
 <br>

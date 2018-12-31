@@ -11,6 +11,7 @@ authors: "Ashlee Vance"
 
 
 Notes:`Early tech founder`
+
 | Location: 68 | 
  Date: October 6, 2015 |
 <br>
@@ -19,6 +20,7 @@ Notes:`Early tech founder`
 
 
 Notes:`Role of a mentor/elder person at the beginning`
+
 | Location: 68 | 
  Date: October 6, 2015 |
 <br>
@@ -27,6 +29,7 @@ Notes:`Role of a mentor/elder person at the beginning`
 
 
 Notes:`Role of mentor 2`
+
 | Location: 69 | 
  Date: October 6, 2015 |
 <br>
@@ -35,6 +38,7 @@ Notes:`Role of mentor 2`
 
 
 Notes:`Engineering before the startup makes it big.`
+
 | Location: 71 | 
  Date: October 6, 2015 |
 <br>
@@ -49,6 +53,7 @@ Notes:`Engineering before the startup makes it big.`
 
 
 Notes:`Optimistic Deadlines and their accuracy`
+
 | Location: 71 | 
  Date: October 6, 2015 |
 <br>
@@ -57,6 +62,7 @@ Notes:`Optimistic Deadlines and their accuracy`
 
 
 Notes:`Musk reflecting on the days of running his first company zip2`
+
 | Location: 76 | 
  Date: October 6, 2015 |
 <br>
@@ -65,6 +71,7 @@ Notes:`Musk reflecting on the days of running his first company zip2`
 
 
 Notes:`Work of employees may seem of less quality than what you build, but if the employee is worth being an employee, you should let go and not fix his work, but indicate the flaw that you see and suggest improvements which the employee can choose to add, or maybe not.`
+
 | Location: 76 | 
  Date: October 20, 2015 |
 <br>
@@ -73,6 +80,7 @@ Notes:`Work of employees may seem of less quality than what you build, but if th
 
 
 Notes:`"in your face" proving a point`
+
 | Location: 76 | 
  Date: October 6, 2015 |
 <br>
@@ -86,6 +94,7 @@ Notes:`"in your face" proving a point`
 
 
 Notes:`Risking a lot to start in an industry you know little about, but believing in the idea and yourself execute it.`
+
 | Location: 84 | 
  Date: October 20, 2015 |
 <br>
@@ -94,6 +103,7 @@ Notes:`Risking a lot to start in an industry you know little about, but believin
 
 
 Notes:`The team at X.com, Musk's second startup.`
+
 | Location: 85 | 
  Date: October 20, 2015 |
 <br>
@@ -102,6 +112,7 @@ Notes:`The team at X.com, Musk's second startup.`
 
 
 Notes:`Clashes at the beginning, root bieng Musk's over hypeing and bloating facts, which may have been the right way to go about things...`
+
 | Location: 85 | 
  Date: October 20, 2015 |
 <br>
@@ -115,6 +126,7 @@ Notes:`Clashes at the beginning, root bieng Musk's over hypeing and bloating fac
 
 
 Notes:`We wanted flying cars but instead got 140 characters.`
+
 | Location: 103 | 
  Date: December 29, 2015 |
 <br>
@@ -123,6 +135,7 @@ Notes:`We wanted flying cars but instead got 140 characters.`
 
 
 Notes:`Getting people together and beginning a new company - spaceX`
+
 | Location: 113 | 
  Date: December 29, 2015 |
 <br>
@@ -131,6 +144,7 @@ Notes:`Getting people together and beginning a new company - spaceX`
 
 
 Notes:`Defining culture through work place/environment`
+
 | Location: 115 | 
  Date: December 29, 2015 |
 <br>
@@ -139,6 +153,7 @@ Notes:`Defining culture through work place/environment`
 
 
 Notes:`The beginning of spacex`
+
 | Location: 115 | 
  Date: December 29, 2015 |
 <br>
@@ -147,6 +162,7 @@ Notes:`The beginning of spacex`
 
 
 Notes:`Disrupting the incumbents`
+
 | Location: 116 | 
  Date: December 29, 2015 |
 <br>
@@ -155,6 +171,7 @@ Notes:`Disrupting the incumbents`
 
 
 Notes:`Timeliness for Falcon 1, the first space X rocket 🚀`
+
 | Location: 116 | 
  Date: January 19, 2016 |
 <br>
@@ -169,6 +186,7 @@ Notes:`Timeliness for Falcon 1, the first space X rocket 🚀`
 
 
 Notes:`Multidisciplinaryness - how early space X engineers did everything that had to be done`
+
 | Location: 127 | 
  Date: December 29, 2015 |
 <br>
@@ -177,6 +195,7 @@ Notes:`Multidisciplinaryness - how early space X engineers did everything that h
 
 
 Notes:`Counterstrike within a company! Reminds of AcYut 😂 b`
+
 | Location: 129 | 
  Date: December 29, 2015 |
 <br>
@@ -185,6 +204,7 @@ Notes:`Counterstrike within a company! Reminds of AcYut 😂 b`
 
 
 Notes:`Hiring @spacex Musk`
+
 | Location: 131 | 
  Date: December 29, 2015 |
 <br>
@@ -193,6 +213,7 @@ Notes:`Hiring @spacex Musk`
 
 
 Notes:`Jugaad and getting things done`
+
 | Location: 132 | 
  Date: November 22, 2015 |
 <br>
@@ -201,6 +222,7 @@ Notes:`Jugaad and getting things done`
 
 
 Notes:`Contractors and dealing with slow ones`
+
 | Location: 133 | 
  Date: December 29, 2015 |
 <br>
@@ -209,6 +231,7 @@ Notes:`Contractors and dealing with slow ones`
 
 
 Notes:`Optimism`
+
 | Location: 144 | 
  Date: December 9, 2015 |
 <br>
@@ -222,6 +245,7 @@ Notes:`Optimism`
 
 
 Notes:`Risk management, research for extremely important aspects like a battery explosion.`
+
 | Location: 176 | 
  Date: December 30, 2015 |
 <br>
@@ -230,6 +254,7 @@ Notes:`Risk management, research for extremely important aspects like a battery 
 
 
 Notes:`The first ready to mfg prototype(more than just a working prototype which was built in Jan 2004) led to the third major round of funding. Musk had led two earlier rounds (6.5 mil out of a total 7mil and 9/13 mill after the first working prototype)`
+
 | Location: 178 | 
  Date: December 30, 2015 |
 <br>
@@ -238,6 +263,7 @@ Notes:`The first ready to mfg prototype(more than just a working prototype which
 
 
 Notes:`Get stuff done fast, traditional ways of doing things don't matter. Jugaad, without any quality compromises.`
+
 | Location: 181 | 
  Date: December 30, 2015 |
 <br>
@@ -246,6 +272,7 @@ Notes:`Get stuff done fast, traditional ways of doing things don't matter. Jugaa
 
 
 Notes:`Eberhard - the practical engineer VS Musk the ?________?`
+
 | Location: 182 | 
  Date: February 23, 2016 |
 <br>
@@ -259,6 +286,7 @@ Notes:`Eberhard - the practical engineer VS Musk the ?________?`
 
 
 Notes:`How the Falcon 9 looks like`
+
 | Location: 228 | 
  Date: January 17, 2016 |
 <br>
@@ -267,6 +295,7 @@ Notes:`How the Falcon 9 looks like`
 
 
 Notes:`How a Falcon 9 launch feels like`
+
 | Location: 228 | 
  Date: January 17, 2016 |
 <br>
@@ -275,6 +304,7 @@ Notes:`How a Falcon 9 launch feels like`
 
 
 Notes:`Hiring at space X`
+
 | Location: 234 | 
  Date: January 17, 2016 |
 <br>
@@ -283,6 +313,7 @@ Notes:`Hiring at space X`
 
 
 Notes:`Musk's Interviewing style`
+
 | Location: 235 | 
  Date: January 17, 2016 |
 <br>
@@ -291,6 +322,7 @@ Notes:`Musk's Interviewing style`
 
 
 Notes:`SpaceX building and office description. Much longer and elaborate multi-page description follows.`
+
 | Location: 237 | 
  Date: January 19, 2016 |
 <br>
@@ -299,6 +331,7 @@ Notes:`SpaceX building and office description. Much longer and elaborate multi-p
 
 
 Notes:`Building stuff in-house vs outsourcing, critical for cost saving and getting the price down for components.`
+
 | Location: 240 | 
  Date: January 19, 2016 |
 <br>
@@ -307,6 +340,7 @@ Notes:`Building stuff in-house vs outsourcing, critical for cost saving and gett
 
 
 Notes:`How spacex convinced their customers(nasa) that cheaper components doesn't mean lower quality/performance`
+
 | Location: 241 | 
  Date: January 19, 2016 |
 <br>
@@ -315,6 +349,7 @@ Notes:`How spacex convinced their customers(nasa) that cheaper components doesn'
 
 
 Notes:`Friction stir welding - Technology advancements at spacex.`
+
 | Location: 241 | 
  Date: January 19, 2016 |
 <br>
@@ -323,6 +358,7 @@ Notes:`Friction stir welding - Technology advancements at spacex.`
 
 
 Notes:`Musk reflecting on his own optimistic timelines(refer earlier highlight about Falcon 1 timeline in the chapter - mice in space)`
+
 | Location: 245 | 
  Date: January 19, 2016 |
 <br>
@@ -331,6 +367,7 @@ Notes:`Musk reflecting on his own optimistic timelines(refer earlier highlight a
 
 
 Notes:`Work based timeline expectations`
+
 | Location: 246 | 
  Date: January 19, 2016 |
 <br>
@@ -339,6 +376,7 @@ Notes:`Work based timeline expectations`
 
 
 Notes:`How to get work done, when the time lines are ridiculous`
+
 | Location: 246 | 
  Date: January 19, 2016 |
 <br>
@@ -347,6 +385,7 @@ Notes:`How to get work done, when the time lines are ridiculous`
 
 
 Notes:`An amazing way to make people feel great about tight deadlines. People do it for themselves, not for you. Make them feel like that.`
+
 | Location: 246 | 
  Date: January 19, 2016 |
 <br>
@@ -355,6 +394,7 @@ Notes:`An amazing way to make people feel great about tight deadlines. People do
 
 
 Notes:`Testing at spacex`
+
 | Location: 251 | 
  Date: January 23, 2016 |
 <br>
@@ -363,6 +403,7 @@ Notes:`Testing at spacex`
 
 
 Notes:`Acronyms Seriously Suck - The ASS rule and how Musk handles internal communication redundancies`
+
 | Location: 252 | 
  Date: January 23, 2016 |
 <br>
@@ -371,6 +412,7 @@ Notes:`Acronyms Seriously Suck - The ASS rule and how Musk handles internal comm
 
 
 Notes:`Getting things done. Nothing is impossible 🙅 and believe in it.`
+
 | Location: 253 | 
  Date: January 23, 2016 |
 <br>
@@ -379,6 +421,7 @@ Notes:`Getting things done. Nothing is impossible 🙅 and believe in it.`
 
 
 Notes:`Dealing with bureaucracy and regulations. Why regulators are generally scared(albeit personally) to amend any old standing regulation/law`
+
 | Location: 253 | 
  Date: January 23, 2016 |
 <br>
@@ -387,6 +430,7 @@ Notes:`Dealing with bureaucracy and regulations. Why regulators are generally sc
 
 
 Notes:`Opening up the government and competing against companies who have deep roots in the government people's(senators/mp, ministers etc) pockets, very similar to big traditionally politically linked companies in India, like Birla, Ambani etc`
+
 | Location: 263 | 
  Date: January 24, 2016 |
 <br>
@@ -412,6 +456,7 @@ Notes:`Opening up the government and competing against companies who have deep r
 
 
 Notes:`Hacked up a prototype in a very short time to woo people who give money for the product - investors and customers`
+
 | Location: 286 | 
  Date: January 31, 2016 |
 <br>
@@ -420,6 +465,7 @@ Notes:`Hacked up a prototype in a very short time to woo people who give money f
 
 
 Notes:`Story of O'Connell starts here, the guy who had experience of dealing with the government in terms of technicality and had a driving life mission which aligned with tesla`
+
 | Location: 296 | 
  Date: February 1, 2016 |
 <br>
@@ -445,6 +491,7 @@ Notes:`Story of O'Connell starts here, the guy who had experience of dealing wit
 
 
 Notes:`Roller coaster in the workplace. Yes! please! 😂`
+
 | Location: 335 | 
  Date: February 3, 2016 |
 <br>
@@ -453,6 +500,7 @@ Notes:`Roller coaster in the workplace. Yes! please! 😂`
 
 
 Notes:`About smartphones, the hardware and software Renaissance and Tony fadell`
+
 | Location: 355 | 
  Date: February 4, 2016 |
 <br>
@@ -461,6 +509,7 @@ Notes:`About smartphones, the hardware and software Renaissance and Tony fadell`
 
 
 Notes:`Brilliant words about ideas, intuition, solving important problems and first principles. Larry Page`
+
 | Location: 358 | 
  Date: February 4, 2016 |
 <br>
@@ -469,6 +518,7 @@ Notes:`Brilliant words about ideas, intuition, solving important problems and fi
 
 
 Notes:`Musk justifies why smart people should have more kids 😮`
+
 | Location: 362 | 
  Date: February 4, 2016 |
 <br>

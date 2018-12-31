@@ -46,6 +46,7 @@ authors: "Chip Heath"
 
 
 Notes:`Whole section on stories or naming two products, including blackberry`
+
 | Location: 52 | 
  Date: April 26, 2016 |
 <br>

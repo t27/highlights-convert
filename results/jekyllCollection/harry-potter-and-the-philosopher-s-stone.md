@@ -72,6 +72,7 @@ authors: "J. K. Rowling"
 Notes:
 
 `Dumbledore Quote`
+
 | Location: 2823 | 
  Color: yellow |
 <br>

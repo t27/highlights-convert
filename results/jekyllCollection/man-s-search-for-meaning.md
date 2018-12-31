@@ -302,6 +302,7 @@ authors: "Viktor Frankl"
 Notes:
 
 `bieng happy is a reaction and not an action`
+
 | Location: 1716 | 
  Color: yellow |
 <br>

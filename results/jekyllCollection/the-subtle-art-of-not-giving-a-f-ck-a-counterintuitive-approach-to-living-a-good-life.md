@@ -344,6 +344,7 @@ authors: "Mark Manson"
 Notes:
 
 `+1`
+
 | Location: 752 | 
  Color: yellow |
 <br>
@@ -369,6 +370,7 @@ Notes:
 Notes:
 
 `good story, metallica megadeth`
+
 | Location: 925 | 
  Color: yellow |
 <br>

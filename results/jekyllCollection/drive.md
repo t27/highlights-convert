@@ -268,6 +268,7 @@ authors: "Daniel H. Pink"
 
 
 Notes:`Why people must do what they "enjoy" to improve their general work, concentration and motivation. If an employee likes to do X task, his job/work shouldn't be that overpowering that the employee isn't able to do X. Doing X makes him go into flow and not doing it would mean he can't get into the flow regularly. If he gets used to staying out of flow, not only his work performance get affected but also his general motivation towards the job and that makes him easily think of quitting (primarily if money is not what is makes him stick, if money makes him stick despite the lack of flow, it's dangerous to the company anyways)`
+
 | Location: 119 | 
  Date: March 7, 2016 |
 <br>

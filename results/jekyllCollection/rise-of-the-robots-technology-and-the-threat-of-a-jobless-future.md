@@ -17,6 +17,7 @@ authors: "Martin Ford"
 
 
 Notes:`Factory labourers to ecommerce delivery, logistics`
+
 | Location: 9 | 
  Date: February 7, 2016 |
 <br>

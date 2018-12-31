@@ -17,6 +17,7 @@ authors: "Isaac Asimov"
 
 
 Notes:`Amazing explanation of how the decision system works and a case where it screwed up`
+
 | Location: 42 | 
  Date: March 2, 2016 |
 <br>
@@ -30,6 +31,7 @@ Notes:`Amazing explanation of how the decision system works and a case where it 
 
 
 Notes:`Really good story. Simple. Entertaining. Thought provoking.`
+
 | Location: 90 | 
  Date: March 3, 2016 |
 <br>
@@ -60,6 +62,7 @@ Notes:`Really good story. Simple. Entertaining. Thought provoking.`
 
 
 Notes:`Robots vs Humans, justified. And a good case for robots, where most humans benefit. Answers how, if robots win, humanity wins, surprising and believable. 😱👌👍`
+
 | Location: 185 | 
  Date: March 5, 2016 |
 <br>

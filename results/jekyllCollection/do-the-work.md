@@ -99,6 +99,7 @@ authors: "Pressfield, Steven"
 
 
 Notes:`For example, If we’re inventing Twitter, we start with What Are You Doing Now?, the 140-character limit, and the Following. We fill in the gaps: the hashtag, the tiny URL, the re-tweet.`
+
 | Location: 31 | 
  Date: April 23, 2016 |
 <br>
@@ -125,6 +126,7 @@ Notes:`For example, If we’re inventing Twitter, we start with What Are You Doi
 
 
 Notes:`Ideas do not come linearly`
+
 | Location: 32 | 
  Date: April 23, 2016 |
 <br>

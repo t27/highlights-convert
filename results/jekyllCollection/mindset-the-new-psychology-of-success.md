@@ -127,6 +127,7 @@ authors: "Carol S. Dweck"
 Notes:
 
 `Why is starting something difficult`
+
 | Location: 750 | 
  Color: yellow |
 <br>
@@ -136,6 +137,7 @@ Notes:
 Notes:
 
 `Regret minimization -prefer to do something when you can, instead of regreting later`
+
 | Location: 766 | 
  Color: yellow |
 <br>
@@ -214,6 +216,7 @@ Notes:
 Notes:
 
 `Section on drawing`
+
 | Location: 1137 | 
  Color: yellow |
 <br>
@@ -245,6 +248,7 @@ Notes:
 Notes:
 
 `summary of chapter`
+
 | Location: 1352 | 
  Color: yellow |
 <br>
@@ -352,6 +356,7 @@ Notes:
 Notes:
 
 `chapter summary`
+
 | Location: 1788 | 
  Color: yellow |
 <br>
@@ -475,6 +480,7 @@ Notes:
 Notes:
 
 `Chapter summary`
+
 | Location: 2287 | 
  Color: orange |
 <br>
@@ -581,6 +587,7 @@ Notes:
 Notes:
 
 `chapter summary`
+
 | Location: 2764 | 
  Color: yellow |
 <br>
@@ -646,6 +653,7 @@ Notes:
 Notes:
 
 `chapter summary`
+
 | Location: 3414 | 
  Color: yellow |
 <br>
@@ -660,6 +668,7 @@ Notes:
 Notes:
 
 `Good story about applying to a college, company or program...`
+
 | Location: 3654 | 
  Color: yellow |
 <br>

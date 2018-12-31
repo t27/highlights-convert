@@ -103,8 +103,8 @@ function createJekyllData() {
 // convertAllPlayBooksFiles()
 // convertAllKindleFiles()
 // chapterWiseIndexing()
-// createJekyllData()
-testSingleKindleFile()
+createJekyllData()
+// testSingleKindleFile()
 /** Test Functions */
 
 function testSingleKindleFile() {

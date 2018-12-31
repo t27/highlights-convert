@@ -342,6 +342,7 @@ authors: "Dan Ariely"
 
 
 Notes:`For both physical things(self assembled furniture, etc) and for ideas/missions`
+
 | Location: 133 | 
  Date: June 7, 2016 |
 <br>

@@ -501,6 +501,7 @@ authors: "Isaacson, Walter"
 Notes:
 
 `😂😂`
+
 | Location: 5283 | 
  Color: blue |
 <br>
@@ -691,6 +692,7 @@ Notes:
 Notes:
 
 `Music from iTunes`
+
 | Location: 6753 | 
  Color: yellow |
 <br>
