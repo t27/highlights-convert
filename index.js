@@ -1,4 +1,3 @@
-
 const fs = require("fs")
 const path = require('path');
 const slugify = require('@sindresorhus/slugify');
@@ -20,7 +19,7 @@ function convertAllKindleFiles() {
             files.forEach(element => {
                 let f = fs.readFileSync(element)
                 const kindleConverter = new KindleConverter(f)
-                if(!saveJson(kindleConverter)) {
+                if (!saveJson(kindleConverter)) {
                     console.log("No notes found for ", element);
                 }
             });
@@ -28,7 +27,7 @@ function convertAllKindleFiles() {
     })
 }
 
-function convertAllPlayBooksFiles () {
+function convertAllPlayBooksFiles() {
     glob(PlayBooksNotes, function (er, files) {
         if (er) {
             console.log("Error during PlayBooks file conversion")
@@ -38,7 +37,7 @@ function convertAllPlayBooksFiles () {
             files.forEach(element => {
                 let f = fs.readFileSync(element)
                 const playConverter = new GPlayConverter(f)
-                if(!saveJson(playConverter, element)){
+                if (!saveJson(playConverter, element)) {
                     console.log("No notes found for ", element);
                 }
             });
@@ -58,8 +57,8 @@ function saveJson(converter) {
 }
 
 function chapterWiseIndexing() {
-    glob(ResultDir+"*.json", function(er, files) {
-        if(er) {
+    glob(ResultDir + "*.json", function (er, files) {
+        if (er) {
             console.log("Error during chapterIndexing")
             console.log(er)
             return
@@ -68,19 +67,19 @@ function chapterWiseIndexing() {
             let rawJson = JSON.parse(fs.readFileSync(rawJsonFile).toString())
             let chapterJson = postProcessJson.chapterWiseSplitJson(rawJson)
             let targetDir = ResultDir + "chapterSplits/"
-            if (!fs.existsSync(targetDir)){
+            if (!fs.existsSync(targetDir)) {
                 fs.mkdirSync(targetDir);
             }
             filename = rawJsonFile.substring(rawJsonFile.lastIndexOf('/') + 1)
-            fs.writeFileSync(targetDir+filename,JSON.stringify(chapterJson,null,2))
+            fs.writeFileSync(targetDir + filename, JSON.stringify(chapterJson, null, 2))
 
         });
     })
 }
 
 function createJekyllData() {
-    glob(ResultDir + "chapterSplits/*.json", function(er, files) {
-        if(er) {
+    glob(ResultDir + "chapterSplits/*.json", function (er, files) {
+        if (er) {
             console.log("Error during chapterIndexing")
             console.log(er)
             return
@@ -89,22 +88,30 @@ function createJekyllData() {
             let rawJson = JSON.parse(fs.readFileSync(rawJsonFile).toString())
             let jekyllFile = postProcessJson.createJekyllCollectionFiles(rawJson)
             let targetDir = ResultDir + "jekyllCollection/"
-            if (!fs.existsSync(targetDir)){
+            if (!fs.existsSync(targetDir)) {
                 fs.mkdirSync(targetDir);
             }
             filename = rawJsonFile.substring(rawJsonFile.lastIndexOf('/') + 1)
             filename = slugify(filename.split('.').slice(0, -1).join())
-            fs.writeFileSync(targetDir+filename+".md",jekyllFile)
+            fs.writeFileSync(targetDir + filename + ".md", jekyllFile)
         });
     })
 }
 
-
+// Step 1
 // convertAllPlayBooksFiles()
 // convertAllKindleFiles()
+
+// Step 2
 // chapterWiseIndexing()
-createJekyllData()
+
+// Step3
+// createJekyllData()
+
+
+//Test
 // testSingleKindleFile()
+
 /** Test Functions */
 
 function testSingleKindleFile() {
