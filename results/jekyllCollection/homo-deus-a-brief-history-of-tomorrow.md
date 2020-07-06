@@ -1,0 +1,355 @@
+---
+layout: highlight
+title: "Homo Deus: A Brief History of Tomorrow"
+authors: "Yuval Noah Harari"
+---
+
+
+## 1    The New Human Agenda
+
+ > For the first time in history, more people die today from eating too much than from eating too little; more people die from old age than from infectious diseases; and more people commit suicide than are killed by soldiers, terrorists and criminals combined.
+
+| Location: 45 | 
+ Color: yellow |
+<br>
+
+ > Over the last seventy years humankind has broken not only the Law of the Jungle, but also the Chekhov Law. Anton Chekhov famously said that a gun appearing in the first act of a play will inevitably be fired in the third. Throughout history, if kings and emperors acquired some new weapon, sooner or later they were tempted to use it. Since 1945, however, humankind has learned to resist this temptation. The gun that appeared in the first act of the Cold War was never fired. By now we are accustomed to living in a world full of undropped bombs and unlaunched missiles, and have become experts in breaking both the Law of the Jungle and the Chekhov Law.
+
+| Location: 279 | 
+ Color: yellow |
+<br>
+
+ > When Epicurus defined happiness as the supreme good, he warned his disciples that it is hard work to be happy. Material achievements alone will not satisfy us for long. Indeed, the blind pursuit of money, fame and pleasure will only make us miserable. Epicurus recommended, for example, to eat and drink in moderation, and to curb one’s sexual appetites. In the long run, a deep friendship will make us more content than a frenzied orgy. Epicurus outlined an entire ethic of dos and don’ts to guide people along the treacherous path to happiness.
+
+| Location: 520 | 
+ Color: yellow |
+<br>
+
+ > The glass ceiling of happiness is held in place by two stout pillars, one psychological, the other biological. On the psychological level, happiness depends on expectations rather than objective conditions. We don’t become satisfied by leading a peaceful and prosperous existence. Rather, we become satisfied when reality matches our expectations. The bad news is that as conditions improve, expectations balloon. Dramatic improvements in conditions, as humankind has experienced in recent decades, translate into greater expectations rather than greater contentment. If we don’t do something about this, our future achievements too might leave us as dissatisfied as ever.
+
+| Location: 555 | 
+ Color: yellow |
+<br>
+
+ > Humans too may prefer the excitement of the race to resting on the laurels of success. Yet what makes the race so attractive is the exhilarating sensations that go along with it. Nobody would have wanted to climb mountains, play video games or go on blind dates if such activities were accompanied solely by unpleasant sensations of stress, despair or boredom.37
+
+| Location: 612 | 
+ Color: yellow |
+<br>
+
+ > History is often shaped by exaggerated hopes. Twentieth-century Russian history was largely shaped by the communist attempt to overcome inequality, but it didn’t succeed. My prediction is focused on what humankind will try to achieve in the twenty-first century– not what it will succeed in achieving. Our future economy, society and politics will be shaped by the attempt to overcome death. It does not follow that in 2100 humans will be immortal.
+
+| Location: 896 | 
+ Color: yellow |
+<br>
+
+ > This is the paradox of historical knowledge. Knowledge that does not change behaviour is useless. But knowledge that changes behaviour quickly loses its relevance. The more data we have and the better we understand history, the faster history alters its course, and the faster our knowledge becomes outdated.
+
+| Location: 924 | 
+ Color: yellow |
+<br>
+
+ > Science is not just about predicting the future, though. Scholars in all fields often seek to broaden our horizons, thereby opening before us new and unknown futures. This is especially true of history. Though historians occasionally try their hand at prophecy (without notable success), the study of history aims above all to make us aware of possibilities we don’t normally consider. Historians study the past not in order to repeat it, but in order to be liberated from it.
+
+| Location: 942 | 
+ Color: yellow |
+<br>
+
+ > People are usually afraid of change because they fear the unknown. But the single greatest constant of history is that everything changes.
+
+| Location: 1061 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 3    The Human Spark
+
+ > To be frank, science knows surprisingly little about mind and consciousness. Current orthodoxy holds that consciousness is created by electrochemical reactions in the brain, and that mental experiences fulfil some essential data-processing function.3 However, nobody has any idea how a congeries of biochemical reactions and electrical currents in the brain creates the subjective experience of pain, anger or love. Perhaps we will have a solid explanation in ten or fifty years. But as of 2016, we have no such explanation, and we had better be clear about that.
+
+| Location: 1635 | 
+ Color: yellow |
+<br>
+
+ > When millions of people sell billions of shares, we call that an economic crisis, but no great Wall Street spirit grumbles, ‘Shit, I feel I am in crisis.’ When trillions of water molecules coalesce in the sky we call that a cloud, but no cloud consciousness emerges to announce, ‘I feel rainy.’ How is it, then, that when billions of electric signals move around in my brain, a mind emerges that feels ‘I am furious!’? As of 2016, we have absolutely no idea. Hence if this discussion has left you confused and perplexed, you are in very good company. The best scientists too are a long way from deciphering the enigma of mind and consciousness.
+
+| Location: 1668 | 
+ Color: yellow |
+<br>
+
+ > Over those 20,000 years humankind moved from hunting mammoth with stone-tipped spears to exploring the solar system with spaceships not thanks to the evolution of more dexterous hands or bigger brains (our brains today seem actually to be smaller).17 Instead, the crucial factor in our conquest of the world was our ability to connect many humans to one another.18
+
+| Location: 1996 | 
+ Color: yellow |
+<br>
+
+ > Intelligence and toolmaking were obviously very important as well. But if humans had not learned to cooperate flexibly in large numbers, our crafty brains and deft hands would still be splitting flint stones rather than uranium atoms.
+
+| Location: 2001 | 
+ Color: yellow |
+<br>
+
+ > along with the Ultimatum Game, has led many to believe that primates have a natural morality, and that equality is a universal and timeless value. People are egalitarian by nature, and unequal societies can never function well due to resentment and dissatisfaction. But is that really so? These theories may work well on chimpanzees, capuchin monkeys and small hunter-gatherer bands. They also work well in the lab, where you test them on small groups of people. Yet once you observe the behaviour of human masses you discover a completely different reality. Most human kingdoms and empires were extremely unequal, yet many of them were surprisingly stable and efficient. In ancient Egypt, the pharaoh sprawled on comfortable cushions inside a cool and sumptuous palace, wearing golden sandals and gem-studded tunics, while beautiful maids popped sweet grapes into his mouth. Through the open window he could see the peasants in the fields, toiling in dirty rags under a merciless sun, and blessed was the peasant who had a cucumber to eat at the end of the day. Yet the peasants rarely revolted.
+
+| Location: 2148 | 
+ Color: yellow |
+<br>
+
+ > People find it difficult to understand the idea of ‘imagined orders’ because they assume that there are only two types of realities: objective realities and subjective realities. In objective reality, things exist independently of our beliefs and feelings. Gravity, for example, is an objective reality. It existed long before Newton, and it affects people who don’t believe in it just as much as it affects those who do. Subjective reality, in contrast, depends on my personal beliefs and feelings.
+
+| Location: 2181 | 
+ Color: yellow |
+<br>
+
+ > Most people presume that reality is either objective or subjective, and that there is no third option. Hence once they satisfy themselves that something isn’t just their own subjective feeling, they jump to the conclusion it must be objective. If lots of people believe in God; if money makes the world go round; and if nationalism starts wars and builds empires– then these things aren’t just a subjective belief of mine. God, money and nations must therefore be objective realities.
+
+| Location: 2188 | 
+ Color: yellow |
+<br>
+
+ > However, there is a third level of reality: the intersubjective level. Intersubjective entities depend on communication among many humans rather than on the beliefs and feelings of individual humans. Many of the most important agents in history are intersubjective. Money, for example, has no objective value. You cannot eat, drink or wear a dollar bill. Yet as long as billions of people believe in its value, you can use it to buy food, beverages and clothing. If the baker suddenly loses his faith in the dollar bill and refuses to give me a loaf of bread for this green piece of paper, it doesn’t matter much. I can just go down a few blocks to the nearby supermarket. However, if the supermarket cashiers also refuse to accept this piece of paper, along with the hawkers in the market and the salespeople in the mall, then the dollar will lose its value.
+
+| Location: 2192 | 
+ Color: pink |
+<br>
+
+ > Meaning is created when many people weave together a common network of stories. Why does a particular action– such as getting married in church, fasting on Ramadan or voting on election day– seem meaningful to me? Because my parents also think it is meaningful, as do my brothers, my neighbours, people in nearby cities and even the residents of far-off countries. And why do all these people think it is meaningful? Because their friends and neighbours also share the same view. People constantly reinforce each other’s beliefs in a self-perpetuating loop. Each round of mutual confirmation tightens the web of meaning further, until you have little choice but to believe what everyone else believes.
+
+| Location: 2219 | 
+ Color: pink |
+<br>
+
+ > Yet over decades and centuries the web of meaning unravels and a new web is spun in its place. To study history means to watch the spinning and unravelling of these webs, and to realise that what seems to people in one age the most important thing in life becomes utterly meaningless to their descendants.
+
+| Location: 2224 | 
+ Color: yellow |
+<br>
+
+ > Sapiens rule the world because only they can weave an intersubjective web of meaning: a web of laws, forces, entities and places that exist purely in their common imagination. This web allows humans alone to organise crusades, socialist revolutions and human rights movements.
+
+| Location: 2281 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 4    The Storytellers
+
+ > If the Sumerian gods remind us of present-day company brands, so the living-god pharaoh can be compared to modern personal brands such as Elvis Presley, Madonna or Justin Bieber. Just like pharaoh, Elvis too had a biological body, complete with biological needs, desires and emotions. Elvis ate and drank and slept. Yet Elvis was much more than a biological body. Like pharaoh, Elvis was a story, a myth, a brand– and the brand was far more important than the biological body. During Elvis’s lifetime, the brand earned millions of dollars selling records, tickets, posters and rights, but only a small fraction of the necessary work was done by Elvis in person. Instead, most of it was done by a small army of agents, lawyers, producers and secretaries. Consequently when the biological Elvis died, for the brand it was business as usual.
+
+| Location: 2379 | 
+ Color: yellow |
+<br>
+
+ > Writing has thus enabled humans to organise entire societies in an algorithmic fashion.
+
+| Location: 2395 | 
+ Color: yellow |
+<br>
+
+ > Writing thus facilitated the appearance of powerful fictional entities that organised millions of people and reshaped the reality of rivers, swamps and crocodiles. Simultaneously, writing also made it easier for humans to believe in the existence of such fictional entities, because it habituated people to experiencing reality through the mediation of abstract symbols.
+
+| Location: 2442 | 
+ Color: yellow |
+<br>
+
+ > History isn’t a single narrative, but thousands of alternative narratives. Whenever we choose to tell one, we are also choosing to silence others. Human cooperative networks usually judge themselves by yardsticks of their own invention, and not surprisingly, they often give themselves high marks. In particular, human networks built in the name of imaginary entities such as gods, nations and corporations normally judge their success from the viewpoint of the imaginary entity. A religion is successful if it follows divine commandments to the letter; a nation is glorious if it promotes the national interest; and a corporation thrives if it makes a lot of money. When examining the history of any human network, it is therefore advisable to stop from time to time and look at things from the perspective of some real entity.
+
+| Location: 2639 | 
+ Color: yellow |
+<br>
+
+ > How do you know if an entity is real? Very simple– just ask yourself, ‘Can it suffer?’ When people burn down the temple of Zeus, Zeus doesn’t suffer. When the euro loses its value, the euro doesn’t suffer. When a bank goes bankrupt, the bank doesn’t suffer. When a country suffers a defeat in war, the country doesn’t really suffer. It’s just a metaphor. In contrast, when a soldier is wounded in battle, he really does suffer. When a famished peasant has nothing to eat, she suffers. When a cow is separated from her newborn calf, she suffers. This is reality.
+
+| Location: 2645 | 
+ Color: yellow |
+<br>
+
+ > Fiction isn’t bad. It is vital. Without commonly accepted stories about things like money, states or corporations, no complex human society can function. We can’t play football unless everyone believes in the same made-up rules, and we can’t enjoy the benefits of markets and courts without similar make-believe stories. But the stories are just tools. They should not become our goals or our yardsticks. When we forget that they are mere fiction, we lose touch with reality. Then we begin entire wars ‘to make a lot of money for the corporation’ or ‘to protect the national interest’. Corporations, money and nations exist only in our imagination. We invented them to serve us; how come we find ourselves sacrificing our lives in their service?
+
+| Location: 2652 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 5    The Odd Couple
+
+ > Most of the misunderstandings regarding science and religion result from faulty definitions of religion. All too often, people confuse religion with superstition, spirituality, belief in supernatural powers or belief in gods. Religion is none of these things.
+
+| Location: 2691 | 
+ Color: yellow |
+<br>
+
+ > Defining religion as ‘belief in gods’ is also problematic. We tend to say that a devout Christian is religious because she believes in God, whereas a fervent communist isn’t religious, because communism has no gods. However, religion is created by humans rather than by gods, and it is defined by its social function rather than by the existence of deities. Religion is anything that confers superhuman legitimacy on human social structures. It legitimises human norms and values by arguing that they reflect superhuman laws.
+
+| Location: 2703 | 
+ Color: yellow |
+<br>
+
+ > The assertion that religion is a tool for preserving social order and for organising large-scale cooperation may vex many people for whom it represents first and foremost a spiritual path. However, just as the gap between religion and science is smaller than we commonly think, so the gap between religion and spirituality is much bigger. Religion is a deal, whereas spirituality is a journey. Religion gives a complete description of the world, and offers us a well-defined contract with predetermined goals.
+
+Notes:
+
+`See the next chapter where the author explains how capitalism also fits into this definition.`
+
+| Location: 2746 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 6    The Modern Covenant
+
+ > If modernity has a motto, it is ‘shit happens’.
+
+| Location: 3011 | 
+ Color: yellow |
+<br>
+
+ > The modern deal thus offers humans an enormous temptation, coupled with a colossal threat. Omnipotence is in front of us, almost within our reach, but below us yawns the abyss of complete nothingness. On the practical level, modern life consists of a constant pursuit of power within a universe devoid of meaning.
+
+| Location: 3020 | 
+ Color: yellow |
+<br>
+
+ > Evolutionary pressures have accustomed humans to see the world as a static pie.
+
+| Location: 3077 | 
+ Color: yellow |
+<br>
+
+ > Modernity, in contrast, is based on the firm belief that economic growth is not only possible but
+
+| Location: 3081 | 
+ Color: yellow |
+<br>
+
+ > The credo of ‘more stuff’ accordingly urges individuals, firms and governments to discount anything that might hamper economic growth, such as preserving social equality, ensuring ecological harmony or honouring your parents.
+
+| Location: 3122 | 
+ Color: yellow |
+<br>
+
+ > Free-market capitalism has a firm answer. If economic growth demands that we loosen family bonds, encourage people to live away from their parents, and import carers from the other side of the world– so be it. This answer, however, involves an ethical judgement rather than a factual statement. No doubt, when some people specialise in software engineering while others spend their time taking care of the elderly, we can produce more software and give old people more professional care. Yet is economic growth more important than family bonds? By daring to make such ethical judgements, free-market capitalism has crossed the border from the land of science to that of religion. Most capitalists would probably dislike the title of religion, but as religions go, capitalism can at least hold its head high. Unlike other religions that promise us a pie in the sky, capitalism promises miracles here on earth– and sometimes even provides them.
+
+| Location: 3134 | 
+ Color: yellow |
+<br>
+
+ > From its belief in the supreme value of growth, capitalism deduces its number one commandment: thou shalt invest thy profits in increasing growth.
+
+| Location: 3145 | 
+ Color: yellow |
+<br>
+
+ > Yet can the economy actually keep growing for ever? Won’t it eventually run out of resources– and grind to a halt? In order to ensure perpetual growth, we must somehow discover an inexhaustible store of resources. One solution is to explore and conquer new lands and territories.
+
+| Location: 3173 | 
+ Color: yellow |
+<br>
+
+ > Science has provided modernity with the alternative. The fox economy cannot grow, because foxes don’t know how to produce more rabbits. The rabbit economy stagnates, because rabbits cannot make the grass grow faster. But the human economy can grow because humans can discover new materials and sources of energy.
+
+| Location: 3178 | 
+ Color: blue |
+<br>
+
+ > The traditional view of the world as a pie of a fixed size presupposes there are only two kinds of resources in the world: raw materials and energy. But in truth, there are three kinds of resources: raw materials, energy and knowledge. Raw materials and energy are exhaustible– the more you use, the less you have. Knowledge, in contrast, is a growing resource– the more you use, the more you have. Indeed, when you increase your stock of knowledge, it can give you more raw materials and energy as well.
+
+| Location: 3181 | 
+ Color: yellow |
+<br>
+
+ > For thousands of years, the scientific road to growth was blocked because people believed that holy scriptures and ancient traditions already contained all the important knowledge the world had to offer. A corporation that believed all the oil fields in the world had already been discovered would not waste time and money searching for oil. Similarly, a human culture that believed it already knew everything worth knowing would not bother searching for new knowledge. This was the position of most premodern human civilisations. However, the Scientific Revolution freed humankind from this conviction. The greatest scientific discovery was the discovery of ignorance. Once humans realised how little they knew about the world, they suddenly had a very good reason to seek new knowledge, which opened up the scientific road to progress.
+
+| Location: 3187 | 
+ Color: blue |
+<br>
+
+ > With each passing generation, science helped discover fresh sources of energy, new kinds of raw material, better machinery and novel production methods. Consequently, in 2016 humankind commands far more energy and raw materials than ever before, and production skyrockets. Inventions such as the steam engine, the internal combustion engine and the computer have created whole new industries from scratch. As we look twenty years to the future, we confidently expect to produce and consume far more in 2036 than we do today. We trust nanotechnology, genetic engineering and artificial intelligence to revolutionise production yet again, and to open whole new sections in our ever-expanding supermarkets.
+
+| Location: 3193 | 
+ Color: yellow |
+<br>
+
+ > We therefore have a good chance of overcoming the problem of resource scarcity. The real nemesis of the modern economy is ecological collapse. Both scientific progress and economic growth take place within a brittle biosphere, and as they gather steam, so the shock waves destabilise the ecology. In order to provide every person in the world with the same standard of living as affluent Americans, we would need a few more planets– but we only have this one.
+
+| Location: 3198 | 
+ Color: blue |
+<br>
+
+----------
+<br><br>
+
+## 7    The Humanist Revolution
+
+ > Today things are very different. For centuries humanism has been convincing us that we are the ultimate source of meaning, and that our free will is therefore the highest authority of all. Instead of waiting for some external entity to tell us what’s what, we can rely on our own feelings and desires.
+
+| Location: 3347 | 
+ Color: yellow |
+<br>
+
+ > People feel bound by democratic elections only when they share a basic bond with most other voters. If the experience of other voters is alien to me, and if I believe they don’t understand my feelings and don’t care about my vital interests, then even if I am outvoted by a hundred to one, I have absolutely no reason to accept the verdict. Democratic elections usually work only within populations that have some prior common bond, such as shared religious beliefs and national myths. They are a method to settle disagreements between people who already agree on the basics.
+
+| Location: 3725 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 9    The Great Decoupling
+
+ > However, in the twenty-first century the majority of both men and women might lose their military and economic value. Gone is the mass conscription of the two world wars. The most advanced armies of the twenty-first century rely far more on cutting-edge technology. Instead of limitless cannon fodder, you now need only small numbers of highly trained soldiers, even smaller numbers of special forces super-warriors and a handful of experts who know how to produce and use sophisticated technology. Hi-tech forces ‘manned’ by pilotless drones and cyber-worms are replacing the mass armies of the twentieth century, and generals delegate more and more critical decisions to algorithms.
+
+| Location: 4586 | 
+ Color: yellow |
+<br>
+
+ > From the days of Nebuchadnezzar to those of Saddam Hussein, despite myriad technological improvements, war was waged on an organic timetable. Discussions lasted for hours, battles took days, and wars dragged on for years. Cyber-wars, however, may last just a few minutes.
+
+| Location: 4592 | 
+ Color: yellow |
+<br>
+
+ > True, computers function very differently from humans, and it seems unlikely that computers will become humanlike any time soon. In particular, it doesn’t seem that computers are about to gain consciousness, and to start experiencing emotions and sensations. Over the last decades there has been an immense advance in computer intelligence, but there has been exactly zero advance in computer consciousness. As far as we know, computers in 2016 are no more conscious than their prototypes in the 1950s. However, we are on the brink of a momentous revolution. Humans are in danger of losing their value, because intelligence is decoupling from consciousness.
+
+Notes:
+
+`This is very well phrased`
+
+| Location: 4612 | 
+ Color: yellow |
+<br>
+
+ > Until today, high intelligence always went hand in hand with a developed consciousness. Only conscious beings could perform tasks that required a lot of intelligence, such as playing chess, driving cars, diagnosing diseases or identifying terrorists. However, we are now developing new types of non-conscious intelligence that can perform such tasks far better than humans. For all these tasks are based on pattern recognition, and non-conscious algorithms may soon excel human consciousness in recognising patterns. This raises a novel question: which of the two is really important, intelligence or consciousness? As long as they went hand in hand, debating their relative value was just a pastime for philosophers. But in the twenty-first century, this is becoming an urgent political and economic issue. And it is sobering to realise that, at least for armies and corporations, the answer is straightforward: intelligence is mandatory but consciousness is optional.
+
+| Location: 4616 | 
+ Color: yellow |
+<br>
+
+ > Digital teachers will closely monitor every answer I give, and how long it took me to give it. Over time, they will discern my unique weaknesses as well as my strengths. They will identify what gets me excited, and what makes my eyelids droop. They could teach me thermodynamics or geometry in a way that suits my personality type, even if that particular way doesn’t suit 99 per cent of the other pupils. And these digital teachers will never lose their patience, never shout at me, and never go on strike. It is unclear, however, why on earth I would need to know thermodynamics or geometry in a world containing such intelligent computer programs.7
+
+| Location: 4664 | 
+ Color: yellow |
+<br>
+
+ > When mindless algorithms are able to teach, diagnose and design better than humans, what will we do? This is not an entirely new question. Ever since the Industrial Revolution erupted, people feared that mechanisation might cause mass unemployment. This never happened, because as old professions became obsolete, new professions evolved, and there was always something humans could do better than machines. Yet this is not a law of nature, and nothing guarantees it will continue to be like that in the future. Humans have two basic types of abilities: physical abilities and cognitive abilities. As long as machines competed with us merely in physical abilities, you could always find cognitive tasks that humans do better. So machines took over purely manual jobs, while humans focused on jobs requiring at least some cognitive skills. Yet what will happen once algorithms outperform us in remembering, analysing and recognising patterns? The idea that humans will always have a unique ability beyond the reach of non-conscious algorithms is just wishful thinking.
+
+| Location: 4729 | 
+ Color: yellow |
+<br>
+
+ > The current scientific answer to this pipe dream can be summarised in three simple principles: 1. Organisms are algorithms. Every animal– including Homo sapiens– is an assemblage of organic algorithms shaped by natural selection over millions of years of evolution. 2. Algorithmic calculations are not affected by the materials from which you build the calculator. Whether you build an abacus from wood, iron or plastic, two beads plus two beads equals four beads. 3. Hence there is no reason to think that organic algorithms can do things that non-organic algorithms will never be able to replicate or surpass. As long as the calculations remain valid, what does it matter whether the algorithms are manifested in carbon or silicon?
+
+| Location: 4737 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>

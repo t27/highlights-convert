@@ -1,0 +1,145 @@
+{
+  "volume": {
+    "title": "It Doesn't Have to Be Crazy at Work",
+    "authors": [
+      "Jason Fried",
+      "David Heinemeier Hansson"
+    ]
+  },
+  "chapterHighlights": {
+    "Don’t Change the World": {
+      "index": 1,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "But if you label your own work as disruption, it probably isn’t.",
+          "location": "250",
+          "chapter": "Don’t Change the World"
+        }
+      ]
+    },
+    "Protectionism": {
+      "index": 2,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "we don’t have status meetings at Basecamp. We all know these meetings—one person talks for a bit and shares some plans, then the next person does the same thing. They’re a waste of time. Why? While it seems efficient to get everyone together at the same time, it isn’t. It’s costly, too. Eight people in a room for an hour doesn’t cost one hour, it costs eight hours. Instead, we ask people to write updates daily or weekly on Basecamp for others to read when they have a free moment. This saves dozens of hours a week and affords people larger blocks of uninterrupted time. Meetings tend to break time into “before” and “after.” Get rid of those meetings and people suddenly have a good stretch of time to immerse themselves in their work.",
+          "location": "323",
+          "chapter": "Protectionism"
+        }
+      ]
+    },
+    "The Quality of an Hour": {
+      "index": 3,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "A quality hour is 1 × 60, not 4 × 15. A quality day is at least 4 × 60, not 4 × 15 × 4. It’s hard to be effective with fractured hours, but it’s easy to be stressed out: 25 minutes on a phone call, then 10 minutes with a colleague who taps you on the shoulder, then 5 on this thing you’re supposed to be working on, before another 15 are burned on a conversation you got pulled into that really didn’t require your attention. Then you’re left with 5 more to do what you wanted to do. No wonder people who work like that can be short- or ill-tempered. And between all those context switches and attempts at multitasking, you have to add buffer time.",
+          "location": "340",
+          "chapter": "The Quality of an Hour"
+        }
+      ]
+    },
+    "Office Hours": {
+      "index": 4,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "If you work here and you need an answer, all you have to do is ping the expert. That’s wonderful. And terrible. It’s wonderful when the right answer unlocks insight or progress. But it’s terrible when that one expert is fielding their fifth random question of the day and suddenly the day is done. The person with the question needed something and they got it. The person with the answer was doing something else and had to stop. That’s rarely a fair trade.",
+          "location": "402",
+          "chapter": "Office Hours"
+        },
+        {
+          "color": "yellow",
+          "content": "The problem comes when you make it too easy—and always acceptable—to pose any question as soon as it comes to mind. Most questions just aren’t that pressing, but the urge to ask the expert immediately is irresistible. Now, if the sole reason they work there is to answer questions and be available for everyone else all day long, well, then, okay, sounds good. But our experts have their own work to do, too. You can’t have both.",
+          "location": "406",
+          "chapter": "Office Hours"
+        }
+      ]
+    },
+    "Don’t Cheat Sleep": {
+      "index": 5,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "The people who brag about trading sleep for endless slogs and midnight marathons are usually the ones who can’t point to actual accomplishments. Telling tales of endless slogs is a diversionary tactic. It’s pathetic. It’s not worth trading sleep for a few extra hours at the office. Not only will it make you exhausted, it’ll literally make you stupid. The science is clear on this: Continued sleep deprivation batters your IQ and saps your creativity.",
+          "location": "621",
+          "chapter": "Don’t Cheat Sleep"
+        }
+      ]
+    },
+    "Dreadlines": {
+      "index": 6,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "The team that’s doing the work has control over the work. They wield the “scope hammer,” as we call it. They can crush the big must-haves into smaller pieces and then judge each piece individually and objectively. Then they can sort, sift, and decide what’s worth keeping and what can wait.",
+          "location": "923",
+          "chapter": "Dreadlines"
+        },
+        {
+          "color": "yellow",
+          "content": "We’re not fans of estimates because, let’s face it, humans suck at estimating. But it turns out that people are quite good at setting and spending budgets. If we tell a team that they have six weeks to build a great calendar feature in Basecamp, they’re much more likely to produce lovely work than if we ask them how long it’ll take to build this specific calendar feature, and then break their weekends and backs to make it so.",
+          "location": "929",
+          "chapter": "Dreadlines"
+        }
+      ]
+    },
+    "Commitment, Not Consensus": {
+      "index": 7,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "I disagree and commit all the time. We recently greenlit a particular Amazon Studios original. I told the team my view: debatable whether it would be interesting enough, complicated to produce, the business terms aren’t that good, and we have lots of other opportunities. They had a completely different opinion and wanted to go ahead. I wrote back right away with “I disagree and commit and hope it becomes the most watched thing we’ve ever made.” Consider how much slower this decision cycle would have been if the team had actually had to convince me rather than simply get my commitment. We totally agree. We’ve been practicing disagree and commit since the beginning, but it took Bezos’s letter to name the practice. Now we even use that exact term in our discussions. “I disagree, but let’s commit”",
+          "location": "1041",
+          "chapter": "Commitment, Not Consensus"
+        },
+        {
+          "color": "yellow",
+          "content": "Companies waste an enormous amount of time and energy trying to convince everyone to agree before moving forward on something. What they’ll often get is reluctant acceptance that masks secret resentment.",
+          "location": "1048",
+          "chapter": "Commitment, Not Consensus"
+        }
+      ]
+    },
+    "Compromise on Quality": {
+      "index": 8,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "You just can’t bring your A game to every situation. Knowing when to embrace Good Enough is what gives you the opportunity to be truly excellent when you need to be. We’re not suggesting you put shit work out there. You need to be able to be proud of it, even if it’s only “okay.” But attempting to be indiscriminately great at everything is a foolish waste of energy.",
+          "location": "1059",
+          "chapter": "Compromise on Quality"
+        },
+        {
+          "color": "yellow",
+          "content": "It’s easy to say “Everything has to be great,” but anyone can do that. The challenge lies in figuring out where you can be just kinda okay or even downright weak. Think of it this way. If you do one thing at 100 percent, you’ve spent 100 percent to get that one thing. If you spend 20 percent each on getting five things to 80 percent, well, then, you’ve done five things! We’ll almost always take that trade.",
+          "location": "1063",
+          "chapter": "Compromise on Quality"
+        }
+      ]
+    },
+    "Narrow as You Go": {
+      "index": 9,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Once the initial exploration is over, every week should lead us closer to being done, not further from it. Commit to an idea. See it through. Make it happen. You can always go back later, but only if you actually finish.",
+          "location": "1082",
+          "chapter": "Narrow as You Go"
+        }
+      ]
+    },
+    "Change Control": {
+      "index": 10,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "You’ll often hear that people don’t like change, but that’s not quite right. People have no problem with change they asked for. What people don’t like is forced change—change they didn’t request on a timeline they didn’t choose. Your “new and improved” can easily become their “what the fuck?” when it is dumped on them as a surprise.",
+          "location": "1379",
+          "chapter": "Change Control"
+        }
+      ]
+    }
+  }
+}

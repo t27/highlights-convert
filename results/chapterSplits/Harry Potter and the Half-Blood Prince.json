@@ -1,0 +1,100 @@
+{
+  "volume": {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "authors": [
+      "J.K. Rowling"
+    ]
+  },
+  "chapterHighlights": {
+    "Chapter 3 - Will and Won't": {
+      "index": 1,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "‘And now, Harry, let us step out into the night and pursue that flighty temptress, adventure.’",
+          "location": "807",
+          "chapter": "Chapter 3 - Will and Won't"
+        }
+      ]
+    },
+    "Chapter 5 - An Excess of Phlegm": {
+      "index": 2,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "‘Dumbledore says people find it far easier to forgive others for being wrong than being right,’ said Hermione. ‘I heard him telling your mum, Ron.’ ‘Sounds like the sort of mental thing Dumbledore would say,’ said Ron.",
+          "location": "1348",
+          "chapter": "Chapter 5 - An Excess of Phlegm"
+        }
+      ]
+    },
+    "Chapter 20 - Lord Voldemort's Request": {
+      "index": 3,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Voldemort’s expression remained impassive as he said, ‘Greatness inspires envy, envy engenders spite, spite spawns lies. You must know this, Dumbledore.’ ‘You call it “greatness”, what you have been doing, do you?’ asked Dumbledore delicately.",
+          "location": "5997",
+          "chapter": "Chapter 20 - Lord Voldemort's Request"
+        }
+      ]
+    },
+    "Chapter 23 - Horcruxes": {
+      "index": 4,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "– I mean, would one Horcrux be much use? Can you only split your soul once? Wouldn’t it be better, make you stronger, to have your soul in more pieces? I mean, for instance, isn’t seven the most powerfully magical number, wouldn’t seven",
+          "location": "6732",
+          "chapter": "Chapter 23 - Horcruxes"
+        },
+        {
+          "color": "yellow",
+          "content": "But he understood at last what Dumbledore had been trying to tell him. It was, he thought, the difference between being dragged into the arena to face a battle to the death and walking into the arena with your head held high. Some people, perhaps, would say that there was little to choose between the two ways, but Dumbledore knew– and so do I, thought Harry, with a rush of fierce pride, and so did my parents– that there was all the difference in the world.",
+          "location": "6923",
+          "chapter": "Chapter 23 - Horcruxes"
+        }
+      ]
+    },
+    "Chapter 26 - The Cave": {
+      "index": 5,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "… age is foolish and forgetful when it underestimates youth…",
+          "location": "7624",
+          "chapter": "Chapter 26 - The Cave"
+        },
+        {
+          "color": "yellow",
+          "content": "It is the unknown we fear when we look upon death and darkness, nothing more.’",
+          "location": "7644",
+          "chapter": "Chapter 26 - The Cave"
+        }
+      ]
+    },
+    "Chapter 30 - The White Tomb": {
+      "index": 6,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "‘We’ll be there, Harry,’ said Ron. ‘What?’‘At your aunt and uncle’s house,’ said Ron. ‘And then we’ll go with you, wherever you’re going.’‘No –’ said Harry quickly; he had not counted on this, he had meant them to understand that he was undertaking this most dangerous journey alone. ‘You said to us once before,’ said Hermione quietly, ‘that there was time to turn back if we wanted to. We’ve had time, haven’t we?’",
+          "location": "8752",
+          "chapter": "Chapter 30 - The White Tomb"
+        },
+        {
+          "color": "pink",
+          "content": "‘We’re with you whatever happens,’ said Ron.",
+          "location": "8756",
+          "chapter": "Chapter 30 - The White Tomb"
+        },
+        {
+          "color": "pink",
+          "content": "His hand closed automatically around the fake Horcrux, but in spite of everything, in spite of the dark and twisting path he saw stretching ahead for himself, in spite of the final meeting with Voldemort he knew must come, whether in a month, in a year, or in ten, he felt his heart lift at the thought that there was still one last golden day of peace left to enjoy with Ron and Hermione.",
+          "location": "8761",
+          "chapter": "Chapter 30 - The White Tomb"
+        }
+      ]
+    }
+  }
+}

@@ -105,9 +105,10 @@ function createJekyllData() {
 // Step 2
 // chapterWiseIndexing()
 
-// Step3
-// createJekyllData()
+// Step3 
+createJekyllData()
 
+// NOTE: Currently the steps need to be executed in separate calls to index.json due to async ops
 
 //Test
 // testSingleKindleFile()

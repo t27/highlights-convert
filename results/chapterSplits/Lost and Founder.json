@@ -63,6 +63,904 @@
           "chapter": "How the Valley Fooled Us All"
         }
       ]
+    },
+    "Transparency Is Hard, but It Works": {
+      "index": 3,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Transparency is making the choice to reveal even the most uncomfortable truths with relentless candor. Transparency isn’t the same as honesty. Honesty is saying only things that are true. Many founders and startup teams are honest (in that they don’t directly lie). But transparency requires digging deep to find and expose what others would normally leave unsaid and refusing to take the easy, quiet road. It’s tackling the conversations that make your stomach turn and your voice get caught in your throat. And like nearly everything in the world of startups, swallowing the bitter pill now is vastly superior to letting the disease of opacity fester.",
+          "location": "329",
+          "chapter": "Transparency Is Hard, but It Works"
+        },
+        {
+          "color": "yellow",
+          "content": "You’d be surprised at how people rise to a challenge once they know that there is a challenge. And don’t kid yourself—you may think you’re keeping them safe by keeping them in the dark, but some distorted version of the truth always leaks. Misinformation stokes fear and resentment in your team. That’s never good for business—or for anyone’s well-being. You need your team’s trust, not just in that one moment when fundraising’s going poorly or growth has stalled, but in the long term. Even after people leave, what they say about you and your trustworthiness will affect basic business functions like recruiting, sales, branding, and bizdev for decades to come.",
+          "location": "360",
+          "chapter": "Transparency Is Hard, but It Works"
+        },
+        {
+          "color": "yellow",
+          "content": "The most meaningful benefit transparency brings might be its forcing function for deliberately ethical, rational behavior. As CEO, I’d often tell my executives and board that every email should be written and every conversation conducted as though it will one day be leaked. We should be proud, not embarrassed, by what and how we communicate, even when the doors are closed. There are good reasons for privacy—to avoid shaming an employee for a mistake or to enable discussion about private, personal, or professional issues (among others). But people change their behavior for the better when they assume their peers, their reports, and their leadership will get to see/hear the full story.",
+          "location": "365",
+          "chapter": "Transparency Is Hard, but It Works"
+        },
+        {
+          "color": "yellow",
+          "content": "Transparency can’t just be a tactic, though. It has to be a core value that’s consistently followed. If you openly share some things, but hide others, credibility will suffer. Your team will always wonder what you’re not sharing. Your customers, your investors, the press—whomever you interact with—will be trained to mistrust you. A reputation for caginess lasts a long time and follows you across companies and geographies.",
+          "location": "370",
+          "chapter": "Transparency Is Hard, but It Works"
+        },
+        {
+          "color": "yellow",
+          "content": "If you ask me why I’m so open, so bluntly honest about things that the startup ecosystem and business culture usually urge us to keep silent, this is why. I’m done with the pain of secrecy, happy to trade it for the challenges transparency brings.",
+          "location": "391",
+          "chapter": "Transparency Is Hard, but It Works"
+        }
+      ]
+    },
+    "CHAPTER 2: WHY THE STARTUP WORLD HATES ON SERVICES (AND WHY YOU SHOULDN’T)": {
+      "index": 4,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "When the subscription to our tools opened in February 2007, it didn’t feel like a momentous, overnight transformation. A few new subscribers joined every day, but by and large, business carried on as usual. Our primary focus remained centered on consulting. It was only a few months later, while analyzing our revenue, that we saw the potential of the subscription business. The run rate of our new product was growing like a weed. By the end of that year, we did about $400,000 in SEO consulting revenue (our fourth year in that business), and $450,000 in software revenue (even though we’d only had ten and a half months of it!). It was a wake-up call to the power of having a product that made money while we slept.",
+          "location": "485",
+          "chapter": "CHAPTER 2: WHY THE STARTUP WORLD HATES ON SERVICES (AND WHY YOU SHOULDN’T)"
+        }
+      ]
+    },
+    "How to Escape the Services Hamster Wheel": {
+      "index": 5,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "There are two traits fundamental to an effective product-focused business. The first is reach (i.e., the ability to influence a large audience). The second is scalability (i.e., an aptitude for growing revenue far more quickly than costs). Traditionally, consulting businesses have little of either.",
+          "location": "492",
+          "chapter": "How to Escape the Services Hamster Wheel"
+        }
+      ]
+    },
+    "Wait, So Some Money Is Worth More Than Other Money?": {
+      "index": 6,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Financial models that value a company’s revenue care a lot about gross margin (i.e., the percentage of a business’s or product’s income that can be serviced without additional cost). If you build software and provide it to customers, your costs are, basically, maintenance of that software, hosting of the servers, any data you have to buy to keep the software operational, and . . . not a lot else (maybe customer service and support). Conceivably, you could shut down all new development efforts and let go of most of your staff, and the subscription dollars would keep coming in. Hence, gross margins on software product businesses are often higher than 75–80 percent, while the margins on a consultancy are more likely in the 25–40 percent range.",
+          "location": "517",
+          "chapter": "Wait, So Some Money Is Worth More Than Other Money?"
+        },
+        {
+          "color": "yellow",
+          "content": "Every dollar you make from services will net you (on average) one to two times the amount in an acquisition or valuation scenario. This formula for a product-driven business, like our software subscription, is often in the three-to-eight-times range.",
+          "location": "523",
+          "chapter": "Wait, So Some Money Is Worth More Than Other Money?"
+        }
+      ]
+    },
+    "I’d Like Some Services, Please": {
+      "index": 7,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Most surprisingly: services firms are often a superior financial deal for a founder.",
+          "location": "553",
+          "chapter": "I’d Like Some Services, Please"
+        },
+        {
+          "color": "yellow",
+          "content": "services firms have some of the best survival rates among small-business types: 47.6 percent make it past year 5 of operation. Contrast that with the less than 25 percent of tech startups that do. You are, statistically, almost twice as likely to “make it” as a services business than as a technology product firm.",
+          "location": "591",
+          "chapter": "I’d Like Some Services, Please"
+        }
+      ]
+    },
+    "How to Push Your Product": {
+      "index": 8,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "There are a number of good reasons to choose a product business over a services one: Your passion is to build product, not to do consulting.",
+          "location": "605",
+          "chapter": "How to Push Your Product"
+        },
+        {
+          "color": "yellow",
+          "content": "Start with a product that’s informed by your consulting. The services you provide expose you to real-life problems that consumers and organizations face. You have solutions, in the form of applied knowledge, for which people are willing to pay. Your experience can inform a product’s design, content, marketing, amplification, and even the early parts of audience building. Moz’s consultancy certainly did that for me—it showed the real challenges organizations of all sizes faced with SEO.",
+          "location": "614",
+          "chapter": "How to Push Your Product"
+        },
+        {
+          "color": "yellow",
+          "content": "Before I ever designed a tool, I knew exactly what issues I wanted to solve, and more important, I knew there were many others like me trying to solve those same problems. Thousands of them had already commented on my blog (and, helpfully, opted in for email messages).",
+          "location": "619",
+          "chapter": "How to Push Your Product"
+        }
+      ]
+    },
+    "CEO Is a Real (Shitty) Job": {
+      "index": 9,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Early in my career as an SEO consultant, a majority of my days were spent actually doing the work I loved. But after the company started on a serious growth trajectory and I assumed the role of CEO, I probably spent less than 20 percent of my time doing those things, and it often dwindled to less than 5 percent for months at a time. We grew fast. And it was my first time doing anything",
+          "location": "693",
+          "chapter": "CEO Is a Real (Shitty) Job"
+        },
+        {
+          "color": "yellow",
+          "content": "The myth of “founding a startup so you can do what you love” is at least as enshrined in the tech world’s popular culture as the myth of getting rich. It deserves to be unpacked and examined. There’s a grain of truth that lies within, albeit a grain buried under layers of maddening falsehood.",
+          "location": "709",
+          "chapter": "CEO Is a Real (Shitty) Job"
+        }
+      ]
+    },
+    "Passion Does Not a Manager Make": {
+      "index": 10,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Entrepreneurs start out doing what they love. Not because it makes sense, or because it’s a great market, but because they cannot imagine themselves doing (or eating) anything else. On the one hand, that passion and commitment is an asset. It can help early-stage companies push through the ugly barriers that make it so difficult to find a business model. On the other, once there’s a small, working operation that’s found revenue, the leadership needs to refocus on all the tasks a growing organization demands.",
+          "location": "724",
+          "chapter": "Passion Does Not a Manager Make"
+        },
+        {
+          "color": "yellow",
+          "content": "When your startup is growing, the tasks and competencies change every six months.",
+          "location": "729",
+          "chapter": "Passion Does Not a Manager Make"
+        },
+        {
+          "color": "yellow",
+          "content": "Unless what you love is managing people, handling crises, delegating, holding people responsible, recruiting, setting, then constantly amplifying and repeating the company’s mission, vision, strategy, and values, being a startup CEO may not provide you with the work you love to do.",
+          "location": "737",
+          "chapter": "Passion Does Not a Manager Make"
+        },
+        {
+          "color": "yellow",
+          "content": "Instead, a startup provides the ability to create a vision you love and to see it through to fulfillment. You get to say “today, the world works this way, but once the company I’ll build exists, and once it reaches the scale to fulfill its ongoing mission, the world will change to this.” If you can reset your passion from “I want to do *this* work” to “I want to see something I create change the world in *this* way,” your expectations will align with reality, and the cognitive dissonance and frustration of being torn away from the work you love can fade.",
+          "location": "739",
+          "chapter": "Passion Does Not a Manager Make"
+        }
+      ]
+    },
+    "The Best Leaders Know When to Lead—and When Not To": {
+      "index": 11,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Many founders believe they can delegate key business functions to other people on their team—and often they should. But your first hires in any of these roles will need guidance, support, input, and occasionally you’ll need to dig into the details yourself because you can’t find the right person or you had to let them go, or you simply need to know more about the issues before you can determine whether the problem lies with your people, your management, your processes, or something else.",
+          "location": "800",
+          "chapter": "The Best Leaders Know When to Lead—and When Not To"
+        },
+        {
+          "color": "yellow",
+          "content": "This is the work entrepreneurs do in growing organizations: digging into problems, untangling conflict, freeing people from the mind-sets or structures that hold them back, crafting (and refining, over and over) the pillars and policies of how the company functions. The hours you spend on the business will shift from doing what you love to enabling a vision and navigating whatever impediments arise along the way. Expect to do work you don’t love in order to allow what you do to flourish. If you don’t, the disappointment and frustration can kill your motivation.",
+          "location": "812",
+          "chapter": "The Best Leaders Know When to Lead—and When Not To"
+        },
+        {
+          "color": "yellow",
+          "content": "you’ll come to see the CEO role as one of enabler and problem solver. For those who love helping others get unblocked and watching progress scale far beyond what they could achieve alone, this can be an immensely rewarding job.",
+          "location": "816",
+          "chapter": "The Best Leaders Know When to Lead—and When Not To"
+        }
+      ]
+    },
+    "Execution Is More Malleable Than Market, Model, and Idea": {
+      "index": 12,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "I published no fewer than one thousand blog posts before my posts achieved consistent, broad readership that earned the kind of value we see with published content today. From late 2003 to early 2007, I wrote for an hour or a few, five nights a week, Sunday through Thursday, and I’d spend additional hours the next morning promoting the posts, replying to comments, and finding new topics to cover. By the time the blog appeared on “must-read” lists, I’d invested hundreds of hours researching and writing. I started out an amateur but today have a massive following and the ability to generate tens of thousands of visits, resonant messages, and powerful business impacts via my blogging.",
+          "location": "860",
+          "chapter": "Execution Is More Malleable Than Market, Model, and Idea",
+          "notes": [
+            {
+              "color": "",
+              "content": "The rigor of writing",
+              "location": "865",
+              "chapter": "Execution Is More Malleable Than Market, Model, and Idea"
+            }
+          ]
+        }
+      ]
+    },
+    "The Switching Costs Can Kill You": {
+      "index": 13,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Don’t believe the hype—execution isn’t everything. You can be the tortoise, rather than the hare, and by picking the right race and the right route, win over far more talented teams because you’re constantly improving in a less crowded space no one else has chosen.",
+          "location": "887",
+          "chapter": "The Switching Costs Can Kill You"
+        }
+      ]
+    },
+    "Some Unorthodox Tips on Choosing Your Market and Your Idea": {
+      "index": 14,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "If you haven’t already read Eric Ries’s book The Lean Startup, go do that now. Then pick up Sprint by Jake Knapp and the Google Ventures team. The first one will help you nail the basics of choosing and validating a market, and the second shares my favorite method for nailing new products and features.",
+          "location": "890",
+          "chapter": "Some Unorthodox Tips on Choosing Your Market and Your Idea"
+        },
+        {
+          "color": "yellow",
+          "content": "Great ideas and products are often born from mediocre ones. The keys are time (enough to iterate and evolve into something remarkable), humility (enough to see what’s wrong and admit a failure so you can move forward), and survival (a profitable services business can be a godsend here).",
+          "location": "901",
+          "chapter": "Some Unorthodox Tips on Choosing Your Market and Your Idea"
+        },
+        {
+          "color": "yellow",
+          "content": "Your business will be even more likely to succeed if the market you target is served by incumbent solutions that are some combination of (a) hated by their customers, (b) unwilling or unable to evolve with their customers’ needs, (c) protected by competitive advantages you can unravel (or that a shift in market dynamics or regulation is unraveling for you), or (d) in their early stages and not yet dominant (i.e., a non-mature market). If you find a market with two or more of these (think vacation home rentals before Airbnb or crowdfunding before Kickstarter), your odds rise exponentially.",
+          "location": "903",
+          "chapter": "Some Unorthodox Tips on Choosing Your Market and Your Idea"
+        },
+        {
+          "color": "yellow",
+          "content": "Keyword research (wherein you uncover what words and phrases people are searching Google for and in what quantities) will almost always uncover untapped opportunity. Move beyond the solution keywords, and look for searches that indicate problems—the quantity of monthly searches for “cityname+taxi” helped Uber figure out which cities to launch in,",
+          "location": "908",
+          "chapter": "Some Unorthodox Tips on Choosing Your Market and Your Idea"
+        }
+      ]
+    },
+    "It’s Hard to Pick the NFL’s Draft Order if You’ve Never Played Football": {
+      "index": 15,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Every founder (or set of founders) has a different take on the hardest parts of building a company. And those same founders will have different takes on the easy parts. Talk to two talented software engineers who founded a company and you may find that recruiting, managing, or marketing are perceived as the most difficult issues. Talk to the marketer and people manager who founded a company down the street, and you may hear just the opposite.",
+          "location": "1048",
+          "chapter": "It’s Hard to Pick the NFL’s Draft Order if You’ve Never Played Football"
+        },
+        {
+          "color": "yellow",
+          "content": "It’s inherent in the psychological principle known as availability heuristic bias. And while that phrase is daunting (seriously, do not try saying it while drunk), the concept is a pretty simple one: our exposure dictates our perception. If you’ve ever tried convincing someone whose politics differ from your own about the statistical reality of something they’ve experienced personally, you know the power of this principle. (Just think about how many times you’ve had a miserable experience at a restaurant only to find that the 238 Yelp reviews are all five-star.)",
+          "location": "1053",
+          "chapter": "It’s Hard to Pick the NFL’s Draft Order if You’ve Never Played Football"
+        },
+        {
+          "color": "yellow",
+          "content": "When you rely on someone (or several someones) to bolster a weakness, their departure from the organization creates risk that the wound will reopen. This risk is greater in smaller and less-experienced teams where the senior leader is often the glue keeping things together with their presence, and lessens as organizations grow (so long as that leader has created consistent quality through redundancy of great people and great processes).",
+          "location": "1068",
+          "chapter": "It’s Hard to Pick the NFL’s Draft Order if You’ve Never Played Football"
+        },
+        {
+          "color": "yellow",
+          "content": "While reading, keep in mind that engineers are famous for indulging in so-called religious wars about why a particular technology is “so much better” than another one. Learn to spot it when an engineer moves beyond advocacy to naive devotion to a particular tech.",
+          "location": "1119",
+          "chapter": "It’s Hard to Pick the NFL’s Draft Order if You’ve Never Played Football"
+        },
+        {
+          "color": "yellow",
+          "content": "You need to know the lovers, the haters, and the companies that are using the tech. There’s no such thing as the “perfect solution,” and beware anyone who tells you otherwise. It’s all trade-offs.",
+          "location": "1121",
+          "chapter": "It’s Hard to Pick the NFL’s Draft Order if You’ve Never Played Football"
+        },
+        {
+          "color": "yellow",
+          "content": "The best way to ensure that your CTO is going to make you a better CEO is to hire a CTO who likes to teach. Make it clear that you’re looking for someone to drive change and educate you and the team. Beware CTOs who try to “shield” you from the details. Being able to explain complex things simply is a job requirement.",
+          "location": "1124",
+          "chapter": "It’s Hard to Pick the NFL’s Draft Order if You’ve Never Played Football"
+        }
+      ]
+    },
+    "Know Thyself: Not Just a Biblical T-Shirt Slogan": {
+      "index": 16,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "There’s a crucial prerequisite needed to double down on your strengths or combat your weaknesses as a founder, team, and business: self-knowledge. Tragically, most of us have a poor understanding of our own strengths and weaknesses.",
+          "location": "1143",
+          "chapter": "Know Thyself: Not Just a Biblical T-Shirt Slogan"
+        },
+        {
+          "color": "yellow",
+          "content": "Vigilance and ongoing reflection are equally essential and equally difficult. Those same strengths a founder shows in the early years of a company may turn to weaknesses at scale, just as practice and experience over years of failure and learning can turn a weakness into a strength.",
+          "location": "1169",
+          "chapter": "Know Thyself: Not Just a Biblical T-Shirt Slogan"
+        }
+      ]
+    },
+    "CHAPTER 6: DON’T RAISE MONEY FOR THE WRONG REASONS OR FROM THE WRONG PEOPLE": {
+      "index": 17,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "The money we raised at Moz and the help of the partners who joined our board were remarkable gifts. I couldn’t have come this far in my professional career or written this book without them. But when asked if I’d raise money again in any of my hypothetical future business endeavors, my answer has changed over the last few years, from “Yes, definitely” to “Oof . . . I really hope not.” Why? Two reasons. The odds. And the cost.",
+          "location": "1189",
+          "chapter": "CHAPTER 6: DON’T RAISE MONEY FOR THE WRONG REASONS OR FROM THE WRONG PEOPLE"
+        }
+      ]
+    },
+    "I Mean, You Don’t *Technically* Sign the Deal in Blood": {
+      "index": 18,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Startup investing follows the Pareto principle: 20 percent of the investments return 80 percent of the fund.",
+          "location": "1206",
+          "chapter": "I Mean, You Don’t *Technically* Sign the Deal in Blood"
+        }
+      ]
+    },
+    "How VCs Lose, Even When They Win": {
+      "index": 19,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Venture firms generally get money from four places: large endowments from very wealthy individuals or families; pension funds from big employers; well-endowed university funds; and evil billionaire masterminds. (Technically, the billionaires don’t have to be evil, but then they just fit into the first category.) Together, these sources of capital are called limited partners, or “LPs.” Much as startups raise money from VCs, VCs raise money from LPs. The venture capitalists will try to convince an LP’s investment committee that their approach to startup investment opportunities, their team’s judgment and experience, and their fund’s assistance will produce a winning ROI.",
+          "location": "1242",
+          "chapter": "How VCs Lose, Even When They Win"
+        },
+        {
+          "color": "yellow",
+          "content": "The target is 12 percent annual growth, which, over the life of a ten-year fund, means returning three times the fund size (e.g., $300 million on a $100 million fund). Beating the market is hard. Like, really, really hard. Only about 5 percent of venture investment firms actually succeed at it. A further 10 percent will return two to three times, the next 35 percent will return one to two times, and the bottom 50 percent return less than their initial fund.",
+          "location": "1250",
+          "chapter": "How VCs Lose, Even When They Win"
+        },
+        {
+          "color": "yellow",
+          "content": "The only way the 5 percent of successful VCs make their returns is through enormous outcomes from a tiny number of companies. It’s usually one or two investments out of dozens to hundreds a fund might make that deliver almost all the gains. This makes intuitive sense if you’re a close observer of the startup world—for every Google, Facebook, Snapchat, or eBay, there are thousands of startups most of us have never heard of, and never will.",
+          "location": "1255",
+          "chapter": "How VCs Lose, Even When They Win"
+        },
+        {
+          "color": "yellow",
+          "content": "Moz and its investors can serve as a good example of why only “enormous outcomes” fit the model. In 2004, Ignition Partners",
+          "location": "1258",
+          "chapter": "How VCs Lose, Even When They Win",
+          "notes": [
+            {
+              "color": "",
+              "content": "What follows in the book is a good example calculation that shows the VC investment vs return landscape and the incentives therein",
+              "location": "1259",
+              "chapter": "How VCs Lose, Even When They Win"
+            }
+          ]
+        },
+        {
+          "color": "yellow",
+          "content": "From this overly simplified model, anyone considering entry to the world of venture-backed startups should have at least this one crucial takeaway: unless your business is in alignment with the venture model of investing in many failures to find a small handful of absurdly successful mega-winners, this path is not for you. Get comfortable with the odds, or don’t roll the dice. The venture business is about outliers. If you want to raise money, or if you’re joining a startup that’s planning to raise money (or already has), you have to understand these odds and this risk model or you’ll be an unwitting pawn in a game where the deck’s stacked against you. If your startup raises VC, but you’re unwilling to do high-risk things that could kill your business nine out of ten times but might make you a unicorn, you’re not aligned with the venture model. That misalignment can mean losing your job and your company, or getting in a nasty stalemate with your board of directors.",
+          "location": "1314",
+          "chapter": "How VCs Lose, Even When They Win"
+        }
+      ]
+    },
+    "CHAPTER 7: SO YOU’VE DECIDED TO ASK COMPLETE STRANGERS FOR MILLIONS OF DOLLARS": {
+      "index": 20,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Every VC believed himself or (in, unfortunately, only two cases out of almost fifty) herself to have strong references from their CEOs. I diligently followed up every time, and talked to at least two or three CEOs funded by a dozen or so venture firms. Of those, the majority did have good, though not always glowingly positive, things to say. And even though it was my first time speaking to these CEOs, many were happy to give me an honest and surprisingly cold or even directly negative feedback about their investors. I found this disconnect between the confidence of the partner and the honesty of the founder/CEO valuable and refreshing. If you go down the venture funding path, make sure you do the same. And for those of you who get funded or who already are, please carry on this tradition of putting your fellow entrepreneurs first. It helps make the land-mine-laden game of startup investment a little less dangerous and a little more camaraderie-filled.",
+          "location": "1384",
+          "chapter": "CHAPTER 7: SO YOU’VE DECIDED TO ASK COMPLETE STRANGERS FOR MILLIONS OF DOLLARS"
+        },
+        {
+          "color": "yellow",
+          "content": "I asked Brad how Foundry would react if we were offered a deal in the next couple of years that looked great to Moz’s founders and employees, but didn’t provide the kind of return on investment that Foundry sought. My recollection won’t be perfect, but to the best of my memory, Brad said: I’ve worked with a lot of entrepreneurs over the last fifteen years. Sometimes their first company goes well. Sometimes it doesn’t. But I’m patient. I pick founders because they’re people I want to work with, and I hope I get to work with them again. So if they have a chance to do what they want, we never stand in the way. My relationship is one that spans decades and companies, bankruptcies and exits. It’s like a marriage—I want to be there for richer or poorer.",
+          "location": "1407",
+          "chapter": "CHAPTER 7: SO YOU’VE DECIDED TO ASK COMPLETE STRANGERS FOR MILLIONS OF DOLLARS"
+        }
+      ]
+    },
+    "No Such Thing as a Free Round of Funding": {
+      "index": 21,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Statistics are on your side—founder-led startups tend to dramatically outperform non-founder-led startups. But being removed from a leadership role, or from the company entirely, is a real possibility founders must face.",
+          "location": "1425",
+          "chapter": "No Such Thing as a Free Round of Funding"
+        },
+        {
+          "color": "yellow",
+          "content": "I have three strong pieces of advice. First, do not attempt to raise money or talk to potential investors without reading Brad Feld’s superb, transparent, and surprisingly fun-to-read guide Venture Deals. Second, get your investors to explain each piece of the term sheet (the initial offer upon which the final paperwork will be based) to you, then get your attorney (yes, you need one; no, your cousin who watches lots of Law & Order doesn’t count) and (if you have one) a savvy entrepreneur friend to explain the same pieces to you. If the stories don’t align, you’ll have a strong answer to my third and final suggestion on this topic: don’t sign anything with anyone you don’t trust 100 percent and don’t believe has your best interests (and not just their portfolio’s returns) at heart.",
+          "location": "1428",
+          "chapter": "No Such Thing as a Free Round of Funding"
+        },
+        {
+          "color": "yellow",
+          "content": "One final, unorthodox tip: if possible, build your expertise before you build your network, and build your network before you build your company. Each one leads elegantly into the next. If you have deep experience and skills in a particular aspect of startup building or technology that makes an hour on the phone with you deeply valuable and valued by entrepreneurs and startup teams, you’ve got a clear, compelling path to build a powerful network. Assist a handful of people and companies with their issues (as a consultant, a member of the team, or simply an outsider who loves to help others) and you’ll have a built-in network to assist in your fundraising process. That network is what takes the fundraising process from near impossibility to potentially achievable.",
+          "location": "1439",
+          "chapter": "No Such Thing as a Free Round of Funding"
+        }
+      ]
+    },
+    "Even Successful Startup Founders Don’t Get Rich (Quick)": {
+      "index": 22,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Your personal success—reputation, future employability, financial liquidity—becomes inherently tied to the company’s. If the company sinks, you sink. But if the company succeeds, you—depending on how much stock you own and whether or not you find a buyer for it—might succeed, too.",
+          "location": "1501",
+          "chapter": "Even Successful Startup Founders Don’t Get Rich (Quick)"
+        }
+      ]
+    },
+    "It Takes a Lot of 7s and a Long Time to Win at Startup Roulette": {
+      "index": 23,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "In essence, founding a startup or being an early employee means taking a risk. You’re sacrificing the certainty of a potentially higher-paying job with greater benefits at a more established company for what is typically a less-than-market-rate salary, bare-bones benefits, and the hope that if things go very well, and your company is one of the few that survive and thrive, your compensation will rise, the benefits will get better, and someday, if you’re extremely lucky, your stock’s value will exceed the delta between what you could have made in another job. It’s a gamble.",
+          "location": "1521",
+          "chapter": "It Takes a Lot of 7s and a Long Time to Win at Startup Roulette"
+        },
+        {
+          "color": "yellow",
+          "content": "Mark Suster gives wise advice to founders on how to talk about options with their team: We give out stock options. I hope they’re worth money to you some day. But let them be icing on the cake. If they pay off handsomely that’s great. But don’t count on it. Don’t let it be your motivator or your driving decision.",
+          "location": "1533",
+          "chapter": "It Takes a Lot of 7s and a Long Time to Win at Startup Roulette"
+        },
+        {
+          "color": "yellow",
+          "content": "Does this mean you shouldn’t found a startup? Or join an early-stage company? No. But it means you almost certainly shouldn’t do it exclusively for the promise of short-term wealth. The idea that you can compress an entire career into a few years of work and be directly or consistently rewarded with cash for that compression is insanity borne out over and over by the stats. Yes, startups have better odds than the lottery, but they’re dramatically worse than “put it all on red” at the casino. The myth that “founders get rich” has brought thousands of people into the world of startups potentially for the wrong reasons and almost certainly with the wrong expectations.",
+          "location": "1540",
+          "chapter": "It Takes a Lot of 7s and a Long Time to Win at Startup Roulette"
+        },
+        {
+          "color": "yellow",
+          "content": "There are logical, wonderful reasons to start a company or to join a risky, early-stage venture. Chief among these is the freedom early-stage companies provide, especially to founders, to determine what you work on, how to structure that work, who to hire, who to keep on the team, and how every aspect of your organization will operate. Plus, you might have an idea, a product, or a mission that you really want to share with the world. It’s an immense, stressful responsibility, but it’s also intensely rewarding when it works. And, many times, even when it doesn’t.",
+          "location": "1545",
+          "chapter": "It Takes a Lot of 7s and a Long Time to Win at Startup Roulette"
+        },
+        {
+          "color": "yellow",
+          "content": "One of the great things startups can do is massively accelerate your career path. If you’ve felt trapped in positions that don’t challenge you, or constrain your earnings or influence potential, a few years at a startup, even one that ultimately fails, can dramatically shift that reality. Early-stage companies need people who are self-motivated, mission driven, and can get immense amounts of work done in short periods (by working very hard, by being efficient with their time, or both). Demonstrating that you have strategic vision, the ability to execute, and the qualities needed to recruit, motivate, and lead will make you a rare, desirable commodity in the modern economy. One of the reasons so many early-stage companies sell in small acquisitions (often called “acquihires”) is precisely to get these proven, self-driven, multitalented people on board.",
+          "location": "1549",
+          "chapter": "It Takes a Lot of 7s and a Long Time to Win at Startup Roulette"
+        },
+        {
+          "color": "yellow",
+          "content": "A startup can be a great way to visibly multiply what companies are willing to pay to bring you aboard. It might be a great way to level up your skills. And it has the outside chance of making you remarkably wealthy. Just don’t go in blinded by the money. Most of the time, startups are a comparatively poorly rewarded labor of passion.",
+          "location": "1560",
+          "chapter": "It Takes a Lot of 7s and a Long Time to Win at Startup Roulette"
+        }
+      ]
+    },
+    "It’s Just a Little Hacking; What Could Go Wrong?": {
+      "index": 24,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "This practice, called “conversion rate optimization,” or CRO, is a powerful, meaningful part of a web marketer’s toolbox. It’s easy to see why: if you improve your conversion rate it has a massive impact on your customer and revenue growth",
+          "location": "1581",
+          "chapter": "It’s Just a Little Hacking; What Could Go Wrong?"
+        },
+        {
+          "color": "yellow",
+          "content": "new landing page was the first big win. When compared with the prior version, it converted visitors into buyers at nearly twice the rate of the prior page, a phenomenal improvement. To this day, I’m a huge believer in the power of Conversion Rate Experts’ objection-gathering and objection-addressing methodology. It’s something I urge marketers of all stripes to attempt on their own landing pages.",
+          "location": "1612",
+          "chapter": "It’s Just a Little Hacking; What Could Go Wrong?"
+        },
+        {
+          "color": "yellow",
+          "content": "In classic “growth hack” format, we made an offer with limited quantity to leverage scarcity bias, used a massively discounted price that was way below our usual rate (at the time, $79/month), and timeboxed the promotion with an expiration date. If the email sounds a little like one of those “limited-time offer” TV infomercials, that’s no coincidence. The same tactics apply to both.",
+          "location": "1633",
+          "chapter": "It’s Just a Little Hacking; What Could Go Wrong?"
+        }
+      ]
+    },
+    "They’re Called “Hacks” for a Reason": {
+      "index": 25,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "They’re Called “Hacks” for a Reason The email offer didn’t make our product better; it didn’t make our subscription stickier; it didn’t help people to do their jobs better. It simply created a short-term boost of attention that led to a lot of complex, long-term problems.",
+          "location": "1647",
+          "chapter": "They’re Called “Hacks” for a Reason"
+        },
+        {
+          "color": "yellow",
+          "content": "The subscribers who signed up via the $1 offer had a much lower retention rate than subscribers who’d signed up via a non-promotional offer.",
+          "location": "1650",
+          "chapter": "They’re Called “Hacks” for a Reason"
+        },
+        {
+          "color": "yellow",
+          "content": "Promotional pricing, especially when offered to a very large audience, creates an impression that discounts and special offers are part of a brand’s ethos, and that rather than signing up at full price, you, as a potential buyer, should wait until the next promotion launches.",
+          "location": "1656",
+          "chapter": "They’re Called “Hacks” for a Reason"
+        }
+      ]
+    },
+    "The Alternative: Sustainable Marketing Flywheels": {
+      "index": 26,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "The process of creating that content, amplifying it through various channels, reaching new audiences via that amplification, and bringing people back to our website is a powerful, ongoing system that drives millions of visitors and thousands of new software free trials each month. But like a flywheel, it took an immense amount of energy to get started, and only after it was rotating smoothly, growing its inertia, did it function in this friction-light fashion.",
+          "location": "1706",
+          "chapter": "The Alternative: Sustainable Marketing Flywheels"
+        },
+        {
+          "color": "yellow",
+          "content": "Pro Tip: If you have any type of subscription or recurring revenue, make sure you measure LTV (Lifetime Value—the total revenue customers spend during their relationship with your firm) by referral source(s) and by the number of visits prior to conversion. If your stats look like Moz’s, you’ll probably want to adopt a similar, slow-burn conversion process.",
+          "location": "1738",
+          "chapter": "The Alternative: Sustainable Marketing Flywheels"
+        }
+      ]
+    },
+    "Yes, but Is It TAGFEE?": {
+      "index": 27,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Values may not make you money in the short term, but they’re invaluable to any business in the long term. Values are not always easy. They force hard decisions. They can work against short-term growth. They restrict paths that might otherwise be open to pursuit. Establishing and adhering to core values carries great intrinsic and extrinsic benefits.",
+          "location": "1813",
+          "chapter": "Yes, but Is It TAGFEE?"
+        },
+        {
+          "color": "yellow",
+          "content": "TAGFEE started in 2007, when Moz’s first investor, Michelle Goldberg, gave me a copy of Good to Great, Jim Collins’s classic analysis of the elements that correlated with companies that achieved long-lasting greatness versus those that didn’t.",
+          "location": "1822",
+          "chapter": "Yes, but Is It TAGFEE?"
+        },
+        {
+          "color": "yellow",
+          "content": "Everything I’ve experienced as an entrepreneur, a CEO, an individual contributor, and a student of startups and business culture reinforces this concept: people who share core values and believe those values to be the most important part of their contribution to the world have the greatest potential to accomplish remarkable things together.",
+          "location": "1827",
+          "chapter": "Yes, but Is It TAGFEE?"
+        },
+        {
+          "color": "yellow",
+          "content": "The core values embodied in our credo might be a competitive advantage, but that is not why we have them. We have them because they define for us what we stand for, and we would hold them even if they became a competitive disadvantage in certain situations.—Ralph Larsen, former CEO of Johnson &",
+          "location": "1832",
+          "chapter": "Yes, but Is It TAGFEE?"
+        },
+        {
+          "color": "yellow",
+          "content": "Core values have proven their worth to me, as a founder, CEO, and employee, because they provide three powerful, unifying organizational forces:",
+          "location": "1870",
+          "chapter": "Yes, but Is It TAGFEE?"
+        },
+        {
+          "color": "yellow",
+          "content": "The first is a shared commitment among the team. In a company with hundreds of people, there will naturally be tension, disagreement, and occasional discord. But core values help everyone know, from the day they’re first interviewed, that unifying beliefs bind us together. Even when we disagree on how to accomplish our goals or on whether we have the right goals, we at least know that our deepest foundation is the same.",
+          "location": "1872",
+          "chapter": "Yes, but Is It TAGFEE?"
+        },
+        {
+          "color": "yellow",
+          "content": "The second is a set of blueprints for decision making. When we’re faced with a challenging decision, lots of data, intuition, and analysis will naturally be a part of the process. But these can be powerfully bolstered with our values acting as guardrails we stay inside.",
+          "location": "1878",
+          "chapter": "Yes, but Is It TAGFEE?"
+        },
+        {
+          "color": "yellow",
+          "content": "The third is evaluation criteria for retrospection. Most companies do some kind of retrospecting (looking back at previous decisions, projects, and investments to determine whether they were worthwhile), and use inputs like return-on-investment, cost/benefit analysis, and other varieties of metrics depending on the circumstance.",
+          "location": "1882",
+          "chapter": "Yes, but Is It TAGFEE?"
+        }
+      ]
+    },
+    "We Hold These Core Values to Be Self-Evident": {
+      "index": 28,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Let me make a few points about identifying core values, for without this stake firmly in the ground, there can be no effective alignment. First, you cannot “set” organizational values, you can only discover them. Nor can you “install” new core values into people. Core values are not something people “buy in” to. People must be predisposed to holding them. Executives often ask me, “How do we get people to share our core values?” You don’t. Instead, the task is to find people who are already predisposed to sharing your core values. You must attract and then retain these people and let those who aren’t predisposed to sharing your core values go elsewhere.—Jim Collins, “Aligning Action and Values”",
+          "location": "1892",
+          "chapter": "We Hold These Core Values to Be Self-Evident"
+        },
+        {
+          "color": "yellow",
+          "content": "In the professional world, we’re accustomed to hiring for competence. It’s been drilled into us by popular culture and long-held business practices that the goal of hiring is to recruit someone to the team who has demonstrated skill and experience in a similar role. That’s not a terrible thing to include in a hiring process, but if you want extraordinary results, it can’t be the only thing you seek out. Instead, you need a hiring process that considers core values and broad culture fit. Don’t arrogantly presume you can transform a person who isn’t predisposed to believe in or share your core values into someone who is.",
+          "location": "1902",
+          "chapter": "We Hold These Core Values to Be Self-Evident"
+        }
+      ]
+    },
+    "Values Demand Vigilance": {
+      "index": 29,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Take Maya Angelou’s advice: when someone shows you who they are, believe them the first time.",
+          "location": "1915",
+          "chapter": "Values Demand Vigilance"
+        },
+        {
+          "color": "yellow",
+          "content": "This company I’d built, that I’d worked so hard to make into a place that cared about people and values, had clearly changed. It wasn’t because we’d hired dozens of vindictive or evil assholes. It was because letting even a few people (and this example I’m sharing sadly wasn’t alone) break our core values repeatedly without visible action from leadership led to the normalization of discordant behavior.",
+          "location": "1930",
+          "chapter": "Values Demand Vigilance"
+        },
+        {
+          "color": "yellow",
+          "content": "There are three common ways values fail at organizations: First is when they’re viewed by the team as merely paper platitudes, hung on a plaque on the wall but not consistently enforced. If you overlook your stated values when they come into conflict with an employee who’s performing well (or perceived by managers to be performing well), you’re revealing reality—that performance (or perception and politicking) matters more than embraced values.",
+          "location": "1933",
+          "chapter": "Values Demand Vigilance"
+        },
+        {
+          "color": "yellow",
+          "content": "Real values have costs. They’re difficult to embody. A lot of people (but hopefully not the ones you recruit) will disagree with them. People internally and externally should, at least some of the time, view them as a barrier to making a financially beneficial decision. Real values are truths you hold to be more important than making money. They will come into conflict, and you’ll have to make that hard decision and show everyone on your team why you’re choosing that path, not just once, but over and over in order to instill the idea that values mean something at your organization.",
+          "location": "1944",
+          "chapter": "Values Demand Vigilance"
+        },
+        {
+          "color": "yellow",
+          "content": "If you’re not willing to sacrifice and to make money-costing and painful decisions that bias to your values, don’t bother having them. Say, instead, that your core values are financial growth and monetary success. You’ll attract like-minded people who appreciate your honesty.",
+          "location": "1949",
+          "chapter": "Values Demand Vigilance"
+        },
+        {
+          "color": "yellow",
+          "content": "Third is when values aren’t publicized at all and must be discovered over time through trial and error or by watching the reactions of scared employees in meetings with management. Working in environments like this is frustrating, tiring, and off-putting for those who can’t quickly learn or keep up with the system. Every company has unspoken rules and idiosyncrasies that take time to learn. But values should be explicit, because they act like the operating system for a person’s employment, affecting every action and decision they make.",
+          "location": "1957",
+          "chapter": "Values Demand Vigilance"
+        }
+      ]
+    },
+    "Homogeneity Hobbles Innovation": {
+      "index": 30,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Pro Tip: We use and love Textio (https://textio.com/) to analyze our job postings, about page, and other recruiting-focused content to make sure we’re using inclusive, unbiased language. It’s worth checking out and has a number of free and low-cost options.",
+          "location": "2088",
+          "chapter": "Homogeneity Hobbles Innovation"
+        },
+        {
+          "color": "yellow",
+          "content": "If you’re building a team from scratch or are in the early stages of recruiting and hiring, I hope you’ll learn from our mistakes and from the data. Hire people who share a belief of what deserves a promotion and a raise versus a reprimand or coaching. Hire people who are naturally inclined toward your values and who want a place that’s willing to sacrifice short-term growth or financial success in exchange for adherence to them. But don’t hire only the people who look like you and see the world through the same set of experiences. Bolster your potential for high performance and for broader customer empathy by intentionally seeking out diversity. These two elements, when combined, forge the underpinnings of a remarkable team.",
+          "location": "2095",
+          "chapter": "Homogeneity Hobbles Innovation"
+        }
+      ]
+    },
+    "The Case of the Disappearing Conversions": {
+      "index": 31,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "What did we get wrong? First, we built software in the worst possible way. Rather than creating a small kernel of the eventual finished product, then iterating and adding until we had a satisfyingly useful and high-quality deliverable, we designed a massive scope of work and asked large groups of engineers (both internal and contracted) to work on separate pieces that would then (supposedly) fit together.",
+          "location": "2131",
+          "chapter": "The Case of the Disappearing Conversions"
+        },
+        {
+          "color": "yellow",
+          "content": "Second, because of our delays, we felt insurmountable pressure to release as soon as possible. Even though customer testing a few weeks before launch revealed loads of bugs and dissatisfaction, our morale as a company and leadership team was so low that we were desperate for a release.",
+          "location": "2137",
+          "chapter": "The Case of the Disappearing Conversions"
+        },
+        {
+          "color": "yellow",
+          "content": "Third, we spent years building a product based entirely around a theory—one that proved to ultimately be false.",
+          "location": "2143",
+          "chapter": "The Case of the Disappearing Conversions"
+        },
+        {
+          "color": "yellow",
+          "content": "If you’re ever tasked with a large software project, learn from our mistake. Pare back your design until it’s the smallest possible element of what you eventually hope to have. Show that to people you trust and get their feedback. Iterate on the fundamentals. Then build it one element at a time. Add functionality, data, features, visual elements, etc., until you’ve got something new to show your trusted advisers and beta customers. But don’t release it broadly until the buzz you’re getting from these groups is firmly in the “we love this and can’t live without it” camp.",
+          "location": "2149",
+          "chapter": "The Case of the Disappearing Conversions"
+        }
+      ]
+    },
+    "If Life Swapping Isn’t an Option . . .": {
+      "index": 32,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "A handful of startup founders and startup product owners have taken the innovative step of volunteering a day, a week, or even a few months through an apprentice/internship (formally or informally) with their customers in order to learn what their day-to-day work, challenges, and current solutions look like. If you’re in the early stages and have the ability to *be* the customer you’re going to serve, even for a very limited period of time, I highly recommend it.",
+          "location": "2237",
+          "chapter": "If Life Swapping Isn’t an Option . . ."
+        }
+      ]
+    },
+    "Do MVPs Have to Be So Minimally Viable?": {
+      "index": 33,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "The problem with MVPs, and with the “something > nothing” model, is that if you launch to a large customer base or a broad community, you build brand association with that first version.",
+          "location": "2331",
+          "chapter": "Do MVPs Have to Be So Minimally Viable?"
+        },
+        {
+          "color": "yellow",
+          "content": "My theory about MVPs applies differently to different stages of your organization, based mostly on reach: For an early-stage company with little risk of brand damage and a relatively small following and low expectations, the MVP model can work wonderfully. You launch something as early as possible, you test your assumptions, you learn from your small but passionate audience, and then you iterate until you’ve got something extraordinary. Along the way, your (tiny) organization is associated with an ever-improving product, and by the time large groups of influencers and potential customers hear about you, you’re in great shape to be perceived as a leader and innovator.",
+          "location": "2343",
+          "chapter": "Do MVPs Have to Be So Minimally Viable?",
+          "notes": [
+            {
+              "color": "",
+              "content": "Mvp is great for early startups, maybe notfor established companies",
+              "location": "2347",
+              "chapter": "Do MVPs Have to Be So Minimally Viable?"
+            }
+          ]
+        },
+        {
+          "color": "yellow",
+          "content": "if you already have a big following with high expectations, publicly launching a traditional MVP (one that leans more to the “minimum” side of the acronym than the “viable” side) can be disastrous.",
+          "location": "2348",
+          "chapter": "Do MVPs Have to Be So Minimally Viable?"
+        }
+      ]
+    },
+    "The Alternative: An Exceptional Viable Product": {
+      "index": 34,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "It is absolutely the right move to first build an MVP. Developing every feature to perfection before you have anything people can test in the real world can be devastating. But as we saw in chapter 11, depending on your brand’s size and reach, and on the customers and potential customers you’ll influence with a launch, I’d urge you to consider whether a private launch of that MVP, with lots of testing, learning, and iteration to a smaller audience that knows they’re beta testing, could be the best path.",
+          "location": "2370",
+          "chapter": "The Alternative: An Exceptional Viable Product"
+        },
+        {
+          "color": "yellow",
+          "content": "For me, the lesson about MVPs versus EVPs was a powerful one. In the future, I don’t think I’d ever willingly publicly release a product that leans minimum rather than exceptional (at least, not with a brand that has any substantial reach).",
+          "location": "2461",
+          "chapter": "The Alternative: An Exceptional Viable Product"
+        }
+      ]
+    },
+    "The Founder’s Gambit": {
+      "index": 35,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "I’ve talked to dozens if not hundreds of founders about this exact phenomenon. Everyone who’s had an exit agrees that it brings with it an almost mystical sense of closure and accomplishment. And everyone who hasn’t yet confirms that same sense of striving and hopefulness and desperate desire to cross that mentally dominating finish line.",
+          "location": "2618",
+          "chapter": "The Founder’s Gambit"
+        }
+      ]
+    },
+    "Managing Is a Skill, Not a Prize": {
+      "index": 36,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "the line between being great at the work yourself and being a great manager of the people doing that work is largely disconnected. I will absolutely concede that much of the time, great people managers were good at, or at least performed, the jobs of their reports at one time or another. But that, my friends, is correlation, not causation. Just because most managers apply for and are promoted into their role by virtue of their IC work in that same arena does not mean that IC work is necessarily connected to effective management.",
+          "location": "2697",
+          "chapter": "Managing Is a Skill, Not a Prize"
+        },
+        {
+          "color": "yellow",
+          "content": "On the great teams I’ve observed in which the manager did not possess technical skills, there was often a surprising benefit: the team members themselves upgraded one another’s skills, mentored one another, and more often, took greater responsibility for the output of the work. I suspect that’s because in teams with managers who possess their own strong technical skills, the work gets done their way, and the improvement in skills tends to be clustered around the managers’ specific strengths. It also strikes me that because of the reliance on these highly skilled managers, there’s less individual effort given by the team’s members to explore and expand on their own.",
+          "location": "2717",
+          "chapter": "Managing Is a Skill, Not a Prize"
+        }
+      ]
+    },
+    "If People Have to Cry in the Bathroom, You’re Fucking Up": {
+      "index": 37,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "When teams felt safe expressing personal issues, sharing mistakes, and speaking up without the risk of harsh criticism or judgment, they dramatically outperformed their peers. This, above all other attributes researchers have been able to identify or measure, correlates with strong team output and work quality. Emotional comfort with one’s colleagues was a better predictor than IQ, than years of experience, than the strength of previous work, than literally any and everything else researchers had hypothesized about.",
+          "location": "2853",
+          "chapter": "If People Have to Cry in the Bathroom, You’re Fucking Up"
+        },
+        {
+          "color": "yellow",
+          "content": "My hypotheses are that (a) psychological safety in oneself and social sensitivity in those around you nudge all of these essential elements in the right direction and (b), perhaps more impactful, a lack of feeling safe and supported pushes all of them in the wrong direction.",
+          "location": "2890",
+          "chapter": "If People Have to Cry in the Bathroom, You’re Fucking Up"
+        },
+        {
+          "color": "yellow",
+          "content": "Pro Tip: Digging into this skepticism in group settings can be hard and uncomfortable, particularly for more introverted folks or those who don’t have experience working with a team. I’ve had far better luck taking the time to get folks in a room one-on-one, walking through the plans, and asking for their feedback, their questions, and their concerns. Yes, it’s much more time-consuming, but it also means that when you get into a room all together or buckle down to do the work, the big conflicts have already been thought through and worked through. This isn’t just for the sake of project contributors; it’s for leaders and managers, too.",
+          "location": "2909",
+          "chapter": "If People Have to Cry in the Bathroom, You’re Fucking Up"
+        }
+      ]
+    },
+    "What Safe Looks Like (and Doesn’t)": {
+      "index": 38,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "When people work together, our performance is governed not by individual genius or singular, outstanding contributions, but through complex interplay between the members of the group. Vulnerability and transparency in sharing our conflicts and concerns about work, about our teammates, and about our personal lives yields high-functioning, highly successful teams.",
+          "location": "2968",
+          "chapter": "What Safe Looks Like (and Doesn’t)"
+        }
+      ]
+    },
+    "CHAPTER 16: SELF-AWARENESS IS A SUPERPOWER": {
+      "index": 39,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Near the start of the session, Brad asked all the CEOs in the room to raise their hand if they had experienced severe anxiety, depression, or other emotional or mental disorders during their tenure as CEO. Every hand in the room went up, save two. At that moment, a sense of relief washed over me, so powerful I almost cried in my chair. I thought I was alone, a frail, former CEO who’d lost his job because he couldn’t handle the stress and pressure and caved in to depression. But those hands in the air made me realize I was far from alone—I was, in fact, part of an overwhelming majority, at least among this group. That mental transition from loneliness and shame to a peer among equals forever changed the way I thought about depression and the stigma around mental disorders. I am not alone. Neither are you.",
+          "location": "2983",
+          "chapter": "CHAPTER 16: SELF-AWARENESS IS A SUPERPOWER"
+        },
+        {
+          "color": "yellow",
+          "content": "To make progress on this spectrum, we have to be willing to accept that what we believe we know about ourselves may not be true, have the courage to question our beliefs, and start from a place without preexisting assumptions. I like how Dr. Jonathan Koomey phrases it in his blog post on intellectual honesty: Someone who is intellectually honest follows the facts where ever they may lead, and does so in spite of discomfort, inconvenience, or self-interest.",
+          "location": "3071",
+          "chapter": "CHAPTER 16: SELF-AWARENESS IS A SUPERPOWER"
+        },
+        {
+          "color": "yellow",
+          "content": "Pro Tip: When you invest in behaviors based on your newfound knowledge, don’t try to control the outcome, just the behavior. This holds equally true for your startup as for your emotional health. Because, as much as we wish we could, we never have full control over outcomes. We own our behavior, and some of the time (hopefully often), the right behaviors lead to the outcomes we want. Recognizing this is crucial, because many people and organizations reward outcomes rather than behavior. That can lead to punishing good behaviors if the outcome isn’t the desired one, even if the forces were outside our control. And it can lead to reinforcing bad behaviors simply because they led to a good outcome",
+          "location": "3101",
+          "chapter": "CHAPTER 16: SELF-AWARENESS IS A SUPERPOWER"
+        },
+        {
+          "color": "yellow",
+          "content": "Remember how “growth hacks” are almost always inferior to consistent investments in the right marketing channels and tactics for your strengths and your audience? The same principle applies to your life. It’s almost never the case that you’ll transform your personal psychology and manage your emotional and mental health long term with a single or even a handful of hacks. The “I was depressed but then I installed this great mindfulness app and now I’m teaching my therapist how to live a happy life” story goes right up there with “I was hooked on In-N-Out burgers and Pixy Stix; couldn’t program my way out of a Raspberry Pi. But I switched all my meals to Soylent and now I’m a lean, mean, code-crushin’ machine.” When you invest in a behavior, invest in *just* the behavior. Assess it based on its strengths and weaknesses, its costs and returns. Anti-work night didn’t solve my depression, so I stopped doing it for more than six months. But when I had the revelation that behaviors trump outcomes, I brought it back. I did the same with physical therapy and exercise. I skipped the mindfulness app, the meditation, the acupuncture, and the herbal medicines.",
+          "location": "3113",
+          "chapter": "CHAPTER 16: SELF-AWARENESS IS A SUPERPOWER"
+        },
+        {
+          "color": "yellow",
+          "content": "at Moz, we’ve invested in behaviors we believe are healthy, even when they don’t have consistently positive outcomes. Our approach to launching internal MVPs and iterating until they’re earning praise and accolades from industry influencers has had great results for some projects, and mediocre results for others, but we’re investing in the behavior. Conversely, we found performance reviews to be a behavior that wasn’t working for us, even though they could sometimes be connected to positive outcomes.",
+          "location": "3122",
+          "chapter": "CHAPTER 16: SELF-AWARENESS IS A SUPERPOWER"
+        },
+        {
+          "color": "yellow",
+          "content": "We have the power to change the ways we react and the way things make us feel. As my cousin-in-law Yvonne, a therapist, likes to say: “Feelings are not facts.” The same goes for strategy, even for vision. These are malleable things, within our control.",
+          "location": "3155",
+          "chapter": "CHAPTER 16: SELF-AWARENESS IS A SUPERPOWER"
+        }
+      ]
+    },
+    "And the Takeaway Is . . .": {
+      "index": 40,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "Negative experiences with brands tend to overwhelm every other data point (no one thinks “the team making the lawn mowers probably isn’t the same one that makes the cars; maybe I should give them a chance”). But positive experiences don’t have nearly the same strength of association. Human beings are wired to remember and internalize negative experiences with vastly greater force than positive ones, hence the much greater likelihood that you’ll leave a bad review than a good one. It’s not just the potential for negative experiences that carry over from product to product, though. The mere existence of multiple products from a brand causes cognitive strain and a weakening of memory and relevant associations. A company that makes only a single product is vastly easier to recall, amplify, and evaluate.",
+          "location": "3607",
+          "chapter": "And the Takeaway Is . . ."
+        },
+        {
+          "color": "yellow",
+          "content": "When you’re building a company from the ground up, for the first time, in a new field, with a new team, you need all the simplicity you can get. Everything is going to be uniquely challenging because you and your team haven’t seen it or done it before, and because market forces are inherently structured to benefit incumbents. The great strength startups usually have is that they can uniquely focus all their energy on just one thing, whereas their incumbent competitors have diverse efforts and responsibilities that impede progress. Losing focus and asking your small team(s) to take on more tasks rather than do one thing better costs you this critical advantage.",
+          "location": "3629",
+          "chapter": "And the Takeaway Is . . ."
+        },
+        {
+          "color": "yellow",
+          "content": "Switching costs in software is usually a big challenge for startups versus incumbents. If you become the default tool in a field or for a particular type of user, you can often maintain market leadership even if your competition produces a technically superior product. It’s why in order to compete, startups often need to be a vastly better choice along multiple dimensions (ease of use, features, data quality, price, etc.) than their entrenched competitors.",
+          "location": "3673",
+          "chapter": "And the Takeaway Is . . .",
+          "notes": [
+            {
+              "color": "",
+              "content": "Peter theils 10X rule",
+              "location": "3676",
+              "chapter": "And the Takeaway Is . . ."
+            }
+          ]
+        }
+      ]
+    },
+    "What Makes Focus So Hard?": {
+      "index": 41,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "When you’re an early-stage startup founder, your job is clear—find “product:market fit” (Silicon Valley–speak for “a product that a significant portion of customers in your market love, use, and will pay for”), then scale. Beyond that, things get murkier. Once you have “fit” and are scaling, your job is to find growth through any means possible. Greater growth means higher valuations, the ability to attract better talent, the envy of your peers, the coveted press and prestige, the possibility to sell your company or your stock and become wealthy; all of it is dependent on growth as measured by the percentage of year-over-year revenue addition (at least, in the case of companies with revenue). That bias rapidly leads to thinking along lines like “Our core product is growing, but I bet we could grow even faster if we . . .” Filling in that blank is dangerous, because it’s almost always occupied by something that adds complexity and removes focus. Maybe it’s new features you believe could get you more growth, or a whole new product line, or the acquisition of another company, or a few R&D projects that could yield the next big thing. Silicon Valley startup culture embeds founders with the false belief that because growth is what matters most, we should pursue any and all strategies that could lead us there.",
+          "location": "3705",
+          "chapter": "What Makes Focus So Hard?"
+        }
+      ]
+    },
+    "AFTERWORD: CHEAT CODES FOR NEXT TIME": {
+      "index": 42,
+      "highlights": [
+        {
+          "color": "yellow",
+          "content": "After all the struggles and hardship, the sixteen years of mostly awful, only sometimes awesome experiences, even I think there must be a volatile mix of masochism and insanity pumping through my veins. But here’s the thing: I love the journey, and if you’ve made it this far, perhaps you do (or will), too. Not all of it. Hell no. But there’s something undeniably special in the sense of accomplishment that comes from making payroll at the end of a month you started with no idea how you’d do it. Or the immense feeling of joy that comes from solving problems the way you want, rather than the way someone else prescribes. Or the camaraderie of late nights before a successful launch. Founders have these one-of-a-kind circumstances that become great stories and earn powerful shared experiences that resonate for years to come. If that journey calls to you, welcome. Welcome to this strange club of hard work and “everything’s riding on this”gambles. To the loneliness, the bittersweetness, the high-stakes, low-odds, brave new world you build yourself. Many of us who’ve chosen this path are cheering for you, supporting you, and hoping that what you learn will be shared openly for the benefit of those who follow.",
+          "location": "3727",
+          "chapter": "AFTERWORD: CHEAT CODES FOR NEXT TIME"
+        },
+        {
+          "color": "yellow",
+          "content": "Doing the work that I’ve just described can seem like it’s putting the cart before the horse. But I’d counter that asking these questions is a forcing function for greater thoughtfulness about your business as a whole and boosts the odds of surviving those early, perilous years. No matter what stage of life your organization is in today, my advice is to have a written, transparent road map. Plans change. The value of a team with a shared plan doesn’t.",
+          "location": "3838",
+          "chapter": "AFTERWORD: CHEAT CODES FOR NEXT TIME"
+        }
+      ]
     }
   }
 }

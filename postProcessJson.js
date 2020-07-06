@@ -1,8 +1,7 @@
-
 var fs = require('fs')
 
 
-let f = JSON.parse(fs.readFileSync("/Users/tshah/Documents/Else/t27/kindlehigh/results/chapterSplits/The Rosie Project: A Novel.json").toString())
+// let f = JSON.parse(fs.readFileSync("/Users/tshah/Documents/Else/t27/kindlehigh/results/chapterSplits/The Rosie Project: A Novel.json").toString())
 
 
 function chapterWiseSplitJson(bookdata) {
@@ -13,14 +12,14 @@ function chapterWiseSplitJson(bookdata) {
     currentChapter = "None"
     currentChapterIndex = 0
     highlights.forEach(element => {
-        if(element.chapter){
-            if(element.chapter != currentChapter) {
+        if (element.chapter) {
+            if (element.chapter != currentChapter) {
                 currentChapter = element.chapter
-                currentChapterIndex +=1
+                currentChapterIndex += 1
             }
             if (chapterHighlights[currentChapter] == undefined) {
                 chapterHighlights[currentChapter] = {
-                    "index":0,
+                    "index": 0,
                     "highlights": []
                 }
             }
@@ -41,30 +40,30 @@ function createJekyllCollectionFiles(bookdata) {
     // Add markdown highlight, with location and color(custom html embedded in md)
     // Add Notes beneath theh highlights, probably as code blocks
     chapterTitles.forEach(chapterTitle => {
-        mdContent+= `\n## ${chapterTitle}`
+        mdContent += `\n## ${chapterTitle}`
         let highlights = bookdata.chapterHighlights[chapterTitle].highlights
         highlights.forEach(highlight => {
             mdContent += `\n\n > ${highlight.content}\n`
-            if(highlight.notes) {
+            if (highlight.notes) {
                 let notes = highlight.notes
-                if(typeof notes === "string") {
+                if (typeof notes === "string") {
                     mdContent += `\n\nNotes:\`${notes}\`\n`
                 } else {
-                    mdContent+= "\nNotes:"
+                    mdContent += "\nNotes:"
                     notes.forEach(element => {
-                        mdContent +=`\n\n\`${element.content}\`\n`
+                        mdContent += `\n\n\`${element.content}\`\n`
                     });
                 }
             }
             mdContent += `\n| Location: ${highlight.location} |`
-            if(highlight.color) {
+            if (highlight.color) {
                 mdContent += ` \n Color: ${highlight.color} |`
             }
-            if(highlight.date) {
+            if (highlight.date) {
                 mdContent += ` \n Date: ${highlight.date} |`
             }
 
-            mdContent+="\n<br>"
+            mdContent += "\n<br>"
         });
         mdContent += "\n\n----------\n<br><br>\n"
     });

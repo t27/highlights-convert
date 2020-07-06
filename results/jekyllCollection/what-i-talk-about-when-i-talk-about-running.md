@@ -1,0 +1,184 @@
+---
+layout: highlight
+title: "What I Talk About When I Talk About Running"
+authors: "Haruki Murakami"
+---
+
+
+## Foreword
+
+ > Pain is inevitable. Suffering is optional. Say you’re running and you start to think, Man this hurts, I can’t take it anymore. The hurt part is an unavoidable reality, but whether or not you can stand any more is up to the runner himself.
+
+| Location: 33 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## Chapter Two
+
+ > Most people I knew had predicted that the bar wouldn’t do well. They figured that an establishment run as a kind of hobby wouldn’t work out, that somebody like me, who was pretty naive and most likely didn’t have the slightest aptitude for running a business, wouldn’t be able to make a go of it. Well, their predictions were totally off. To tell the truth, I didn’t think I had much aptitude for business either. I just figured, though, that since failure was not an option, I’d have to give it everything I had. My only strength has always been the fact that I work hard and can take a lot physically.
+
+| Location: 277 | 
+ Color: yellow |
+<br>
+
+ > Despite the objections of everybody else, I sold the business and, though a bit embarrassed about it, hung out my sign as a novelist and set out to make a living writing. “I’d just like to be free for two years to write,” I explained to my wife. “If it doesn’t work out we can always open up another little bar somewhere. I’m still young and we can always start over.” “All right,” she said. This was in 1981 and we still had a considerable amount of debt, but I figured I’d just do my best and see what happened.
+
+| Location: 344 | 
+ Color: yellow |
+<br>
+
+ > A problem arose, though, with my decision to become a professional writer: the question of how to keep physically fit. I tend to gain weight if I don’t do anything. Running the bar required hard physical labor every day, and I could keep my weight down, but once I started sitting at my desk all day writing, my energy level gradually declined and I started putting on the pounds.
+
+| Location: 358 | 
+ Color: yellow |
+<br>
+
+ > This can’t be good for me, I decided. If I wanted to have a long life as a novelist, I needed to find a way to keep fit and maintain a healthy weight.
+
+| Location: 362 | 
+ Color: yellow |
+<br>
+
+ > Running has a lot of advantages. First of all, you don’t need anybody else to do it, and no need for special equipment. You don’t have to go to any special place to do it. As long as you have running shoes and a good road you can run to your heart’s content. Tennis isn’t like that. You have to travel to a tennis court, and you need somebody to play with. Swimming you can do alone, but you still have to go to a pool.
+
+| Location: 364 | 
+ Color: yellow |
+<br>
+
+ > I never could stand being forced to do something I didn’t want to do at a time I didn’t want to do it. Whenever I was able to do something I liked to do, though, when I wanted to do it, and the way I wanted to do it, I’d give it everything I had.
+
+| Location: 376 | 
+ Color: yellow |
+<br>
+
+ > I’m struck by how, except when you’re young, you really need to prioritize in life, figuring out in what order you should divide up your time and energy. If you don’t get that sort of system set by a certain age, you’ll lack focus and your life will be out of balance. I placed the highest priority on the sort of life that lets me focus on writing, not associating with all the people around me.
+
+| Location: 405 | 
+ Color: yellow |
+<br>
+
+ > Even when I ran my bar I followed the same policy. A lot of customers came to the bar. If one out of ten enjoyed the place and said he’d come again, that was enough. If one out of ten was a repeat customer, then the business would survive. To put it the other way, it didn’t matter if nine out of ten didn’t like my bar. This realization lifted a weight off my shoulders. Still, I had to make sure that the one person who did like the place really liked it. In order to make sure he did, I had to make my philosophy and stance clear-cut, and patiently maintain that stance no matter what. This is what I learned through running a business.
+
+Notes:
+
+`Customer retention 101`
+
+| Location: 413 | 
+ Color: yellow |
+<br>
+
+ > When I first started running I couldn’t run long distances. I could only run for about twenty minutes, or thirty. That much left me panting, my heart pounding, my legs shaky. It was to be expected, though, since I hadn’t really exercised for a long time. At first, I was also a little embarrassed to have people in the neighborhood see me running—the same feeling I had upon first seeing the title novelist put in parentheses after my name. But as I continued to run, my body started to accept the fact that it was running, and I could gradually increase the distance. I was starting to acquire a runner’s form, my breathing became more regular, and my pulse settled down. The main thing was not the speed or distance so much as running every day, without taking a break. So, like my three meals a day—along with sleeping, housework, and work—running was incorporated into my daily routine. As it became a natural habit, I felt less embarrassed about it. I went to a sports store and purchased running gear and some decent shoes that suited my purpose. I bought a stopwatch, too, and read a beginners’ book on running. This is how you become a runner.
+
+| Location: 424 | 
+ Color: yellow |
+<br>
+
+ > In other words, let’s face it: Life is basically unfair. But even in a situation that’s unfair, I think it’s possible to seek out a kind of fairness. Of course, that might take time and effort. And maybe it won’t seem to be worth all that. It’s up to each individual to decide whether or not it is.
+
+| Location: 472 | 
+ Color: yellow |
+<br>
+
+ > To tell the truth, I don’t even think there’s that much correlation between my running every day and whether or not I have a strong will. I think I’ve been able to run for more than twenty years for a simple reason: It suits me. Or at least because I don’t find it all that painful. Human beings naturally continue doing things they like, and they don’t continue what they don’t like. Admittedly, something close to will does play a small part in that. But no matter how strong a will a person has, no matter how much he may hate to lose, if it’s an activity he doesn’t really care for, he won’t keep it up for long. Even if he did, it wouldn’t be good for him.
+
+| Location: 477 | 
+ Color: yellow |
+<br>
+
+ > Forcing people who have no desire to run, or who aren’t physically fit enough, is a kind of pointless torture. I always want to advise teachers not to force all junior and senior high school students to run the same course, but I doubt anybody’s going to listen to me. That’s what schools are like. The most important thing we ever learn at school is the fact that the most important things can’t be learned at school.
+
+| Location: 490 | 
+ Color: yellow |
+<br>
+
+ > Whenever I feel like I don’t want to run, I always ask myself the same thing: You’re able to make a living as a novelist, working at home, setting your own hours, so you don’t have to commute on a packed train or sit through boring meetings. Don’t you realize how fortunate you are? (Believe me, I do.) Compared to that, running an hour around the neighborhood is nothing, right? Whenever I picture packed trains and endless meetings, this gets me motivated all over again and I lace up my running shoes and set off without any qualms. If I can’t manage this much, I think, it’ll serve me right. I say this knowing full well that there are lots of people who’d pick riding a crowded train and attending meetings any day over running every day for an hour.
+
+| Location: 502 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## Chapter Three
+
+ > The gym where I work out in Tokyo has a poster that says, “Muscles are hard to get and easy to lose. Fat is easy to get and hard to lose.” A painful reality, but a reality all the same.
+
+| Location: 539 | 
+ Color: yellow |
+<br>
+
+ > Nothing in the real world is as beautiful as the illusions of a person about to lose consciousness.
+
+| Location: 713 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## Chapter Four
+
+ > The total amount of running I’m doing might be going down, but at least I’m following one of my basic rules for training: I never take two days off in a row. Muscles are like work animals that are quick on the uptake. If you carefully increase the load, step by step, they learn to take it. As long as you explain your expectations to them by actually showing them examples of the amount of work they have to endure, your muscles will comply and gradually get stronger. It doesn’t happen overnight, of course. But as long as you take your time and do it in stages, they won’t complain—aside from the occasional long face—and they’ll very patiently and obediently grow stronger. Through repetition you input into your muscles the message that this is how much work they have to perform. Our muscles are very conscientious. As long as we observe the correct procedure, they won’t complain. If, however, the load halts for a few days, the muscles automatically assume they don’t have to work that hard anymore, and they lower their limits.
+
+| Location: 749 | 
+ Color: yellow |
+<br>
+
+ > If I’m asked what the next most important quality is for a novelist, that’s easy too: focus—the ability to concentrate all your limited talents on whatever’s critical at the moment. Without that you can’t accomplish anything of value, while, if you can focus effectively, you’ll be able to compensate for an erratic talent or even a shortage of it.
+
+| Location: 817 | 
+ Color: yellow |
+<br>
+
+ > After focus, the next most important thing for a novelist is, hands down, endurance. If you concentrate on writing three or four hours a day and feel tired after a week of this, you’re not going to be able to write a long work. What’s needed for a writer of fiction—at least one who hopes to write a novel—is the energy to focus every day for half a year, or a year, two years.
+
+| Location: 823 | 
+ Color: yellow |
+<br>
+
+ > Fortunately, these two disciplines—focus and endurance—are different from talent, since they can be acquired and sharpened through training. You’ll naturally learn both concentration and endurance when you sit down every day at your desk and train yourself to focus on one point. This is a lot like the training of muscles I wrote of a moment ago. You have to continually transmit the object of your focus to your entire body, and make sure it thoroughly assimilates the information necessary for you to write every single day and concentrate on the work at hand.
+
+| Location: 828 | 
+ Color: yellow |
+<br>
+
+ > Writing novels, to me, is basically a kind of manual labor. Writing itself is mental labor, but finishing an entire book is closer to manual labor. It doesn’t involve heavy lifting, running fast, or leaping high.
+
+| Location: 838 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## Chapter Five
+
+ > Seeing a lot of water like that every day is probably an important thing for human beings. For human beings might be a bit of a generalization—but I do know it’s important for one person: me. If I go for a time without seeing water, I feel like something’s slowly draining out of me. It’s probably like the feeling a music lover has when, for whatever reason, he’s separated from music for a long time. The fact that I was raised near the sea might have something to do with it.
+
+| Location: 948 | 
+ Color: yellow |
+<br>
+
+ > If you just read a written speech as is, the whole thing will feel lifeless to the audience.
+
+| Location: 1069 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## Chapter Six
+
+ > Break one of my rules once, and I’m bound to break many more. And if I’d done that, it would have been next to impossible to finish this race.
+
+| Location: 1175 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>

@@ -1,25 +1,565 @@
 ---
 layout: highlight
 title: "Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered"
-authors: "Kleon, Austin"
+authors: "Austin Kleon"
 ---
 
 
-## Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered
+## 1. You Don’t Have to Be a Genius.
 
- > “Creativity is not a talent. It is a way of operating.” —John Cleese
+ > “a whole scene of people who were supporting each other, looking at each other’s work, copying from each other, stealing ideas, and contributing ideas.” Scenius doesn’t take away from the achievements of those great individuals; it just acknowledges that good work isn’t created in a vacuum, and that creativity is always, in some sense, a collaboration, the result of a mind connected to other minds.
 
-| Location: 1 | 
- Date: November 9, 2015 |
+| Location: 53 | 
+ Color: pink |
 <br>
 
- > I hate talking about self-promotion. Comedian Steve Martin famously dodges these questions with the advice, “Be so good they can’t ignore you.” If you just focus on getting really good, Martin says, people will come to you. I happen to agree: You don’t really find an audience for your work; they find you. But it’s not enough to be good. In order to be found, you have to be findable . I think there’s an easy way of putting your work out there and making it discoverable while you’re focused on getting really good at what you do. Almost all of the people I look up to and try to steal from today, regardless of their profession, have built sharing into their routine. These people aren’t schmoozing at cocktail parties; they’re too busy for that. They’re cranking away in their studios, their laboratories, or their cubicles, but instead of maintaining absolute secrecy and hoarding their work, they’re open about what they’re working on, and they’re consistently posting bits and pieces of their work, their ideas, and what they’re learning online. Instead of wasting their time “networking,” they’re taking advantage of the network. By generously sharing their ideas and their knowledge, they often gain an audience that they can then leverage when they need it—for fellowship, feedback, or patronage.
+ > We’re all terrified of being revealed as amateurs, but in fact, today it is the amateur—the enthusiast who pursues her work in the spirit of love (in French, the word means “lover”), regardless of the potential for fame, money, or career—who often has the advantage over the professional. Because they have little to lose, amateurs are willing to try anything and share the results. They take chances, experiment, and follow their whims. Sometimes, in the process of doing things in an unprofessional way, they make new discoveries. “In the beginner’s mind, there are many possibilities,” said Zen monk Shunryu Suzuki. “In the expert’s mind, there are few.”
 
+| Location: 71 | 
+ Color: yellow |
+<br>
 
-Notes:`“Creativity is not a talent. It is a way of operating. ” —John Cleese`
+ > Amateurs are not afraid to make mistakes or look ridiculous in public. They’re in love, so they don’t hesitate to do work that others think of as silly or just plain stupid. “The stupidest possible creative act is still a creative act,” writes Clay Shirky in his book Cognitive Surplus. “On the spectrum of creative work, the difference between the mediocre and the good is vast. Mediocrity is, however, still on the spectrum; you can move from mediocre to good in increments. The real gap is between doing nothing and doing something.” Amateurs know that contributing something is better than contributing nothing.
 
-| Location: 1 | 
- Date: November 9, 2015 |
+| Location: 75 | 
+ Color: blue |
+<br>
+
+ > The world is changing at such a rapid rate that it’s turning us all into amateurs. Even for professionals, the best way to flourish is to retain an amateur’s spirit and embrace uncertainty and the unknown.
+
+| Location: 90 | 
+ Color: blue |
+<br>
+
+ > whenever Yorke feels like his songwriting is getting too comfortable or stale, he’ll pick up an instrument he doesn’t know how to play and try to write with it.
+
+| Location: 92 | 
+ Color: blue |
+<br>
+
+ > This is yet another trait of amateurs—they’ll use whatever tools they can get their hands on to try to get their ideas into the world.
+
+| Location: 94 | 
+ Color: pink |
+<br>
+
+ > The best way to get started on the path to sharing your work is to think about what you want to learn, and make a commitment to learning it in front of others. Find a scenius, pay attention to what others are sharing, and then start taking note of what they’re not sharing. Be on the lookout for voids that you can fill with your own efforts, no matter how bad they are at first. Don’t worry, for now, about how you’ll make money or a career off it. Forget about being an expert or a professional, and wear your amateurism (your heart, your love) on your sleeve. Share what you love, and the people who love the same things will find you.
+
+| Location: 96 | 
+ Color: pink |
+<br>
+
+ > But now I realize that the only way to find your voice is to use it. It’s hardwired, built into you. Talk about the things you love. Your voice will follow.
+
+| Location: 104 | 
+ Color: pink |
+<br>
+
+ > It sounds a little extreme, but in this day and age, if your work isn’t online, it doesn’t exist.
+
+| Location: 117 | 
+ Color: yellow |
+<br>
+
+ > If you want people to know about what you do and the things you care about, you have to share.
+
+| Location: 119 | 
+ Color: yellow |
+<br>
+
+ > “Remembering that I’ll be dead soon is the most important tool I’ve ever encountered to help me make the big choices in life. Because almost everything—all external expectations, all pride, all fear of embarrassment or failure—these things just fall away in the face of death, leaving only what is truly important. Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked.”—Steve Jobs
+
+| Location: 121 | 
+ Color: yellow |
+<br>
+
+ > he was held up while working at a Long John Silver’s. “I realized I was going to die,” he says. “And when that gets into your mind . . . it utterly changed me . . . I thought, I’m not going to sit here and wait for things to happen, I’m going to make them happen, and if people think I’m an idiot I don’t care.”
+
+| Location: 129 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 2. Think Process, Not Product.
+
+ > “A lot of people are so used to just seeing the outcome of work. They never see the side of the work you go through to produce the outcome.”
+
+| Location: 149 | 
+ Color: yellow |
+<br>
+
+ > As in all kinds of work, there is a distinction between the painter’s process, and the products of her process.
+
+| Location: 153 | 
+ Color: yellow |
+<br>
+
+ > It Will Be Exhilarating. “By putting things out there, consistently, you can form a relationship with your customers. It allows them to see the person behind the products.” Audiences not only want to stumble across great work, but they, too, long to be creative and part of the creative process. By letting go of our egos and sharing our process, we allow for the possibility of people having an ongoing connection with us and our work, which helps us move more of our product.
+
+| Location: 172 | 
+ Color: yellow |
+<br>
+
+ > How can you show your work even when you have nothing to show? The first step is to scoop up the scraps and the residue of your process and shape them into some interesting bit of media that you can share. You have to turn the invisible into something other people can see. “You have to make stuff,” said journalist David Carr when he was asked if he had any advice for students. “No one is going to give a damn about your résumé; they want to see what you have made with your own little fingers.”
+
+| Location: 192 | 
+ Color: yellow |
+<br>
+
+ > Start a work journal: Write your thoughts down in a notebook, or speak them into an audio recorder. Keep a scrapbook. Take a lot of photographs of your work at different stages in your process. Shoot video of you working. This isn’t about making art, it’s about simply keeping track of what’s going on around you. Take advantage of all the cheap, easy tools at your disposal—these days, most of us carry a fully functional multimedia studio around in our smartphones.
+
+| Location: 196 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 3. Share Something Small Everyday.
+
+ > Once a day, after you’ve done your day’s work, go back to your documentation and find one little piece of your process that you can share. Where you are in your process will determine what that piece is. If you’re in the very early stages, share your influences and what’s inspiring you. If you’re in the middle of executing a project, write about your methods or share works in progress. If you’ve just completed a project, show the final product, share scraps from the cutting-room floor, or write about what you learned. If you have lots of projects out into the world, you can report on how they’re doing—you can tell stories about how people are interacting with your work.
+
+| Location: 211 | 
+ Color: yellow |
+<br>
+
+ > I like the tagline at dribbble.com: “What are you working on?” Stick to that question and you’ll be good. Don’t show your lunch or your latte; show your work.
+
+| Location: 232 | 
+ Color: yellow |
+<br>
+
+ > Don’t say you don’t have enough time. We’re all busy, but we all get 24 hours a day. People often ask me, “How do you find the time for all this?” And I answer, “I look for it.” You find time the same place you find spare change: in the nooks and crannies. You find it in the cracks between the big stuff—your commute, your lunch break, the few hours after your kids go to bed. You might have to miss an episode of your favorite TV show, you might have to miss an hour of sleep, but you can find the time if you look for it. I like to work while the world is sleeping, and share while the world is at work.
+
+| Location: 238 | 
+ Color: yellow |
+<br>
+
+ > Of course, don’t let sharing your work take precedence over actually doing your work. If you’re having a hard time balancing the two, just set a timer for 30 minutes. Once the timer goes off, kick yourself off the Internet and get back to work.
+
+| Location: 242 | 
+ Color: yellow |
+<br>
+
+ > “One day at a time. It sounds so simple. It actually is simple but it isn’t easy: It requires incredible support and fastidious structuring.”
+
+| Location: 244 | 
+ Color: yellow |
+<br>
+
+ > Always remember that anything you post to the Internet has now become public. “The Internet is a copy machine,” writes author Kevin Kelly. “Once anything that can be copied is brought into contact with the Internet, it will be copied, and those copies never leave.” Ideally, you want the work you post online to be copied and spread to every corner of the Internet, so don’t post things online that you’re not ready for everyone in the world to see. As publicist Lauren Cerand says, “Post as though everyone who can read it has the power to fire you.”
+
+| Location: 249 | 
+ Color: yellow |
+<br>
+
+ > share imperfect and unfinished work that you want feedback on, but don’t share absolutely everything. There’s a big, big difference between sharing and over-sharing.
+
+| Location: 253 | 
+ Color: yellow |
+<br>
+
+ > The act of sharing is one of generosity—you’re putting something out there because you think it might be helpful or entertaining to someone on the other side of the screen.
+
+| Location: 255 | 
+ Color: yellow |
+<br>
+
+ > Always be sure to run everything you share with others through The “So What?” Test.
+
+| Location: 259 | 
+ Color: yellow |
+<br>
+
+ > let it sit for 24 hours. Put it in a drawer and walk out the door. The next day, take it out and look at it with fresh eyes. Ask yourself, “Is this helpful? Is it entertaining? Is it something I’d be comfortable with my boss or my mother seeing?” There’s nothing wrong with saving things for later. The save as draft button is like a prophylactic—it might not feel as good in the moment, but you’ll be glad you used it in the morning.
+
+| Location: 260 | 
+ Color: yellow |
+<br>
+
+ > Once you make sharing part of your daily routine, you’ll notice themes and trends emerging in what you share. You’ll find patterns in your flow. When you detect these patterns, you can start gathering these bits and pieces and turn them into something bigger and more substantial. You can turn your flow into stock. For example, a lot of the ideas in this book started out as tweets, which then became blog posts, which then became book chapters. Small things, over time, can get big.
+
+| Location: 275 | 
+ Color: yellow |
+<br>
+
+ > So, if you get one thing out of this book make it this: Go register a domain name. Buy www.[insert your name here].com. If your name is common, or you don’t like your name, come up with a pseudonym or an alias, and register that. Then buy some web hosting and build a website.
+
+| Location: 290 | 
+ Color: yellow |
+<br>
+
+ > Don’t think of your website as a self-promotion machine, think of it as a self-invention machine. Online, you can become the person you really want to be. Fill your website with your work and your ideas and the stuff you care about. Over the years, you will be tempted to abandon it for the newest, shiniest social network. Don’t give in. Don’t let it fall into neglect. Think about it in the long term. Stick with it, maintain it, and let it change with you over time.
+
+| Location: 295 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 4. Open Up Your Cabinet of Curiosities.
+
+ > When you find things you genuinely enjoy, don’t let anyone else make you feel bad about it. Don’t feel guilty about the pleasure you take in the things you enjoy. Celebrate them.
+
+| Location: 351 | 
+ Color: yellow |
+<br>
+
+ > If you share the work of others, it’s your duty to make sure that the creators of that work get proper credit. Crediting work in our copy-and-paste age of reblogs and retweets can seem like a futile effort, but it’s worth it, and it’s the right thing to do. You should always share the work of others as if it were your own, treating it with respect and care.
+
+| Location: 358 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 5. Tell Good Stories.
+
+ > Finally, they listed each object on eBay, using the invented stories as the object’s description, and whatever they had originally paid for the object as the auction’s starting price. By the end of the experiment, they had sold $128.74 worth of trinkets for $3,612.51.
+
+| Location: 395 | 
+ Color: yellow |
+<br>
+
+ > Words matter. Artists love to trot out the tired line, “My work speaks for itself,” but the truth is, our work doesn’t speak for itself. Human beings want to know where things came from, how they were made, and who made them. The stories you tell about the work you do have a huge effect on how people feel and what they understand about your work, and how people feel and what they understand about your work effects how they value it.
+
+| Location: 398 | 
+ Color: yellow |
+<br>
+
+ > our audience is a human one, and humans want to connect. Personal stories can make the complex more tangible, spark associations, and offer entry into things that might otherwise leave one cold.”
+
+| Location: 403 | 
+ Color: yellow |
+<br>
+
+ > “‘The cat sat on a mat’ is not a story. ‘The cat sat on the dog’s mat’ is a story.”—John le Carré
+
+| Location: 409 | 
+ Color: yellow |
+<br>
+
+ > Sometimes we have to do a lot of cropping and editing to fit our lives into something that resembles a story. If you study the structure of stories, you start to see how they work, and once you know how they work, you can then start stealing story structures and filling them in with characters, situations, and settings from your own life.
+
+| Location: 416 | 
+ Color: yellow |
+<br>
+
+ > Emma Coats, a former storyboard artist at Pixar, outlined the basic structure of a fairy tale as a kind of Mad Lib that you can fill in with your own elements: “Once upon a time, there was _____. Every day, _____. One day, _____. Because of that, _____. Because of that, _____. Until finally, _____.” Pick your favorite story and try to fill in the blanks. It’s striking how often it works.
+
+| Location: 419 | 
+ Color: yellow |
+<br>
+
+ > Author John Gardner said the basic plot of nearly all stories is this: “A character wants something, goes after it despite opposition (perhaps including his own doubts), and so arrives at a win, lose, or draw.” I like Gardner’s plot formula because it’s also the shape of most creative work: You get a great idea, you go through the hard work of executing the idea, and then you release the idea out into the world, coming to a win, lose, or draw. Sometimes the idea succeeds, sometimes it fails, and more often than not, it does nothing at all. This simple formula can be applied to almost any type of work project: There’s the initial problem, the work done to solve the problem, and the solution.
+
+| Location: 423 | 
+ Color: yellow |
+<br>
+
+ > Every client presentation, every personal essay, every cover letter, every fund-raising request—they’re all pitches. They’re stories with the endings chopped off. A good pitch is set up in three acts: The first act is the past, the second act is the present, and the third act is the future. The first act is where you’ve been—what you want, how you came to want it, and what you’ve done so far to get it. The second act is where you are now in your work and how you’ve worked hard and used up most of your resources. The third act is where you’re going, and how exactly the person you’re pitching can help you get there. Like a Choose Your Own Adventure book, this story shape effectively turns your listener into the hero who gets to decide how it ends.
+
+| Location: 431 | 
+ Color: yellow |
+<br>
+
+ > Everybody loves a good story, but good storytelling doesn’t come easy to everybody. It’s a skill that takes a lifetime to master. So study the great stories and then go find some of your own. Your stories will get better the more you tell them.
+
+| Location: 440 | 
+ Color: yellow |
+<br>
+
+ > the dreaded question, “So, what do you do?” If you happen to be a doctor or a teacher or a lawyer or a plumber, congratulations. You may proceed without caution. For the rest of us, we’re going to need to practice our answers.
+
+| Location: 445 | 
+ Color: yellow |
+<br>
+
+ > You should be able to explain your work to a kindergartner, a senior citizen, and everybody in between. Of course, you always need to keep your audience in mind: The way you explain your work to your buddies at the bar is not the way you explain your work to your mother.
+
+| Location: 451 | 
+ Color: yellow |
+<br>
+
+ > Tell the truth and tell it with dignity and self-respect. If you’re a student, say you’re a student. If you work a day job, say you work a day job. (For years, I said, “By day I’m a web designer, and by night I write poetry.”) If you have a weird hybrid job, say something like, “I’m a writer who draws.” (I
+
+| Location: 455 | 
+ Color: yellow |
+<br>
+
+ > All the same principles apply when you start writing your bio. Bios are not the place to practice your creativity. We all like to think we’re more complex than a two-sentence explanation, but a two-sentence explanation is usually what the world wants from us. Keep it short and sweet. Strike all the adjectives from your bio. If you take photos, you’re not an “aspiring” photographer, and you’re not an “amazing” photographer, either. You’re a photographer. Don’t get cute. Don’t brag. Just state the facts. One more thing: Unless you are actually a ninja, a guru, or a rock star, don’t ever use any of those terms in your bio.
+
+| Location: 462 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 6. Teach What You Know.
+
+ > “The impulse to keep to yourself what you have learned is not only shameful, it is destructive. Anything you do not give freely and abundantly becomes lost to you. You open your safe and find ashes.”—Annie Dillard
+
+| Location: 471 | 
+ Color: pink |
+<br>
+
+ > When you teach someone how to do your work, you are, in effect, generating more interest in your work. People feel closer to your work because you’re letting them in on what you know.
+
+| Location: 501 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 7. Don’t Turn Into Human Spam.
+
+ > No matter how famous they get, the forward-thinking artists of today aren’t just looking for fans or passive consumers of their work, they’re looking for potential collaborators, or co-conspirators. These artists acknowledge that good work isn’t created in a vacuum, and that the experience of art is always a two-way street, incomplete without feedback.
+
+| Location: 523 | 
+ Color: yellow |
+<br>
+
+ > If you want fans, you have to be a fan first. If you want to be accepted by a community, you have to first be a good citizen of that community. If you’re only pointing to your own stuff online, you’re doing it wrong. You have to be a connector. The writer Blake Butler calls this being an open node. If you want to get, you have to give. If you want to be noticed, you have to notice. Shut up and listen once in a while. Be thoughtful. Be considerate. Don’t turn into human spam. Be an open node.
+
+| Location: 534 | 
+ Color: yellow |
+<br>
+
+ > practiced what I call The Vampire Test. It’s a simple way to know who you should let in and out of your life. If, after hanging out with someone you feel worn out and depleted, that person is a vampire. If, after hanging out with someone you still feel full of energy, that person is not a vampire. Of course, The Vampire Test works on many things in our lives, not just people—you can apply it to jobs, hobbies, places, etc.
+
+| Location: 565 | 
+ Color: yellow |
+<br>
+
+ > As you put yourself and your work out there, you will run into your fellow knuckleballers. These are your real peers—the people who share your obsessions, the people who share a similar mission to your own, the people with whom you share a mutual respect. There will only be a handful or so of them, but they’re so, so important. Do what you can to nurture your relationships with these people. Sing their praises to the universe. Invite them to collaborate. Show them work before you show anybody else. Call them on the phone and share your secrets. Keep them as close as you can.
+
+| Location: 581 | 
+ Color: yellow |
+<br>
+
+----------
+<br><br>
+
+## 8. Learn to Take a Punch.
+
+ > When you put your work out into the world, you have to be ready for the good, the bad, and the ugly. The more people come across your work, the more criticism you’ll face.
+
+| Location: 610 | 
+ Color: yellow |
+<br>
+
+ > Relax and breathe. The trouble with imaginative people is that we’re good at picturing the worst that could happen to us. Fear is often just the imagination taking a wrong turn. Bad criticism is not the end of the world. As far as I know, no one has ever died from a bad review. Take a deep breath and accept whatever comes.
+
+| Location: 612 | 
+ Color: yellow |
+<br>
+
+ > Strengthen your neck. The way to be able to take a punch is to practice getting hit a lot. Put out a lot of work. Let people take their best shot at it. Then make even more work and keep putting it out there. The more criticism you take, the more you realize it can’t hurt you.
+
+| Location: 616 | 
+ Color: yellow |
+<br>
+
+ > Roll with the punches. Keep moving. Every piece of criticism is an opportunity for new work.
+
+| Location: 618 | 
+ Color: yellow |
+<br>
+
+ > Having your work hated by certain people is a badge of honor.
+
+| Location: 620 | 
+ Color: yellow |
+<br>
+
+ > Protect your vulnerable areas. If you have work that is too sensitive or too close to you to be exposed to criticism, keep it hidden. But remember what writer Colin Marshall says: “Compulsive avoidance of embarrassment is a form of suicide.” If you spend your life avoiding vulnerability, you and your work will never truly connect with other people.
+
+| Location: 621 | 
+ Color: yellow |
+<br>
+
+ > Keep your balance. You have to remember that your work is something you do, not who you are. This is especially hard for artists to accept, as so much of what they do is personal. Keep close to your family, friends, and the people who love you for you, not just the work.
+
+| Location: 624 | 
+ Color: yellow |
+<br>
+
+ > A troll is a person who isn’t interested in improving your work, only provoking you with hateful, aggressive, or upsetting talk. You will gain nothing by engaging with these people. Don’t feed them, and they’ll usually go away.
+
+| Location: 630 | 
+ Color: blue |
+<br>
+
+----------
+<br><br>
+
+## 9. Sell Out.
+
+ > asking for money in return for your work is a leap you want to take only when you feel confident that you’re putting work out into the world that you think is truly worth something. Don’t be afraid to charge for your work, but put a price on it that you think is fair.
+
+| Location: 684 | 
+ Color: blue |
+<br>
+
+ > Even if you don’t have anything to sell right now, you should always be collecting email addresses from people who come across your work and want to stay in touch. Why email? You’ll notice a pattern with technology—often the most boring and utilitarian technologies are the ones that stick around the longest. Email is decades and decades old, but it’s nowhere close to being dead. Even though almost everybody hates it, everybody has an email address.
+
+| Location: 687 | 
+ Color: blue |
+<br>
+
+ > Don’t betray their trust and don’t push your luck. Build your list and treat it with respect. It will come in handy.
+
+| Location: 699 | 
+ Color: blue |
+<br>
+
+ > “We don’t make movies to make money, we make money to make more movies.”—Walt Disney
+
+| Location: 702 | 
+ Color: blue |
+<br>
+
+ > Yet a life of creativity is all about change—moving forward, taking chances, exploring new frontiers. “The real risk is in not changing,” said saxophonist John Coltrane. “I have to feel that I’m after something. If I make money, fine. But I’d rather be striving. It’s the striving, man, it’s that I want.”
+
+| Location: 710 | 
+ Color: pink |
+<br>
+
+ > Be ambitious. Keep yourself busy. Think bigger. Expand your audience. Don’t hobble yourself in the name of “keeping it real,” or “not selling out.” Try new things. If an opportunity comes along that will allow you to do more of the kind of work you want to do, say Yes. If an opportunity comes along that would mean more money, but less of the kind of work you want to do, say No.
+
+| Location: 712 | 
+ Color: blue |
+<br>
+
+ > When you have success, it’s important to use any dough, clout, or platform you’ve acquired to help along the work of the people who’ve helped you get to where you are. Extol your teachers, your mentors, your heroes, your influences, your peers, and your fans. Give them a chance to share their own work. Throw opportunities their way.
+
+| Location: 718 | 
+ Color: blue |
+<br>
+
+ > As a human being, you have a finite amount of time and attention. At some point, you have to switch from saying “yes” a lot to saying “no” a lot.
+
+| Location: 720 | 
+ Color: blue |
+<br>
+
+ > “The biggest problem of success is that the world conspires to stop you doing the thing that you do, because you are successful,” writes author Neil Gaiman.
+
+| Location: 722 | 
+ Color: pink |
+<br>
+
+ > You just have to be as generous as you can, but selfish enough to get your work done.
+
+| Location: 727 | 
+ Color: pink |
+<br>
+
+ > “Above all, recognize that if you have had success, you have also had luck—and with luck comes obligation. You owe a debt, and not just to your gods. You owe a debt to the unlucky.”—Michael Lewis
+
+| Location: 729 | 
+ Color: pink |
+<br>
+
+----------
+<br><br>
+
+## 10. Stick Around.
+
+ > Every career is full of ups and downs, and just like with stories, when you’re in the middle of living out your life and career, you don’t know whether you’re up or down or what’s about to happen next. “If you want a happy ending,” actor Orson Welles wrote, “that depends, of course, on where you stop your story.” Author F. Scott Fitzgerald wrote, “There are no second acts in American life,” but if you look around you’ll notice that not only are there second acts, there are third, fourth, and even fifth ones.
+
+| Location: 733 | 
+ Color: pink |
+<br>
+
+ > The people who get what they’re after are very often the ones who just stick around long enough. It’s very important not to quit prematurely.
+
+| Location: 738 | 
+ Color: pink |
+<br>
+
+ > As every author knows, your last book isn’t going to write your next one for you. A successful or failed project is no guarantee of another success or failure. Whether you’ve just won big or lost big, you still have to face the question “What’s next?”
+
+| Location: 756 | 
+ Color: pink |
+<br>
+
+ > Add all this together and you get a way of working I call chain-smoking. You avoid stalling out in your career by never losing momentum. Here’s how you do it: Instead of taking a break in between projects, waiting for feedback, and worrying about what’s next, use the end of one project to light up the next one. Just do the work that’s in front of you, and when it’s finished, ask yourself what you missed, what you could’ve done better, or what you couldn’t get to, and jump right into the next project. “We work because it’s a chain reaction, each subject leads to the next.”—Charles Eames
+
+| Location: 764 | 
+ Color: pink |
+<br>
+
+ > “The minute you stop wanting something you get it.”—Andy Warhol
+
+| Location: 770 | 
+ Color: pink |
+<br>
+
+ > The designer Stefan Sagmeister swears by the power of the sabbatical—every seven years, he shuts down his studio and takes a year off. His thinking is that we dedicate the first 25 years or so of our lives to learning, the next 40 to work, and the last 15 to retirement, so why not take 5 years off retirement and use them to break up the work years?
+
+| Location: 773 | 
+ Color: blue |
+<br>
+
+ > “Everything that we designed in the seven years following the first sabbatical had its roots in thinking done during that sabbatical.”
+
+| Location: 776 | 
+ Color: pink |
+<br>
+
+ > Commute. A moving train or subway car is the perfect time to write, doodle, read, or just stare out the window. (If you commute by car, audiobooks are a great way to safely tune out.) A commute happens twice a day, and it nicely separates our work life from our home life.
+
+| Location: 785 | 
+ Color: pink |
+<br>
+
+ > Exercise. Using our body relaxes our mind, and when our mind gets relaxed, it opens up to having new thoughts. Jump on the treadmill and let your mind go. If you’re like me and you hate exercise, get a dog—dogs won’t let you get away with missing a day.
+
+| Location: 787 | 
+ Color: yellow |
+<br>
+
+ > It’s very important to separate your work from the rest of your life. As my wife said to me, “If you never go to work, you never get to leave work.”
+
+| Location: 791 | 
+ Color: orange |
+<br>
+
+ > “Whenever Picasso learned how to do something, he abandoned it.”—Milton Glaser
+
+| Location: 795 | 
+ Color: yellow |
+<br>
+
+ > When you feel like you’ve learned whatever there is to learn from what you’re doing, it’s time to change course and find something new to learn so that you can move forward. You can’t be content with mastery; you have to push yourself to become a student again. “Anyone who isn’t embarrassed of who they were last year probably isn’t learning enough,” writes author Alain de Botton.
+
+| Location: 796 | 
+ Color: orange |
+<br>
+
+ > When you throw out old work, what you’re really doing is making room for new work.
+
+| Location: 803 | 
+ Color: orange |
+<br>
+
+ > The thing is, you never really start over. You don’t lose all the work that’s come before. Even if you try to toss it aside, the lessons that you’ve learned from it will seep into what you do next.
+
+| Location: 807 | 
+ Color: pink |
+<br>
+
+ > So don’t think of it as starting over. Think of it as beginning again. Go back to chapter one—literally!—and become an amateur. Look for something new to learn, and when you find it, dedicate yourself to learning it out in the open. Document your progress and share as you go so that others can learn along with you. Show your work, and when the right people show up, pay close attention to them, because they’ll have a lot to show you.
+
+| Location: 809 | 
+ Color: blue |
 <br>
 
 ----------
