@@ -48,7 +48,7 @@ function convertAllPlayBooksFiles() {
 function saveJson(converter) {
     if (converter.valid) {
         let res = converter.getJSON()
-        console.log(res.volume.title);
+        // console.log(res.volume.title);
         fs.writeFileSync(ResultDir + res.volume.title + ".json", JSON.stringify(res, null, 2))
         return true
     } else {
@@ -98,15 +98,31 @@ function createJekyllData() {
     })
 }
 
-// Step 1
-// convertAllPlayBooksFiles()
-// convertAllKindleFiles()
+if (process.argv.length < 3) {
+    console.log("Need an argument after index.js, for example \"index.js 1\"")
+}
+if (process.argv.length > 3) {
+    console.log("You're not running this command using run.sh[cant have more than 1 arg]")
+}
 
-// Step 2
-// chapterWiseIndexing()
 
-// Step3 
-createJekyllData()
+step = parseInt(process.argv[2])
+
+if (step == 1) {
+    // Step 1
+    convertAllPlayBooksFiles()
+    convertAllKindleFiles()
+} else if (step == 2) {
+    // Step 2
+    chapterWiseIndexing()
+} else if (step == 3) {
+    // Step3 
+    createJekyllData()
+} else {
+    console.log("only 1,2,3 are valid argument")
+}
+
+
 
 // NOTE: Currently the steps need to be executed in separate calls to index.json due to async ops
 
@@ -116,7 +132,7 @@ createJekyllData()
 /** Test Functions */
 
 function testSingleKindleFile() {
-    file = "/Users/tshah/Documents/Else/t27/kindlehigh/raw/KindleHighlights/Seven Brief Lessons on Physics - Notebook.html"
+    file = "/home/tarang/Code/highlights-convert/raw/KindleHighlights/Sapiens A Brief History of Humankind - Notebook.html"
     const kfile = fs.readFileSync(file)
     const kindleConverter = new KindleConverter(kfile);
 

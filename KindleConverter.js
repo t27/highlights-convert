@@ -78,7 +78,12 @@ Converter.prototype.highlights = function () {
             .trim();
         const text = heading.text().trim();
         const section = this.getHeading(el)
-        const location = text.match(/location\s(\d*)/i);
+        // Check if there is a "Location #" in the line (used to store the location of the object)
+        var location = text.match(/location\s(\d*)/i);
+        // If location is not found, try "Page"
+        if (!location) {
+            location = text.match(/>\sPage\s(\d *)/i);
+        }
 
         if (location) {
             if (text.match(/^Note -/i)) {
@@ -91,7 +96,7 @@ Converter.prototype.highlights = function () {
                 }
             } else {
                 highlights = highlights.concat(
-                    this.highlightContent(location[1], color, el,section)
+                    this.highlightContent(location[1], color, el, section)
                 );
             }
         }
