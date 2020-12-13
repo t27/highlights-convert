@@ -1,12 +1,17 @@
 # highlights-convert
 
-I maintain this project to convert my Kindle highlights to a webpage. I also store an intermediate data format in Json(for potential future use).
-I convert the Kindle HTML export format to a JSON and a HTML webpage, which I further export to a Jekyll website which can be found here tarangshah.com/books.
-I also had a few old books I read on Google Play Books that exported highlihghts in MS Word format. There is a parser for that as well.
+I maintain this project to convert my Kindle highlights to a webpage, and a few intermediate dataformats(that are easier to parse in code).
+
+The raw formate(Kindle HTML export format) to a JSON and a HTML webpage, which is further exported to a Jekyll website which can be found here http://tarangshah.com/books.
+
+I also had a few old books I read on Google Play Books that exported highlights in MS Word format. There is a parser for that as well.
 
 ## Content of the project
 
 1. Conversion scripts for Google Play Books(Exported to Drive) and Kindle Email export(HTML)
+    - `index.js` has the main code
+    - The main classes for parsing are in `KindleConvert.js` and `GooglePlayConverter.js`
+    - `renderer.js` and `postProcessJson.js` are used for the final document generation tasks
 2.  <details>
     <summary>Raw and intermediate highlight files</summary>
         {these were essentially text files and quite small in size, github seemed like the perfect place to store these files. You can find them in the "Raw" and "Results" folders}

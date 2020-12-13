@@ -1,3 +1,0 @@
-
-
-resultFolder = "./results/chapterSplits"
